@@ -123,11 +123,11 @@ class Main{
      */
     private static Map<String, List<Annotation>> getIndexes(Map<String, List<Annotation>> annos, File directory){
         List<Annotation> tempList;
-        String text, annoterm, filen, lastannoterm, searchterm;
+        String text, annoterm, filen, lastannoterm;
         int lastindex, termlength, tempstartindex, tempendindex,
                 lastcount, annocount, secwordnum, lastsecwordnum;
-        boolean flag = false;
-        List<String> badfiles = new ArrayList<>();
+        boolean flag = false; //***remove*** trouble-shooting
+        List<String> badfiles = new ArrayList<>(); //***remove*** trouble-shooting
 
         for(File inputFile : directory.listFiles()){
             filen = inputFile.toString();
@@ -151,7 +151,6 @@ class Main{
                     //search for indexes and assign to annotations
                     for(Annotation temp : tempList){
                         annoterm = temp.getTerm();
-                        searchterm = annoterm;
                         annocount = temp.getAnnoCount();
                         secwordnum = temp.getSecWordNum();
 
@@ -164,6 +163,7 @@ class Main{
                             annoterm = "ATP-binding cassette";
                         }
 
+                        //***remove*** trouble-shooting
                         if(filen.equals("15005800.txt") && annoterm.equals("antibodies") && tempstartindex >= 48000){
                             boolean bool = true;
                         }
@@ -186,6 +186,7 @@ class Main{
                         else if(lastannoterm.contains(annoterm) && (secwordnum-1 == lastsecwordnum ||
                         secwordnum-2 == lastsecwordnum)){
                             tempstartindex = text.indexOf(annoterm, tempstartindex);
+                            //***remove*** trouble-shooting
                             if(tempstartindex == -1){
                                 flag = true;
                             }
@@ -202,6 +203,7 @@ class Main{
                             termlength = annoterm.length();
 
                             tempstartindex = text.indexOf(annoterm, lastindex);
+                            //***remove*** trouble-shooting
                             if(tempstartindex == -1){
                                 flag = true;
                             }
@@ -214,6 +216,7 @@ class Main{
                             lastcount = annocount;
                             lastsecwordnum = secwordnum;
                         }
+                        //***remove*** trouble-shooting
                         if(flag){
                             flag = false;
                             if(!badfiles.contains(inputFile.toString())){
@@ -228,6 +231,7 @@ class Main{
                 }
             }
         }
+        //***remove*** trouble-shooting
         for(String file: badfiles){
             System.out.println(file);
         }
@@ -286,5 +290,7 @@ class Main{
 
         //print out tsv for each file
         writeOut(GOannotations, directory);
+
+        //***ISSUE*** Some starting indexes are set to -1
     }
 }
