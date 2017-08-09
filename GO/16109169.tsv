@@ -1,0 +1,635 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+76	85	GO:0008152	formation	metabolic process
+120	126	GO:0032502	embryo	developmental process
+182	189	GO:0003824	protein	catalytic activity
+299	312	GO:0032502	gastrulation	developmental process
+385	392	GO:0032502	embryo	developmental process
+393	395	GO:0065007	To	biological regulation
+393	395	GO:0009987	To	cellular process
+469	471	GO:0065007	to	biological regulation
+469	471	GO:0009987	to	cellular process
+480	489	GO:0009987	embryonic	cellular process
+480	489	GO:0065007	embryonic	biological regulation
+505	518	GO:0032502	morphogenesis	developmental process
+563	571	GO:0032502	embryos	developmental process
+670	677	GO:0032502	embryos	developmental process
+855	862	GO:0005215	Reduced	transporter activity
+855	862	GO:0008152	Reduced	metabolic process
+855	862	GO:0009987	Reduced	cellular process
+855	862	GO:0051234	Reduced	establishment of localization
+935	942	GO:0009987	reduced	cellular process
+935	942	GO:0008152	reduced	metabolic process
+935	942	GO:0005215	reduced	transporter activity
+935	942	GO:0051234	reduced	establishment of localization
+971	980	GO:0032502	head	developmental process
+971	987	GO:0032502	head development	developmental process
+1094	1096	GO:0065007	to	biological regulation
+1094	1096	GO:0009987	to	cellular process
+1579	1585	GO:0032502	embryo	developmental process
+1590	1599	GO:0008152	formation	metabolic process
+1695	1701	GO:0040007	growth	growth
+1706	1719	GO:0009987	transcription	cellular process
+1706	1719	GO:0008152	transcription	metabolic process
+1723	1726	GO:0065007	to	biological regulation
+1723	1726	GO:0009987	to	cellular process
+2093	2100	GO:0065007	neurons	biological regulation
+2093	2100	GO:0016265	neurons	death
+2093	2100	GO:0009987	neurons	cellular process
+2326	2333	GO:0003824	protein	catalytic activity
+2476	2478	GO:0065007	to	biological regulation
+2476	2478	GO:0009987	to	cellular process
+2509	2516	GO:0065007	neurons	biological regulation
+2509	2516	GO:0016265	neurons	death
+2509	2516	GO:0009987	neurons	cellular process
+2584	2592	GO:0003824	proteins	catalytic activity
+2623	2627	GO:0005623	cell	cell
+2753	2757	GO:0005623	cell	cell
+2957	2959	GO:0065007	to	biological regulation
+2957	2959	GO:0009987	to	cellular process
+3093	3100	GO:0003824	protein	catalytic activity
+3093	3110	GO:0032991	protein complexes	macromolecular complex
+3179	3186	GO:0003824	protein	catalytic activity
+3179	3194	GO:0005488	protein binding	binding
+3187	3194	GO:0005488	binding	binding
+3269	3287	GO:0009987	cellular processes	cellular process
+3319	3325	GO:0040007	growth	growth
+3329	3332	GO:0065007	to	biological regulation
+3329	3332	GO:0009987	to	cellular process
+3351	3364	GO:0009987	transcription	cellular process
+3351	3364	GO:0008152	transcription	metabolic process
+3461	3463	GO:0065007	to	biological regulation
+3461	3463	GO:0009987	to	cellular process
+3660	3662	GO:0065007	to	biological regulation
+3660	3662	GO:0009987	to	cellular process
+3855	3859	GO:0005623	cell	cell
+3909	3918	GO:0009987	embryonic	cellular process
+3909	3918	GO:0065007	embryonic	biological regulation
+3924	3929	GO:0005623	cells	cell
+3934	3941	GO:0065007	neurons	biological regulation
+3934	3941	GO:0016265	neurons	death
+3934	3941	GO:0009987	neurons	cellular process
+4052	4061	GO:0009987	embryonic	cellular process
+4052	4061	GO:0065007	embryonic	biological regulation
+4052	4073	GO:0032502	embryonic development	developmental process
+4153	4166	GO:0032502	gastrulation	developmental process
+4231	4243	GO:0032502	neurogenesis	developmental process
+4231	4243	GO:0009987	neurogenesis	cellular process
+4326	4333	GO:0032502	embryos	developmental process
+4456	4463	GO:0032502	embryos	developmental process
+4502	4509	GO:0009987	reduced	cellular process
+4502	4509	GO:0008152	reduced	metabolic process
+4502	4509	GO:0005215	reduced	transporter activity
+4502	4509	GO:0051234	reduced	establishment of localization
+4551	4555	GO:0032502	head	developmental process
+4704	4716	GO:0032502	gastrulation	developmental process
+4775	4780	GO:0005623	cells	cell
+4825	4829	GO:0005623	cell	cell
+4951	4957	GO:0009987	direct	cellular process
+4951	4957	GO:0008152	direct	metabolic process
+4982	4991	GO:0008152	formation	metabolic process
+5025	5031	GO:0032502	embryo	developmental process
+5226	5233	GO:0032502	embryos	developmental process
+5326	5340	GO:0051234	iron transport	establishment of localization
+5331	5340	GO:0051234	transport	establishment of localization
+5410	5421	GO:0016043	endocytosis	cellular component organization
+5410	5421	GO:0009987	endocytosis	cellular process
+5410	5421	GO:0051234	endocytosis	establishment of localization
+5462	5469	GO:0032502	embryos	developmental process
+5473	5482	GO:0009987	embryonic	cellular process
+5473	5482	GO:0065007	embryonic	biological regulation
+5488	5493	GO:0005623	cells	cell
+5555	5563	GO:0043226	nucleus	organelle
+5555	5563	GO:0044464	nucleus	cell part
+5604	5616	GO:0051179	localization	localization
+5624	5637	GO:0009987	transcription	cellular process
+5624	5637	GO:0008152	transcription	metabolic process
+5701	5714	GO:0009987	transcription	cellular process
+5701	5714	GO:0008152	transcription	metabolic process
+5732	5741	GO:0032502	embryo	developmental process
+5885	5894	GO:0009987	embryonic	cellular process
+5885	5894	GO:0065007	embryonic	biological regulation
+5910	5923	GO:0032502	morphogenesis	developmental process
+5966	5974	GO:0032502	embryos	developmental process
+6161	6167	GO:0040007	growth	growth
+6172	6185	GO:0009987	transcription	cellular process
+6172	6185	GO:0008152	transcription	metabolic process
+6226	6233	GO:0032502	embryos	developmental process
+6350	6352	GO:0065007	to	biological regulation
+6350	6352	GO:0009987	to	cellular process
+6368	6375	GO:0032502	embryo	developmental process
+6485	6487	GO:0065007	to	biological regulation
+6485	6487	GO:0009987	to	cellular process
+6604	6612	GO:0032502	embryos	developmental process
+6790	6794	GO:0044464	yolk	cell part
+6799	6812	GO:0032502	hematopoiesis	developmental process
+6816	6830	GO:0009987	vasculogenesis	cellular process
+6816	6830	GO:0032502	vasculogenesis	developmental process
+7039	7041	GO:0065007	To	biological regulation
+7039	7041	GO:0009987	To	cellular process
+7158	7164	GO:0032502	embryo	developmental process
+7230	7237	GO:0032502	embryos	developmental process
+7485	7489	GO:0032502	head	developmental process
+7662	7670	GO:0032502	embryos	developmental process
+7787	7794	GO:0032502	embryos	developmental process
+7854	7862	GO:0009987	reduced	cellular process
+7854	7862	GO:0008152	reduced	metabolic process
+7854	7862	GO:0005215	reduced	transporter activity
+7854	7862	GO:0051234	reduced	establishment of localization
+7919	7927	GO:0032502	embryos	developmental process
+7954	7956	GO:0065007	to	biological regulation
+7954	7956	GO:0009987	to	cellular process
+8046	8054	GO:0009987	reduced	cellular process
+8046	8054	GO:0008152	reduced	metabolic process
+8046	8054	GO:0005215	reduced	transporter activity
+8046	8054	GO:0051234	reduced	establishment of localization
+8153	8158	GO:0005623	cells	cell
+8235	8243	GO:0032502	embryos	developmental process
+8467	8474	GO:0032502	embryos	developmental process
+8580	8588	GO:0032502	embryos	developmental process
+8637	8645	GO:0009987	reduced	cellular process
+8637	8645	GO:0008152	reduced	metabolic process
+8637	8645	GO:0005215	reduced	transporter activity
+8637	8645	GO:0051234	reduced	establishment of localization
+8646	8658	GO:0003824	Asymmetrical	catalytic activity
+8688	8695	GO:0032502	embryos	developmental process
+8845	8852	GO:0009987	reduced	cellular process
+8845	8852	GO:0008152	reduced	metabolic process
+8845	8852	GO:0005215	reduced	transporter activity
+8845	8852	GO:0051234	reduced	establishment of localization
+8900	8907	GO:0032502	embryos	developmental process
+8996	9008	GO:0051179	localization	localization
+9030	9038	GO:0032502	embryos	developmental process
+9039	9046	GO:0032502	Embryos	developmental process
+9089	9091	GO:0065007	to	biological regulation
+9089	9091	GO:0009987	to	cellular process
+9148	9155	GO:0032502	Embryos	developmental process
+9205	9207	GO:0065007	To	biological regulation
+9205	9207	GO:0009987	To	cellular process
+9227	9246	GO:0032502	endoderm formation	developmental process
+9236	9246	GO:0008152	formation	metabolic process
+9303	9310	GO:0032502	embryos	developmental process
+9338	9346	GO:0032502	embryos	developmental process
+9376	9378	GO:0065007	to	biological regulation
+9376	9378	GO:0009987	to	cellular process
+9445	9452	GO:0032502	embryos	developmental process
+9627	9635	GO:0032502	embryos	developmental process
+9884	9891	GO:0009987	reduced	cellular process
+9884	9891	GO:0008152	reduced	metabolic process
+9884	9891	GO:0005215	reduced	transporter activity
+9884	9891	GO:0051234	reduced	establishment of localization
+9958	9967	GO:0008152	formation	metabolic process
+10008	10016	GO:0032502	embryos	developmental process
+10017	10019	GO:0065007	To	biological regulation
+10017	10019	GO:0009987	To	cellular process
+10062	10080	GO:0032502	mesoderm formation	developmental process
+10071	10080	GO:0008152	formation	metabolic process
+10091	10099	GO:0032502	embryos	developmental process
+10136	10144	GO:0032502	embryos	developmental process
+10379	10383	GO:0032502	head	developmental process
+10493	10501	GO:0032502	embryos	developmental process
+10555	10560	GO:0005623	cells	cell
+10650	10652	GO:0065007	to	biological regulation
+10650	10652	GO:0009987	to	cellular process
+10653	10658	GO:0005623	cells	cell
+10679	10681	GO:0065007	to	biological regulation
+10679	10681	GO:0009987	to	cellular process
+10755	10764	GO:0009987	embryonic	cellular process
+10755	10764	GO:0065007	embryonic	biological regulation
+10823	10830	GO:0044464	chorion	cell part
+10949	10954	GO:0005623	cells	cell
+11094	11101	GO:0044464	chorion	cell part
+11223	11230	GO:0032502	embryos	developmental process
+11439	11447	GO:0032502	embryos	developmental process
+11486	11495	GO:0008152	formation	metabolic process
+11602	11609	GO:0032502	embryos	developmental process
+11795	11803	GO:0032502	embryos	developmental process
+11823	11831	GO:0032502	embryos	developmental process
+11935	11942	GO:0009987	reduced	cellular process
+11935	11942	GO:0008152	reduced	metabolic process
+11935	11942	GO:0005215	reduced	transporter activity
+11935	11942	GO:0051234	reduced	establishment of localization
+11953	11960	GO:0032502	embryos	developmental process
+11979	11991	GO:0051179	localization	localization
+12010	12012	GO:0065007	to	biological regulation
+12010	12012	GO:0009987	to	cellular process
+12061	12068	GO:0032502	embryos	developmental process
+12170	12177	GO:0009987	reduced	cellular process
+12170	12177	GO:0008152	reduced	metabolic process
+12170	12177	GO:0005215	reduced	transporter activity
+12170	12177	GO:0051234	reduced	establishment of localization
+12188	12195	GO:0032502	embryos	developmental process
+12282	12289	GO:0032502	Embryos	developmental process
+12348	12350	GO:0065007	to	biological regulation
+12348	12350	GO:0009987	to	cellular process
+12361	12368	GO:0032502	Embryos	developmental process
+12523	12531	GO:0044464	chorion	cell part
+12537	12546	GO:0009987	embryonic	cellular process
+12537	12546	GO:0065007	embryonic	biological regulation
+12646	12653	GO:0032502	embryos	developmental process
+12687	12692	GO:0005623	cells	cell
+12821	12848	GO:0032502	paraxial mesoderm formation	developmental process
+12830	12848	GO:0032502	mesoderm formation	developmental process
+12839	12848	GO:0008152	formation	metabolic process
+12873	12881	GO:0032502	embryos	developmental process
+12990	12995	GO:0005623	cells	cell
+13002	13004	GO:0065007	to	biological regulation
+13002	13004	GO:0009987	to	cellular process
+13181	13183	GO:0065007	to	biological regulation
+13181	13183	GO:0009987	to	cellular process
+13208	13212	GO:0032502	head	developmental process
+13263	13270	GO:0009987	reduced	cellular process
+13263	13270	GO:0008152	reduced	metabolic process
+13263	13270	GO:0005215	reduced	transporter activity
+13263	13270	GO:0051234	reduced	establishment of localization
+13292	13300	GO:0032502	embryos	developmental process
+13324	13353	GO:0032502	paraxial mesoderm development	developmental process
+13333	13353	GO:0032502	mesoderm development	developmental process
+13365	13372	GO:0005215	Reduced	transporter activity
+13365	13372	GO:0008152	Reduced	metabolic process
+13365	13372	GO:0009987	Reduced	cellular process
+13365	13372	GO:0051234	Reduced	establishment of localization
+13416	13418	GO:0065007	to	biological regulation
+13416	13418	GO:0009987	to	cellular process
+13450	13457	GO:0032502	embryos	developmental process
+13523	13530	GO:0032502	embryos	developmental process
+13621	13626	GO:0005623	cells	cell
+13751	13777	GO:0032502	primitive streak formation	developmental process
+13768	13777	GO:0008152	formation	metabolic process
+13804	13811	GO:0009987	reduced	cellular process
+13804	13811	GO:0008152	reduced	metabolic process
+13804	13811	GO:0005215	reduced	transporter activity
+13804	13811	GO:0051234	reduced	establishment of localization
+13822	13849	GO:0032502	paraxial mesoderm formation	developmental process
+13831	13849	GO:0032502	mesoderm formation	developmental process
+13840	13849	GO:0008152	formation	metabolic process
+13917	13923	GO:0040007	growth	growth
+13972	13974	GO:0065007	To	biological regulation
+13972	13974	GO:0009987	To	cellular process
+14036	14045	GO:0023052	signaling	signaling
+14173	14182	GO:0008152	formation	metabolic process
+14410	14412	GO:0065007	to	biological regulation
+14410	14412	GO:0009987	to	cellular process
+14434	14440	GO:0032502	embryo	developmental process
+14441	14443	GO:0065007	to	biological regulation
+14441	14443	GO:0009987	to	cellular process
+14478	14490	GO:0003824	asymmetrical	catalytic activity
+14589	14591	GO:0065007	to	biological regulation
+14589	14591	GO:0009987	to	cellular process
+14653	14660	GO:0032502	embryos	developmental process
+14854	14861	GO:0032502	embryos	developmental process
+14894	14901	GO:0032502	embryos	developmental process
+14932	14934	GO:0065007	to	biological regulation
+14932	14934	GO:0009987	to	cellular process
+14945	14953	GO:0032502	embryos	developmental process
+15011	15013	GO:0065007	to	biological regulation
+15011	15013	GO:0009987	to	cellular process
+15055	15062	GO:0032502	embryos	developmental process
+15279	15281	GO:0065007	to	biological regulation
+15279	15281	GO:0009987	to	cellular process
+15360	15375	GO:0008152	gene expression	metabolic process
+15400	15408	GO:0032502	embryos	developmental process
+15438	15445	GO:0032502	embryos	developmental process
+15497	15504	GO:0032502	embryos	developmental process
+15540	15547	GO:0032502	embryos	developmental process
+15649	15656	GO:0032502	embryos	developmental process
+15679	15686	GO:0032502	embryos	developmental process
+15821	15828	GO:0032502	embryos	developmental process
+15906	15911	GO:0005623	cells	cell
+15950	15957	GO:0032502	embryos	developmental process
+16018	16025	GO:0032502	embryos	developmental process
+16114	16118	GO:0032502	head	developmental process
+16136	16143	GO:0032502	embryos	developmental process
+16176	16180	GO:0005623	cell	cell
+16198	16205	GO:0032502	embryos	developmental process
+16241	16248	GO:0032502	embryos	developmental process
+16321	16328	GO:0032502	embryos	developmental process
+16370	16377	GO:0032502	embryos	developmental process
+16383	16390	GO:0032502	Embryos	developmental process
+16462	16464	GO:0065007	to	biological regulation
+16462	16464	GO:0009987	to	cellular process
+16475	16482	GO:0032502	Embryos	developmental process
+16520	16529	GO:0023052	signaling	signaling
+16559	16571	GO:0032502	gastrulation	developmental process
+16585	16592	GO:0032502	embryo	developmental process
+16614	16618	GO:0005623	cell	cell
+16614	16628	GO:0009987	cell migration	cellular process
+16614	16628	GO:0040011	cell migration	locomotion
+16687	16689	GO:0065007	to	biological regulation
+16687	16689	GO:0009987	to	cellular process
+16697	16706	GO:0008152	formation	metabolic process
+16775	16777	GO:0065007	to	biological regulation
+16775	16777	GO:0009987	to	cellular process
+16871	16876	GO:0005623	cells	cell
+16946	16954	GO:0032502	embryos	developmental process
+17047	17056	GO:0065007	to	biological regulation
+17047	17056	GO:0009987	to	cellular process
+17298	17305	GO:0032502	embryos	developmental process
+17429	17436	GO:0032502	embryos	developmental process
+17447	17449	GO:0065007	to	biological regulation
+17447	17449	GO:0009987	to	cellular process
+17630	17632	GO:0065007	to	biological regulation
+17630	17632	GO:0009987	to	cellular process
+17633	17646	GO:0032502	gastrulation	developmental process
+17860	17868	GO:0032502	embryos	developmental process
+17956	17962	GO:0032502	embryo	developmental process
+17982	17987	GO:0005623	cells	cell
+17997	17999	GO:0065007	to	biological regulation
+17997	17999	GO:0009987	to	cellular process
+18006	18017	GO:0065007	to	biological regulation
+18006	18017	GO:0009987	to	cellular process
+18255	18268	GO:0009987	transcription	cellular process
+18255	18268	GO:0008152	transcription	metabolic process
+18338	18347	GO:0023052	signaling	signaling
+18388	18395	GO:0032502	embryos	developmental process
+18449	18458	GO:0009987	embryonic	cellular process
+18449	18458	GO:0065007	embryonic	biological regulation
+18696	18704	GO:0032502	embryos	developmental process
+18715	18728	GO:0009987	transcription	cellular process
+18715	18728	GO:0008152	transcription	metabolic process
+18974	18986	GO:0032502	gastrulation	developmental process
+19057	19062	GO:0005623	cells	cell
+19141	19149	GO:0032502	embryos	developmental process
+19296	19303	GO:0032502	embryos	developmental process
+19313	19315	GO:0065007	to	biological regulation
+19313	19315	GO:0009987	to	cellular process
+19326	19333	GO:0032502	embryos	developmental process
+19363	19376	GO:0009987	transcription	cellular process
+19363	19376	GO:0008152	transcription	metabolic process
+19460	19467	GO:0032502	embryos	developmental process
+19526	19533	GO:0032502	embryos	developmental process
+19631	19639	GO:0032502	embryos	developmental process
+19787	19795	GO:0032502	embryos	developmental process
+20065	20073	GO:0032502	embryos	developmental process
+20187	20194	GO:0032502	embryos	developmental process
+20207	20209	GO:0065007	to	biological regulation
+20207	20209	GO:0009987	to	cellular process
+20217	20224	GO:0032502	embryos	developmental process
+20343	20351	GO:0032502	embryos	developmental process
+20381	20390	GO:0023052	signaling	signaling
+20566	20574	GO:0032502	embryos	developmental process
+20607	20609	GO:0065007	to	biological regulation
+20607	20609	GO:0009987	to	cellular process
+20654	20661	GO:0032502	embryos	developmental process
+20679	20686	GO:0032502	embryos	developmental process
+20702	20712	GO:0016265	germ cells	death
+20702	20712	GO:0009987	germ cells	cellular process
+20702	20712	GO:0032502	germ cells	developmental process
+20702	20712	GO:0022414	germ cells	reproductive process
+20707	20712	GO:0005623	cells	cell
+20774	20781	GO:0032502	embryos	developmental process
+20807	20816	GO:0023052	signaling	signaling
+20843	20849	GO:0065007	to	biological regulation
+20843	20849	GO:0009987	to	cellular process
+20926	20933	GO:0032502	embryos	developmental process
+20947	20949	GO:0065007	to	biological regulation
+20947	20949	GO:0009987	to	cellular process
+20960	20967	GO:0032502	embryos	developmental process
+21039	21046	GO:0032502	embryos	developmental process
+21116	21126	GO:0008152	formation	metabolic process
+21127	21131	GO:0032502	head	developmental process
+21143	21145	GO:0065007	to	biological regulation
+21143	21145	GO:0009987	to	cellular process
+21161	21169	GO:0032502	embryos	developmental process
+21241	21249	GO:0032502	embryos	developmental process
+21330	21334	GO:0032502	head	developmental process
+21353	21358	GO:0032502	head	developmental process
+21408	21415	GO:0032502	embryos	developmental process
+21425	21427	GO:0065007	to	biological regulation
+21425	21427	GO:0009987	to	cellular process
+21493	21500	GO:0032502	Embryos	developmental process
+21563	21565	GO:0065007	to	biological regulation
+21563	21565	GO:0009987	to	cellular process
+21576	21583	GO:0032502	Embryos	developmental process
+21789	21798	GO:0008152	formation	metabolic process
+21846	21855	GO:0023052	signaling	signaling
+21931	21937	GO:0065007	to	biological regulation
+21931	21937	GO:0009987	to	cellular process
+21968	21970	GO:0065007	to	biological regulation
+21968	21970	GO:0009987	to	cellular process
+22078	22087	GO:0008152	formation	metabolic process
+22158	22164	GO:0032502	embryo	developmental process
+22314	22320	GO:0065007	to	biological regulation
+22314	22320	GO:0009987	to	cellular process
+22375	22381	GO:0065007	to	biological regulation
+22375	22381	GO:0009987	to	cellular process
+22537	22544	GO:0032502	embryos	developmental process
+22545	22547	GO:0065007	To	biological regulation
+22545	22547	GO:0009987	To	cellular process
+22560	22569	GO:0023052	signaling	signaling
+22628	22638	GO:0016265	germ cells	death
+22628	22638	GO:0009987	germ cells	cellular process
+22628	22638	GO:0032502	germ cells	developmental process
+22628	22638	GO:0022414	germ cells	reproductive process
+22633	22638	GO:0005623	cells	cell
+22850	22857	GO:0032502	embryos	developmental process
+22862	22891	GO:0003824	alkaline phosphatase activity	catalytic activity
+22871	22891	GO:0003824	phosphatase activity	catalytic activity
+22936	22944	GO:0032502	embryos	developmental process
+22966	22975	GO:0023052	signaling	signaling
+23086	23095	GO:0032502	embryo	developmental process
+23348	23357	GO:0023052	signaling	signaling
+23388	23396	GO:0032502	embryos	developmental process
+23503	23511	GO:0032502	embryos	developmental process
+23541	23543	GO:0065007	to	biological regulation
+23541	23543	GO:0009987	to	cellular process
+23587	23595	GO:0032502	embryos	developmental process
+23849	23856	GO:0032502	embryos	developmental process
+23871	23873	GO:0065007	to	biological regulation
+23871	23873	GO:0009987	to	cellular process
+23960	23969	GO:0008152	formation	metabolic process
+23999	24003	GO:0032502	head	developmental process
+24043	24051	GO:0032502	embryos	developmental process
+24063	24065	GO:0065007	to	biological regulation
+24063	24065	GO:0009987	to	cellular process
+24091	24098	GO:0032502	embryos	developmental process
+24133	24137	GO:0032502	head	developmental process
+24145	24152	GO:0032502	embryos	developmental process
+24190	24192	GO:0065007	to	biological regulation
+24190	24192	GO:0009987	to	cellular process
+24258	24265	GO:0032502	embryos	developmental process
+24276	24278	GO:0065007	to	biological regulation
+24276	24278	GO:0009987	to	cellular process
+24287	24291	GO:0032502	head	developmental process
+24361	24368	GO:0032502	embryos	developmental process
+24430	24437	GO:0032502	embryos	developmental process
+24448	24450	GO:0065007	to	biological regulation
+24448	24450	GO:0009987	to	cellular process
+24533	24540	GO:0032502	embryos	developmental process
+24552	24554	GO:0065007	to	biological regulation
+24552	24554	GO:0009987	to	cellular process
+24563	24577	GO:0032502	organogenesis	developmental process
+24600	24602	GO:0065007	to	biological regulation
+24600	24602	GO:0009987	to	cellular process
+24688	24697	GO:0009987	embryonic	cellular process
+24688	24697	GO:0065007	embryonic	biological regulation
+24741	24743	GO:0065007	to	biological regulation
+24741	24743	GO:0009987	to	cellular process
+24830	24832	GO:0065007	to	biological regulation
+24830	24832	GO:0009987	to	cellular process
+24847	24849	GO:0065007	to	biological regulation
+24847	24849	GO:0009987	to	cellular process
+24939	24941	GO:0065007	to	biological regulation
+24939	24941	GO:0009987	to	cellular process
+24945	24958	GO:0051704	pathogenesis	multi-organism process
+25051	25064	GO:0032502	gastrulation	developmental process
+25079	25081	GO:0065007	to	biological regulation
+25079	25081	GO:0009987	to	cellular process
+25121	25136	GO:0008152	gene expression	metabolic process
+25158	25166	GO:0032502	embryos	developmental process
+25250	25259	GO:0008152	formation	metabolic process
+25690	25700	GO:0008152	formation	metabolic process
+25721	25730	GO:0008152	formation	metabolic process
+25902	25913	GO:0016265	germ cells	death
+25902	25913	GO:0009987	germ cells	cellular process
+25902	25913	GO:0032502	germ cells	developmental process
+25902	25913	GO:0022414	germ cells	reproductive process
+25907	25913	GO:0005623	cells	cell
+25956	25964	GO:0032502	embryos	developmental process
+26075	26082	GO:0032502	embryos	developmental process
+26113	26121	GO:0032502	embryos	developmental process
+26198	26206	GO:0032502	embryos	developmental process
+26254	26256	GO:0065007	to	biological regulation
+26254	26256	GO:0009987	to	cellular process
+26427	26434	GO:0032502	embryos	developmental process
+26435	26437	GO:0065007	to	biological regulation
+26435	26437	GO:0009987	to	cellular process
+26523	26529	GO:0009987	direct	cellular process
+26523	26529	GO:0008152	direct	metabolic process
+26787	26789	GO:0065007	to	biological regulation
+26787	26789	GO:0009987	to	cellular process
+26881	26896	GO:0008152	gene expression	metabolic process
+26955	26963	GO:0032502	embryos	developmental process
+27012	27019	GO:0032502	embryos	developmental process
+27140	27147	GO:0044464	chorion	cell part
+27230	27237	GO:0065007	to	biological regulation
+27230	27237	GO:0009987	to	cellular process
+27363	27370	GO:0032502	embryos	developmental process
+27416	27425	GO:0023052	signaling	signaling
+27470	27479	GO:0023052	signaling	signaling
+27561	27568	GO:0032502	embryos	developmental process
+27596	27605	GO:0051234	transport	establishment of localization
+27610	27619	GO:0051234	secretion	establishment of localization
+27764	27772	GO:0032502	embryos	developmental process
+27804	27810	GO:0040007	growth	growth
+27897	27910	GO:0032502	gastrulation	developmental process
+27966	27971	GO:0065007	to	biological regulation
+27966	27971	GO:0009987	to	cellular process
+28238	28243	GO:0005623	cells	cell
+28254	28262	GO:0032502	embryos	developmental process
+28285	28292	GO:0032502	embryos	developmental process
+28303	28305	GO:0065007	to	biological regulation
+28303	28305	GO:0009987	to	cellular process
+28326	28328	GO:0065007	to	biological regulation
+28326	28328	GO:0009987	to	cellular process
+28337	28351	GO:0032502	organogenesis	developmental process
+28421	28430	GO:0008152	formation	metabolic process
+28440	28447	GO:0032502	embryos	developmental process
+28464	28466	GO:0065007	to	biological regulation
+28464	28466	GO:0009987	to	cellular process
+28492	28494	GO:0065007	to	biological regulation
+28492	28494	GO:0009987	to	cellular process
+28508	28514	GO:0065007	to	biological regulation
+28508	28514	GO:0009987	to	cellular process
+28558	28565	GO:0032502	embryos	developmental process
+28644	28653	GO:0008152	formation	metabolic process
+28712	28714	GO:0065007	to	biological regulation
+28712	28714	GO:0009987	to	cellular process
+28751	28758	GO:0032502	embryos	developmental process
+28776	28778	GO:0065007	to	biological regulation
+28776	28778	GO:0009987	to	cellular process
+28875	28882	GO:0032502	embryos	developmental process
+28991	28998	GO:0065007	to	biological regulation
+28991	28998	GO:0009987	to	cellular process
+29154	29170	GO:0032502	CNS development	developmental process
+29232	29239	GO:0009987	reduced	cellular process
+29232	29239	GO:0008152	reduced	metabolic process
+29232	29239	GO:0005215	reduced	transporter activity
+29232	29239	GO:0051234	reduced	establishment of localization
+29298	29300	GO:0065007	to	biological regulation
+29298	29300	GO:0009987	to	cellular process
+29326	29335	GO:0009987	embryonic	cellular process
+29326	29335	GO:0065007	embryonic	biological regulation
+29326	29347	GO:0032502	embryonic development	developmental process
+29434	29436	GO:0065007	to	biological regulation
+29434	29436	GO:0009987	to	cellular process
+29532	29541	GO:0009987	embryonic	cellular process
+29532	29541	GO:0065007	embryonic	biological regulation
+29542	29564	GO:0032502	ectoderm development	developmental process
+29626	29633	GO:0003824	protein	catalytic activity
+29640	29642	GO:0065007	to	biological regulation
+29640	29642	GO:0009987	to	cellular process
+29689	29699	GO:0008152	formation	metabolic process
+29826	29833	GO:0003824	protein	catalytic activity
+29949	29959	GO:0009987	imprinting	cellular process
+29949	29959	GO:0008152	imprinting	metabolic process
+29949	29959	GO:0065007	imprinting	biological regulation
+30048	30056	GO:0032502	embryos	developmental process
+30230	30237	GO:0003824	protein	catalytic activity
+30238	30243	GO:0044421	hosts	extraccellular region part
+30316	30329	GO:0051704	pathogenesis	multi-organism process
+30468	30475	GO:0065007	neurons	biological regulation
+30468	30475	GO:0016265	neurons	death
+30468	30475	GO:0009987	neurons	cellular process
+30548	30557	GO:0009987	embryonic	cellular process
+30548	30557	GO:0065007	embryonic	biological regulation
+30548	30569	GO:0032502	embryonic development	developmental process
+30754	30763	GO:0009987	embryonic	cellular process
+30754	30763	GO:0065007	embryonic	biological regulation
+30794	30796	GO:0065007	to	biological regulation
+30794	30796	GO:0009987	to	cellular process
+30915	30919	GO:0005623	cell	cell
+31046	31060	GO:0009987	transcription	cellular process
+31046	31060	GO:0008152	transcription	metabolic process
+31290	31292	GO:0065007	to	biological regulation
+31290	31292	GO:0009987	to	cellular process
+31499	31513	GO:0032502	embryogenesis	developmental process
+31550	31560	GO:0008152	formation	metabolic process
+31613	31617	GO:0032502	head	developmental process
+31623	31633	GO:0008152	formation	metabolic process
+31697	31703	GO:0040007	growth	growth
+31708	31721	GO:0009987	transcription	cellular process
+31708	31721	GO:0008152	transcription	metabolic process
+31810	31817	GO:0032502	embryos	developmental process
+31976	31978	GO:0065007	to	biological regulation
+31976	31978	GO:0009987	to	cellular process
+32003	32012	GO:0032502	embryo	developmental process
+32613	32619	GO:0051704	mating	multi-organism process
+32613	32619	GO:0022414	mating	reproductive process
+32721	32723	GO:0065007	to	biological regulation
+32721	32723	GO:0009987	to	cellular process
+32733	32740	GO:0032502	Embryos	developmental process
+32825	32832	GO:0032502	embryos	developmental process
+32882	32889	GO:0032502	embryos	developmental process
+32895	32902	GO:0022414	matings	reproductive process
+32895	32902	GO:0051704	matings	multi-organism process
+33094	33101	GO:0032502	embryos	developmental process
+33094	33101	GO:0032502	embryos	developmental process
+33459	33466	GO:0032502	Embryos	developmental process
+33512	33522	GO:0065007	to	biological regulation
+33512	33522	GO:0009987	to	cellular process
+33638	33645	GO:0032502	embryos	developmental process
+33689	33695	GO:0032502	embryo	developmental process
+33797	33802	GO:0005623	Cells	cell
+33830	33837	GO:0032502	embryos	developmental process
+33933	33940	GO:0032502	Embryos	developmental process
+34172	34182	GO:0003824	phosphate	catalytic activity
+34210	34217	GO:0032502	embryos	developmental process
+34261	34267	GO:0032502	embryo	developmental process
+34277	34284	GO:0032502	Embryos	developmental process
+34328	34335	GO:0032502	Embryos	developmental process
+34328	34335	GO:0032502	Embryos	developmental process
+34724	34734	GO:0016265	germ cells	death
+34724	34734	GO:0009987	germ cells	cellular process
+34724	34734	GO:0032502	germ cells	developmental process
+34724	34734	GO:0022414	germ cells	reproductive process
+34729	34734	GO:0005623	cells	cell
+34860	34862	GO:0065007	to	biological regulation
+34860	34862	GO:0009987	to	cellular process
+34957	34959	GO:0065007	to	biological regulation
+34957	34959	GO:0009987	to	cellular process
+35065	35067	GO:0065007	to	biological regulation
+35065	35067	GO:0009987	to	cellular process
+35266	35274	GO:0044421	antibody	extraccellular region part
+35266	35274	GO:0032991	antibody	macromolecular complex
+35337	35339	GO:0065007	to	biological regulation
+35337	35339	GO:0009987	to	cellular process

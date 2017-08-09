@@ -1,0 +1,337 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+54	59	GO:0005623	cells	cell
+60	62	GO:0065007	to	biological regulation
+60	62	GO:0009987	to	cellular process
+251	256	GO:0005623	cells	cell
+257	259	GO:0065007	to	biological regulation
+257	259	GO:0009987	to	cellular process
+354	356	GO:0065007	To	biological regulation
+354	356	GO:0009987	To	cellular process
+522	527	GO:0005623	cells	cell
+528	530	GO:0065007	to	biological regulation
+528	530	GO:0009987	to	cellular process
+645	650	GO:0005623	cells	cell
+651	653	GO:0065007	to	biological regulation
+651	653	GO:0009987	to	cellular process
+1018	1024	GO:0005623	cells	cell
+1116	1118	GO:0065007	to	biological regulation
+1116	1118	GO:0009987	to	cellular process
+1184	1192	GO:0003824	proteins	catalytic activity
+1236	1242	GO:0005623	cells	cell
+1345	1347	GO:0065007	to	biological regulation
+1345	1347	GO:0009987	to	cellular process
+1517	1526	GO:0009987	embryonic	cellular process
+1517	1526	GO:0065007	embryonic	biological regulation
+1537	1542	GO:0005623	cells	cell
+1543	1545	GO:0065007	to	biological regulation
+1543	1545	GO:0009987	to	cellular process
+1543	1545	GO:0065007	to	biological regulation
+1543	1545	GO:0009987	to	cellular process
+1935	1937	GO:0065007	to	biological regulation
+1935	1937	GO:0009987	to	cellular process
+2084	2089	GO:0005623	cells	cell
+2090	2092	GO:0065007	to	biological regulation
+2090	2092	GO:0009987	to	cellular process
+2236	2242	GO:0005623	cells	cell
+2321	2323	GO:0065007	to	biological regulation
+2321	2323	GO:0009987	to	cellular process
+2401	2403	GO:0065007	to	biological regulation
+2401	2403	GO:0009987	to	cellular process
+2424	2426	GO:0065007	to	biological regulation
+2424	2426	GO:0009987	to	cellular process
+2481	2483	GO:0065007	to	biological regulation
+2481	2483	GO:0009987	to	cellular process
+2722	2724	GO:0065007	to	biological regulation
+2722	2724	GO:0009987	to	cellular process
+2746	2748	GO:0065007	to	biological regulation
+2746	2748	GO:0009987	to	cellular process
+2760	2762	GO:0065007	to	biological regulation
+2760	2762	GO:0009987	to	cellular process
+2806	2808	GO:0065007	to	biological regulation
+2806	2808	GO:0009987	to	cellular process
+2845	2850	GO:0005623	cells	cell
+3200	3207	GO:0009987	reduced	cellular process
+3200	3207	GO:0008152	reduced	metabolic process
+3200	3207	GO:0005215	reduced	transporter activity
+3200	3207	GO:0051234	reduced	establishment of localization
+3362	3364	GO:0065007	to	biological regulation
+3362	3364	GO:0009987	to	cellular process
+3516	3521	GO:0005623	cells	cell
+3611	3613	GO:0065007	to	biological regulation
+3611	3613	GO:0009987	to	cellular process
+3806	3808	GO:0065007	to	biological regulation
+3806	3808	GO:0009987	to	cellular process
+4079	4081	GO:0065007	to	biological regulation
+4079	4081	GO:0009987	to	cellular process
+4301	4303	GO:0065007	to	biological regulation
+4301	4303	GO:0009987	to	cellular process
+4643	4645	GO:0065007	to	biological regulation
+4643	4645	GO:0009987	to	cellular process
+4804	4806	GO:0065007	to	biological regulation
+4804	4806	GO:0009987	to	cellular process
+4908	4910	GO:0065007	to	biological regulation
+4908	4910	GO:0009987	to	cellular process
+4972	4974	GO:0065007	to	biological regulation
+4972	4974	GO:0009987	to	cellular process
+5088	5092	GO:0005623	cell	cell
+5147	5152	GO:0005623	cells	cell
+5384	5390	GO:0044464	Kinase	cell part
+5384	5390	GO:0032991	Kinase	macromolecular complex
+5471	5473	GO:0065007	to	biological regulation
+5471	5473	GO:0009987	to	cellular process
+5537	5542	GO:0005623	cells	cell
+5729	5735	GO:0005623	cells	cell
+5768	5770	GO:0065007	to	biological regulation
+5768	5770	GO:0009987	to	cellular process
+5903	5908	GO:0005623	cells	cell
+5909	5911	GO:0065007	to	biological regulation
+5909	5911	GO:0009987	to	cellular process
+5995	6000	GO:0005623	cells	cell
+6001	6003	GO:0065007	to	biological regulation
+6001	6003	GO:0009987	to	cellular process
+6108	6110	GO:0065007	to	biological regulation
+6108	6110	GO:0009987	to	cellular process
+6272	6274	GO:0065007	to	biological regulation
+6272	6274	GO:0009987	to	cellular process
+6668	6670	GO:0065007	to	biological regulation
+6668	6670	GO:0009987	to	cellular process
+6730	6734	GO:0005623	cell	cell
+6839	6844	GO:0005623	cells	cell
+6898	6903	GO:0005623	cells	cell
+6947	6949	GO:0065007	to	biological regulation
+6947	6949	GO:0009987	to	cellular process
+7013	7015	GO:0065007	to	biological regulation
+7013	7015	GO:0009987	to	cellular process
+7013	7015	GO:0065007	to	biological regulation
+7013	7015	GO:0009987	to	cellular process
+7132	7134	GO:0065007	to	biological regulation
+7132	7134	GO:0009987	to	cellular process
+7270	7272	GO:0065007	to	biological regulation
+7270	7272	GO:0009987	to	cellular process
+7455	7457	GO:0065007	to	biological regulation
+7455	7457	GO:0009987	to	cellular process
+7743	7753	GO:0032501	digestion	multicellular organismal process
+7762	7764	GO:0065007	to	biological regulation
+7762	7764	GO:0009987	to	cellular process
+8166	8168	GO:0065007	to	biological regulation
+8166	8168	GO:0009987	to	cellular process
+8351	8353	GO:0065007	to	biological regulation
+8351	8353	GO:0009987	to	cellular process
+8769	8771	GO:0065007	to	biological regulation
+8769	8771	GO:0009987	to	cellular process
+8952	8954	GO:0065007	To	biological regulation
+8952	8954	GO:0009987	To	cellular process
+8977	8985	GO:0003824	protein	catalytic activity
+9062	9064	GO:0065007	to	biological regulation
+9062	9064	GO:0009987	to	cellular process
+9081	9083	GO:0065007	to	biological regulation
+9081	9083	GO:0009987	to	cellular process
+9120	9122	GO:0065007	to	biological regulation
+9120	9122	GO:0009987	to	cellular process
+9898	9908	GO:0032501	digestion	multicellular organismal process
+10873	10875	GO:0065007	to	biological regulation
+10873	10875	GO:0009987	to	cellular process
+11026	11028	GO:0065007	to	biological regulation
+11026	11028	GO:0009987	to	cellular process
+11052	11056	GO:0005623	Cell	cell
+11114	11122	GO:0032502	embryos	developmental process
+11218	11223	GO:0005623	cells	cell
+11523	11528	GO:0005623	cells	cell
+11768	11773	GO:0005623	cells	cell
+11807	11812	GO:0005623	cells	cell
+11973	11978	GO:0005623	cells	cell
+12005	12007	GO:0065007	to	biological regulation
+12005	12007	GO:0009987	to	cellular process
+12150	12152	GO:0065007	to	biological regulation
+12150	12152	GO:0009987	to	cellular process
+12286	12291	GO:0005623	cells	cell
+12481	12486	GO:0005623	cells	cell
+12527	12529	GO:0065007	to	biological regulation
+12527	12529	GO:0009987	to	cellular process
+12720	12726	GO:0005623	Cells	cell
+13079	13086	GO:0003824	Protein	catalytic activity
+13156	13163	GO:0003824	protein	catalytic activity
+13267	13269	GO:0065007	to	biological regulation
+13267	13269	GO:0009987	to	cellular process
+13483	13493	GO:0044421	antibodies	extraccellular region part
+13483	13493	GO:0032991	antibodies	macromolecular complex
+13555	13565	GO:0044421	antibodies	extraccellular region part
+13555	13565	GO:0032991	antibodies	macromolecular complex
+13752	13754	GO:0065007	to	biological regulation
+13752	13754	GO:0009987	to	cellular process
+13795	13800	GO:0005623	cells	cell
+13896	13901	GO:0005623	Cells	cell
+13966	13974	GO:0008152	ethanol	metabolic process
+13966	13974	GO:0009987	ethanol	cellular process
+14281	14286	GO:0005623	cells	cell
+14360	14365	GO:0005623	cell	cell
+14597	14603	GO:0005623	cells	cell
+14653	14655	GO:0065007	to	biological regulation
+14653	14655	GO:0009987	to	cellular process
+14669	14671	GO:0065007	to	biological regulation
+14669	14671	GO:0009987	to	cellular process
+14711	14717	GO:0005623	cells	cell
+14769	14771	GO:0065007	to	biological regulation
+14769	14771	GO:0009987	to	cellular process
+14779	14784	GO:0005623	cells	cell
+14820	14822	GO:0065007	to	biological regulation
+14820	14822	GO:0009987	to	cellular process
+14848	14850	GO:0065007	to	biological regulation
+14848	14850	GO:0009987	to	cellular process
+14949	14953	GO:0005623	cell	cell
+14971	14973	GO:0065007	to	biological regulation
+14971	14973	GO:0009987	to	cellular process
+15044	15046	GO:0065007	to	biological regulation
+15044	15046	GO:0009987	to	cellular process
+15217	15219	GO:0065007	to	biological regulation
+15217	15219	GO:0009987	to	cellular process
+15363	15371	GO:0044421	antibody	extraccellular region part
+15363	15371	GO:0032991	antibody	macromolecular complex
+15395	15397	GO:0065007	to	biological regulation
+15395	15397	GO:0009987	to	cellular process
+15492	15494	GO:0065007	to	biological regulation
+15492	15494	GO:0009987	to	cellular process
+15630	15636	GO:0005623	cells	cell
+15833	15835	GO:0065007	to	biological regulation
+15833	15835	GO:0009987	to	cellular process
+16047	16053	GO:0005623	cells	cell
+16057	16062	GO:0005623	cells	cell
+16124	16144	GO:0009987	DNA damage responses	cellular process
+16124	16144	GO:0023052	DNA damage responses	signaling
+16124	16144	GO:0065007	DNA damage responses	biological regulation
+16124	16144	GO:0050896	DNA damage responses	response to stimulus
+16162	16167	GO:0005623	cells	cell
+16248	16261	GO:0032502	embryogenesis	developmental process
+16385	16390	GO:0005623	cells	cell
+16445	16454	GO:0009987	embryonic	cellular process
+16445	16454	GO:0065007	embryonic	biological regulation
+16445	16466	GO:0032502	embryonic development	developmental process
+16478	16483	GO:0005623	cells	cell
+16490	16492	GO:0065007	to	biological regulation
+16490	16492	GO:0009987	to	cellular process
+16547	16549	GO:0065007	To	biological regulation
+16547	16549	GO:0009987	To	cellular process
+16702	16704	GO:0065007	to	biological regulation
+16702	16704	GO:0009987	to	cellular process
+16851	16853	GO:0065007	to	biological regulation
+16851	16853	GO:0009987	to	cellular process
+16913	16922	GO:0009987	embryonic	cellular process
+16913	16922	GO:0065007	embryonic	biological regulation
+16913	16935	GO:0032502	embryonic development	developmental process
+17104	17109	GO:0005623	cells	cell
+17316	17321	GO:0005623	cells	cell
+17424	17428	GO:0005623	cell	cell
+17556	17562	GO:0051704	mating	multi-organism process
+17556	17562	GO:0022414	mating	reproductive process
+17671	17676	GO:0005623	cells	cell
+17817	17819	GO:0065007	to	biological regulation
+17817	17819	GO:0009987	to	cellular process
+17866	17871	GO:0005623	cells	cell
+17995	18001	GO:0051704	mating	multi-organism process
+17995	18001	GO:0022414	mating	reproductive process
+18084	18086	GO:0065007	to	biological regulation
+18084	18086	GO:0009987	to	cellular process
+18128	18130	GO:0065007	to	biological regulation
+18128	18130	GO:0009987	to	cellular process
+18169	18175	GO:0005623	cells	cell
+18448	18453	GO:0005623	cells	cell
+18616	18621	GO:0005623	cells	cell
+18706	18711	GO:0005623	cells	cell
+18716	18721	GO:0065007	to	biological regulation
+18716	18721	GO:0009987	to	cellular process
+18722	18724	GO:0065007	to	biological regulation
+18722	18724	GO:0009987	to	cellular process
+18797	18799	GO:0065007	To	biological regulation
+18797	18799	GO:0009987	To	cellular process
+19049	19051	GO:0065007	to	biological regulation
+19049	19051	GO:0009987	to	cellular process
+19074	19079	GO:0005623	cells	cell
+19113	19115	GO:0065007	to	biological regulation
+19113	19115	GO:0009987	to	cellular process
+19255	19260	GO:0005623	cells	cell
+19342	19347	GO:0005623	cells	cell
+19402	19407	GO:0005623	cells	cell
+19464	19469	GO:0005623	cells	cell
+19531	19536	GO:0005623	cells	cell
+19553	19562	GO:0065007	to	biological regulation
+19553	19562	GO:0009987	to	cellular process
+19607	19609	GO:0065007	to	biological regulation
+19607	19609	GO:0009987	to	cellular process
+19853	19857	GO:0005623	cell	cell
+19892	19899	GO:0003824	protein	catalytic activity
+19986	19988	GO:0065007	to	biological regulation
+19986	19988	GO:0009987	to	cellular process
+20366	20373	GO:0003824	proline	catalytic activity
+20392	20394	GO:0065007	to	biological regulation
+20392	20394	GO:0009987	to	cellular process
+20425	20429	GO:0005623	cell	cell
+20425	20435	GO:0009987	cell cycle	cellular process
+20425	20444	GO:0065007	cell cycle control	biological regulation
+20713	20718	GO:0005623	cells	cell
+20719	20721	GO:0065007	to	biological regulation
+20719	20721	GO:0009987	to	cellular process
+20761	20763	GO:0065007	to	biological regulation
+20761	20763	GO:0009987	to	cellular process
+20967	20973	GO:0005623	cells	cell
+20991	20997	GO:0005623	cells	cell
+21283	21285	GO:0065007	to	biological regulation
+21283	21285	GO:0009987	to	cellular process
+21308	21312	GO:0005623	cell	cell
+21491	21497	GO:0005623	cells	cell
+21662	21664	GO:0065007	to	biological regulation
+21662	21664	GO:0009987	to	cellular process
+21798	21800	GO:0065007	to	biological regulation
+21798	21800	GO:0009987	to	cellular process
+21939	21943	GO:0023046	red	signaling process
+21939	21943	GO:0050896	red	response to stimulus
+21939	21943	GO:0009987	red	cellular process
+21939	21943	GO:0065007	red	biological regulation
+22299	22301	GO:0065007	to	biological regulation
+22299	22301	GO:0009987	to	cellular process
+22323	22329	GO:0005623	cells	cell
+22364	22369	GO:0005623	cells	cell
+22492	22494	GO:0065007	to	biological regulation
+22492	22494	GO:0009987	to	cellular process
+22896	22902	GO:0005623	cells	cell
+23088	23093	GO:0005623	cells	cell
+23188	23197	GO:0009987	embryonic	cellular process
+23188	23197	GO:0065007	embryonic	biological regulation
+23224	23230	GO:0005623	cells	cell
+23254	23256	GO:0065007	to	biological regulation
+23254	23256	GO:0009987	to	cellular process
+23269	23275	GO:0005623	cells	cell
+23402	23407	GO:0005623	cells	cell
+23402	23407	GO:0005623	cells	cell
+23999	24004	GO:0065007	to	biological regulation
+23999	24004	GO:0009987	to	cellular process
+25323	25331	GO:0044421	antibody	extraccellular region part
+25323	25331	GO:0032991	antibody	macromolecular complex
+25332	25334	GO:0065007	to	biological regulation
+25332	25334	GO:0009987	to	cellular process
+25379	25384	GO:0005623	cells	cell
+25505	25512	GO:0003824	protein	catalytic activity
+26348	26354	GO:0051704	mating	multi-organism process
+26348	26354	GO:0022414	mating	reproductive process
+26645	26650	GO:0005623	cells	cell
+26667	26669	GO:0065007	to	biological regulation
+26667	26669	GO:0009987	to	cellular process
+26674	26681	GO:0065007	to	biological regulation
+26674	26681	GO:0009987	to	cellular process
+26682	26684	GO:0065007	to	biological regulation
+26682	26684	GO:0009987	to	cellular process
+27415	27421	GO:0005623	cells	cell
+27497	27499	GO:0065007	to	biological regulation
+27497	27499	GO:0009987	to	cellular process
+27529	27534	GO:0005623	cells	cell
+27739	27741	GO:0065007	to	biological regulation
+27739	27741	GO:0009987	to	cellular process
+27806	27810	GO:0005623	cell	cell
+27845	27849	GO:0005623	cell	cell
+28583	28587	GO:0005623	cell	cell
+28583	28593	GO:0009987	cell cycle	cellular process
+28583	28602	GO:0065007	cell cycle control	biological regulation
+28924	28930	GO:0005623	cells	cell
+29059	29061	GO:0065007	to	biological regulation
+29059	29061	GO:0009987	to	cellular process
+29069	29078	GO:0065007	to	biological regulation
+29069	29078	GO:0009987	to	cellular process

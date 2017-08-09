@@ -1,0 +1,1135 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+154	161	GO:0003824	protein	catalytic activity
+271	275	GO:0005623	cell	cell
+271	281	GO:0009987	cell cycle	cellular process
+300	305	GO:0016265	death	death
+314	322	GO:0065007	neurons	biological regulation
+314	322	GO:0016265	neurons	death
+314	322	GO:0009987	neurons	cellular process
+495	508	GO:0016265	retinal cells	death
+495	508	GO:0009987	retinal cells	cellular process
+495	508	GO:0032502	retinal cells	developmental process
+503	508	GO:0005623	cells	cell
+547	556	GO:0016265	apoptosis	death
+547	556	GO:0009987	apoptosis	cellular process
+598	611	GO:0009987	transcription	cellular process
+598	611	GO:0008152	transcription	metabolic process
+794	799	GO:0005623	cells	cell
+808	819	GO:0009987	cholinergic	cellular process
+808	819	GO:0023052	cholinergic	signaling
+808	819	GO:0065007	cholinergic	biological regulation
+939	941	GO:0065007	to	biological regulation
+939	941	GO:0009987	to	cellular process
+981	983	GO:0065007	to	biological regulation
+981	983	GO:0009987	to	cellular process
+1043	1048	GO:0065007	to	biological regulation
+1043	1048	GO:0009987	to	cellular process
+1319	1325	GO:0005623	cells	cell
+1346	1348	GO:0065007	to	biological regulation
+1346	1348	GO:0009987	to	cellular process
+1378	1380	GO:0065007	to	biological regulation
+1378	1380	GO:0009987	to	cellular process
+1703	1710	GO:0003824	protein	catalytic activity
+1768	1773	GO:0016265	death	death
+1796	1809	GO:0009987	transcription	cellular process
+1796	1809	GO:0008152	transcription	metabolic process
+1813	1816	GO:0065007	to	biological regulation
+1813	1816	GO:0009987	to	cellular process
+1911	1924	GO:0009987	transcription	cellular process
+1911	1924	GO:0008152	transcription	metabolic process
+1978	1983	GO:0005623	cells	cell
+2044	2050	GO:0016265	death	death
+2120	2126	GO:0016265	death	death
+2242	2250	GO:0065007	neurons	biological regulation
+2242	2250	GO:0016265	neurons	death
+2242	2250	GO:0009987	neurons	cellular process
+2262	2267	GO:0016265	death	death
+2271	2276	GO:0005623	cells	cell
+2283	2285	GO:0065007	to	biological regulation
+2283	2285	GO:0009987	to	cellular process
+2286	2296	GO:0016265	apoptosis	death
+2286	2296	GO:0009987	apoptosis	cellular process
+2360	2364	GO:0005623	cell	cell
+2437	2444	GO:0065007	neurons	biological regulation
+2437	2444	GO:0016265	neurons	death
+2437	2444	GO:0009987	neurons	cellular process
+2535	2541	GO:0009987	direct	cellular process
+2535	2541	GO:0008152	direct	metabolic process
+2610	2623	GO:0005623	cell	cell
+2610	2631	GO:0032502	cell differentiation	developmental process
+2610	2631	GO:0009987	cell differentiation	cellular process
+2654	2658	GO:0005623	cell	cell
+2947	2949	GO:0065007	to	biological regulation
+2947	2949	GO:0009987	to	cellular process
+2956	2969	GO:0032502	neurogenesis	developmental process
+2956	2969	GO:0009987	neurogenesis	cellular process
+3060	3064	GO:0005623	cell	cell
+3139	3144	GO:0005623	cells	cell
+3166	3168	GO:0065007	to	biological regulation
+3166	3168	GO:0009987	to	cellular process
+3241	3245	GO:0005623	cell	cell
+3303	3307	GO:0005623	cell	cell
+3303	3313	GO:0009987	cell cycle	cellular process
+3314	3316	GO:0065007	to	biological regulation
+3314	3316	GO:0009987	to	cellular process
+3455	3459	GO:0005623	cell	cell
+3455	3465	GO:0009987	cell cycle	cellular process
+3544	3548	GO:0044422	Rods	organelle part
+3544	3548	GO:0044464	Rods	cell part
+3632	3638	GO:0005623	cells	cell
+3657	3661	GO:0016265	glia	death
+3657	3661	GO:0009987	glia	cellular process
+3662	3666	GO:0005623	cell	cell
+3662	3674	GO:0044464	cell bodies	cell part
+3752	3757	GO:0005623	cells	cell
+3776	3780	GO:0005623	cell	cell
+3865	3869	GO:0003824	IPL	catalytic activity
+4020	4024	GO:0005623	Cell	cell
+4025	4030	GO:0016265	Death	death
+4155	4159	GO:0005623	cell	cell
+4155	4166	GO:0044464	cell bodies	cell part
+4222	4226	GO:0005623	cell	cell
+4222	4233	GO:0009987	cell cycle	cellular process
+4295	4298	GO:0023046	red	signaling process
+4295	4298	GO:0050896	red	response to stimulus
+4295	4298	GO:0009987	red	cellular process
+4295	4298	GO:0065007	red	biological regulation
+4357	4361	GO:0003824	IPL	catalytic activity
+4431	4435	GO:0044464	rods	cell part
+4431	4435	GO:0044422	rods	organelle part
+4524	4529	GO:0005623	cells	cell
+4582	4587	GO:0005623	cells	cell
+4652	4654	GO:0065007	to	biological regulation
+4652	4654	GO:0009987	to	cellular process
+4664	4668	GO:0005623	cell	cell
+4664	4674	GO:0009987	cell cycle	cellular process
+4679	4688	GO:0016265	apoptosis	death
+4679	4688	GO:0009987	apoptosis	cellular process
+4713	4715	GO:0065007	to	biological regulation
+4713	4715	GO:0009987	to	cellular process
+4772	4785	GO:0009987	transcription	cellular process
+4772	4785	GO:0008152	transcription	metabolic process
+4900	4906	GO:0016265	death	death
+4922	4928	GO:0009987	direct	cellular process
+4922	4928	GO:0008152	direct	metabolic process
+5115	5119	GO:0023046	red	signaling process
+5115	5119	GO:0050896	red	response to stimulus
+5115	5119	GO:0009987	red	cellular process
+5115	5119	GO:0065007	red	biological regulation
+5127	5136	GO:0016265	apoptosis	death
+5127	5136	GO:0009987	apoptosis	cellular process
+5145	5150	GO:0023046	red	signaling process
+5145	5150	GO:0050896	red	response to stimulus
+5145	5150	GO:0009987	red	cellular process
+5145	5150	GO:0065007	red	biological regulation
+5212	5218	GO:0005623	cells	cell
+5237	5242	GO:0005623	cells	cell
+5278	5284	GO:0005623	cells	cell
+5642	5649	GO:0003824	protein	catalytic activity
+5671	5675	GO:0005623	cell	cell
+5671	5681	GO:0009987	cell cycle	cellular process
+5713	5717	GO:0005623	cell	cell
+5756	5758	GO:0065007	to	biological regulation
+5756	5758	GO:0009987	to	cellular process
+5797	5801	GO:0044464	rod	cell part
+5797	5801	GO:0044422	rod	organelle part
+5824	5830	GO:0005623	cells	cell
+5838	5847	GO:0016265	apoptosis	death
+5838	5847	GO:0009987	apoptosis	cellular process
+5871	5875	GO:0005623	cell	cell
+5871	5881	GO:0009987	cell cycle	cellular process
+5885	5892	GO:0005488	binding	binding
+5912	5925	GO:0009987	transcription	cellular process
+5912	5925	GO:0008152	transcription	metabolic process
+5971	5984	GO:0009987	transcription	cellular process
+5971	5984	GO:0008152	transcription	metabolic process
+5988	5992	GO:0065007	to	biological regulation
+5988	5992	GO:0009987	to	cellular process
+6075	6079	GO:0005623	cell	cell
+6075	6085	GO:0009987	cell cycle	cellular process
+6092	6096	GO:0065007	to	biological regulation
+6092	6096	GO:0009987	to	cellular process
+6142	6150	GO:0003824	proteins	catalytic activity
+6304	6308	GO:0065007	to	biological regulation
+6304	6308	GO:0009987	to	cellular process
+6419	6426	GO:0032502	embryos	developmental process
+6442	6444	GO:0065007	to	biological regulation
+6442	6444	GO:0009987	to	cellular process
+6697	6701	GO:0065007	to	biological regulation
+6697	6701	GO:0009987	to	cellular process
+6741	6755	GO:0065007	gene silencing	biological regulation
+6741	6755	GO:0009987	gene silencing	cellular process
+6787	6793	GO:0005623	cells	cell
+6828	6837	GO:0016265	apoptosis	death
+6828	6837	GO:0009987	apoptosis	cellular process
+7051	7060	GO:0016265	apoptosis	death
+7051	7060	GO:0009987	apoptosis	cellular process
+7117	7124	GO:0032502	embryos	developmental process
+7151	7160	GO:0016265	apoptosis	death
+7151	7160	GO:0009987	apoptosis	cellular process
+7171	7173	GO:0065007	to	biological regulation
+7171	7173	GO:0009987	to	cellular process
+7268	7277	GO:0016265	apoptosis	death
+7268	7277	GO:0009987	apoptosis	cellular process
+7317	7319	GO:0065007	to	biological regulation
+7317	7319	GO:0009987	to	cellular process
+7317	7327	GO:0016265	apoptosis	death
+7317	7327	GO:0009987	apoptosis	cellular process
+7417	7421	GO:0005623	cell	cell
+7470	7475	GO:0016265	death	death
+7567	7569	GO:0065007	to	biological regulation
+7567	7569	GO:0009987	to	cellular process
+7885	7890	GO:0005623	cells	cell
+7906	7908	GO:0065007	to	biological regulation
+7906	7908	GO:0009987	to	cellular process
+7993	7999	GO:0005623	cells	cell
+8168	8173	GO:0005623	cells	cell
+8396	8409	GO:0051179	localization	localization
+8821	8827	GO:0016265	death	death
+8928	8936	GO:0065007	neurons	biological regulation
+8928	8936	GO:0016265	neurons	death
+8928	8936	GO:0009987	neurons	cellular process
+8993	8997	GO:0005623	cell	cell
+9085	9087	GO:0065007	to	biological regulation
+9085	9087	GO:0009987	to	cellular process
+9156	9169	GO:0009987	transcription	cellular process
+9156	9169	GO:0008152	transcription	metabolic process
+9256	9260	GO:0044464	rods	cell part
+9256	9260	GO:0044422	rods	organelle part
+9310	9323	GO:0032502	morphogenesis	developmental process
+9476	9485	GO:0016265	apoptosis	death
+9476	9485	GO:0009987	apoptosis	cellular process
+9520	9522	GO:0065007	to	biological regulation
+9520	9522	GO:0009987	to	cellular process
+9554	9559	GO:0005623	cells	cell
+9604	9610	GO:0016265	death	death
+9667	9672	GO:0016265	death	death
+9757	9765	GO:0065007	neurons	biological regulation
+9757	9765	GO:0016265	neurons	death
+9757	9765	GO:0009987	neurons	cellular process
+9776	9781	GO:0044464	rods	cell part
+9776	9781	GO:0044422	rods	organelle part
+10036	10047	GO:0009987	cholinergic	cellular process
+10036	10047	GO:0023052	cholinergic	signaling
+10036	10047	GO:0065007	cholinergic	biological regulation
+10067	10072	GO:0005623	cells	cell
+10281	10286	GO:0065007	to	biological regulation
+10281	10286	GO:0009987	to	cellular process
+10392	10405	GO:0009987	transcription	cellular process
+10392	10405	GO:0008152	transcription	metabolic process
+10547	10553	GO:0005623	cells	cell
+10588	10595	GO:0065007	neurons	biological regulation
+10588	10595	GO:0016265	neurons	death
+10588	10595	GO:0009987	neurons	cellular process
+10683	10691	GO:0065007	neurons	biological regulation
+10683	10691	GO:0016265	neurons	death
+10683	10691	GO:0009987	neurons	cellular process
+10762	10775	GO:0032502	neurogenesis	developmental process
+10762	10775	GO:0009987	neurogenesis	cellular process
+10776	10778	GO:0065007	To	biological regulation
+10776	10778	GO:0009987	To	cellular process
+10865	10867	GO:0065007	to	biological regulation
+10865	10867	GO:0009987	to	cellular process
+10976	10978	GO:0065007	to	biological regulation
+10976	10978	GO:0009987	to	cellular process
+11196	11202	GO:0016265	death	death
+11267	11274	GO:0065007	neurons	biological regulation
+11267	11274	GO:0016265	neurons	death
+11267	11274	GO:0009987	neurons	cellular process
+11390	11395	GO:0016265	Death	death
+11438	11440	GO:0065007	to	biological regulation
+11438	11440	GO:0009987	to	cellular process
+11469	11478	GO:0009987	embryonic	cellular process
+11469	11478	GO:0065007	embryonic	biological regulation
+11713	11715	GO:0065007	to	biological regulation
+11713	11715	GO:0009987	to	cellular process
+11869	11871	GO:0065007	to	biological regulation
+11869	11871	GO:0009987	to	cellular process
+12139	12141	GO:0065007	To	biological regulation
+12139	12141	GO:0009987	To	cellular process
+12158	12162	GO:0005623	cell	cell
+12158	12172	GO:0009987	cell division	cellular process
+12418	12427	GO:0008152	synthesis	metabolic process
+12903	12908	GO:0005623	cells	cell
+13154	13161	GO:0065007	mitotic	biological regulation
+13162	13167	GO:0005623	cells	cell
+13210	13220	GO:0044421	antibodies	extraccellular region part
+13210	13220	GO:0032991	antibodies	macromolecular complex
+13379	13386	GO:0009987	mitosis	cellular process
+13379	13386	GO:0016043	mitosis	cellular component organization
+13600	13608	GO:0032502	embryos	developmental process
+13659	13664	GO:0065007	to	biological regulation
+13659	13664	GO:0009987	to	cellular process
+13750	13760	GO:0016265	apoptosis	death
+13750	13760	GO:0009987	apoptosis	cellular process
+13799	13804	GO:0005623	cells	cell
+13821	13825	GO:0044464	rods	cell part
+13821	13825	GO:0044422	rods	organelle part
+13866	13870	GO:0044464	rods	cell part
+13866	13870	GO:0044422	rods	organelle part
+13912	13917	GO:0016265	death	death
+13927	13932	GO:0005623	cells	cell
+13965	13972	GO:0065007	neurons	biological regulation
+13965	13972	GO:0016265	neurons	death
+13965	13972	GO:0009987	neurons	cellular process
+14138	14143	GO:0005623	cells	cell
+14288	14292	GO:0005623	cell	cell
+14288	14298	GO:0016265	cell death	death
+14288	14298	GO:0009987	cell death	cellular process
+14293	14298	GO:0016265	death	death
+14397	14401	GO:0044422	Rod	organelle part
+14397	14401	GO:0044464	Rod	cell part
+14414	14419	GO:0005623	Cells	cell
+14589	14594	GO:0005623	cells	cell
+14604	14609	GO:0023046	red	signaling process
+14604	14609	GO:0050896	red	response to stimulus
+14604	14609	GO:0009987	red	cellular process
+14604	14609	GO:0065007	red	biological regulation
+14610	14614	GO:0044464	rods	cell part
+14610	14614	GO:0044422	rods	organelle part
+14631	14634	GO:0044464	rod	cell part
+14631	14634	GO:0044422	rod	organelle part
+14658	14661	GO:0044464	rod	cell part
+14658	14661	GO:0044422	rod	organelle part
+14670	14675	GO:0005623	cells	cell
+14702	14707	GO:0023046	red	signaling process
+14702	14707	GO:0050896	red	response to stimulus
+14702	14707	GO:0009987	red	cellular process
+14702	14707	GO:0065007	red	biological regulation
+14770	14776	GO:0005623	cells	cell
+14826	14832	GO:0005623	cells	cell
+14891	14896	GO:0044464	rods	cell part
+14891	14896	GO:0044422	rods	organelle part
+15683	15685	GO:0065007	To	biological regulation
+15683	15685	GO:0009987	To	cellular process
+15851	15855	GO:0005623	cell	cell
+15851	15861	GO:0009987	cell cycle	cellular process
+15866	15876	GO:0016265	apoptosis	death
+15866	15876	GO:0009987	apoptosis	cellular process
+15908	15912	GO:0005623	cell	cell
+15908	15918	GO:0009987	cell cycle	cellular process
+16412	16417	GO:0016265	death	death
+16492	16494	GO:0065007	to	biological regulation
+16492	16494	GO:0009987	to	cellular process
+16555	16559	GO:0005623	cell	cell
+16555	16565	GO:0009987	cell cycle	cellular process
+16623	16626	GO:0044464	rod	cell part
+16623	16626	GO:0044422	rod	organelle part
+16678	16684	GO:0005623	cells	cell
+16720	16727	GO:0065007	neurons	biological regulation
+16720	16727	GO:0016265	neurons	death
+16720	16727	GO:0009987	neurons	cellular process
+16785	16789	GO:0005623	cell	cell
+16953	16958	GO:0005623	cells	cell
+17003	17006	GO:0044464	rod	cell part
+17003	17006	GO:0044422	rod	organelle part
+17103	17110	GO:0065007	neurons	biological regulation
+17103	17110	GO:0016265	neurons	death
+17103	17110	GO:0009987	neurons	cellular process
+17174	17178	GO:0005623	cell	cell
+17174	17185	GO:0044464	cell bodies	cell part
+17275	17279	GO:0003824	IPL	catalytic activity
+17407	17411	GO:0044464	rods	cell part
+17407	17411	GO:0044422	rods	organelle part
+17638	17651	GO:0009987	transcription	cellular process
+17638	17651	GO:0008152	transcription	metabolic process
+17789	17792	GO:0044464	rod	cell part
+17789	17792	GO:0044422	rod	organelle part
+17812	17817	GO:0065007	to	biological regulation
+17812	17817	GO:0009987	to	cellular process
+17969	17980	GO:0022414	maturation	reproductive process
+18092	18101	GO:0016265	apoptosis	death
+18092	18101	GO:0009987	apoptosis	cellular process
+18173	18176	GO:0044464	rod	cell part
+18173	18176	GO:0044422	rod	organelle part
+18177	18182	GO:0005623	cells	cell
+18541	18546	GO:0005623	cells	cell
+18579	18584	GO:0005623	cells	cell
+18726	18733	GO:0065007	neurons	biological regulation
+18726	18733	GO:0016265	neurons	death
+18726	18733	GO:0009987	neurons	cellular process
+18788	18792	GO:0005623	cell	cell
+18852	18857	GO:0005623	cells	cell
+18904	18911	GO:0009987	reduced	cellular process
+18904	18911	GO:0008152	reduced	metabolic process
+18904	18911	GO:0005215	reduced	transporter activity
+18904	18911	GO:0051234	reduced	establishment of localization
+18912	18916	GO:0005623	cell	cell
+18938	18940	GO:0065007	to	biological regulation
+18938	18940	GO:0009987	to	cellular process
+18954	18959	GO:0016265	death	death
+18995	19004	GO:0016265	apoptosis	death
+18995	19004	GO:0009987	apoptosis	cellular process
+19012	19021	GO:0009987	embryonic	cellular process
+19012	19021	GO:0065007	embryonic	biological regulation
+19156	19165	GO:0003824	proteins	catalytic activity
+19296	19303	GO:0009987	reduced	cellular process
+19296	19303	GO:0008152	reduced	metabolic process
+19296	19303	GO:0005215	reduced	transporter activity
+19296	19303	GO:0051234	reduced	establishment of localization
+19536	19543	GO:0065007	neurons	biological regulation
+19536	19543	GO:0016265	neurons	death
+19536	19543	GO:0009987	neurons	cellular process
+19580	19582	GO:0065007	to	biological regulation
+19580	19582	GO:0009987	to	cellular process
+19702	19704	GO:0065007	to	biological regulation
+19702	19704	GO:0009987	to	cellular process
+19905	19915	GO:0023052	signalling	signaling
+19948	19959	GO:0065007	to	biological regulation
+19948	19959	GO:0009987	to	cellular process
+19972	19977	GO:0005623	cells	cell
+20003	20010	GO:0005623	cells	cell
+20032	20035	GO:0044464	rod	cell part
+20032	20035	GO:0044422	rod	organelle part
+20053	20059	GO:0005623	cells	cell
+20139	20150	GO:0065007	to	biological regulation
+20139	20150	GO:0009987	to	cellular process
+20252	20257	GO:0005623	cells	cell
+20283	20285	GO:0065007	to	biological regulation
+20283	20285	GO:0009987	to	cellular process
+20358	20361	GO:0044464	rod	cell part
+20358	20361	GO:0044422	rod	organelle part
+20490	20493	GO:0044464	rod	cell part
+20490	20493	GO:0044422	rod	organelle part
+20506	20510	GO:0005623	cell	cell
+20511	20520	GO:0016265	apoptosis	death
+20511	20520	GO:0009987	apoptosis	cellular process
+20898	20901	GO:0044464	rod	cell part
+20898	20901	GO:0044422	rod	organelle part
+20949	20955	GO:0065007	to	biological regulation
+20949	20955	GO:0009987	to	cellular process
+21088	21093	GO:0044464	rods	cell part
+21088	21093	GO:0044422	rods	organelle part
+21131	21135	GO:0044464	rods	cell part
+21131	21135	GO:0044422	rods	organelle part
+21241	21247	GO:0005623	cells	cell
+21350	21357	GO:0009987	reduced	cellular process
+21350	21357	GO:0008152	reduced	metabolic process
+21350	21357	GO:0005215	reduced	transporter activity
+21350	21357	GO:0051234	reduced	establishment of localization
+21560	21567	GO:0009987	reduced	cellular process
+21560	21567	GO:0008152	reduced	metabolic process
+21560	21567	GO:0005215	reduced	transporter activity
+21560	21567	GO:0051234	reduced	establishment of localization
+21577	21579	GO:0065007	to	biological regulation
+21577	21579	GO:0009987	to	cellular process
+21656	21665	GO:0009987	embryonic	cellular process
+21656	21665	GO:0065007	embryonic	biological regulation
+21733	21738	GO:0005623	cells	cell
+21768	21772	GO:0005623	cell	cell
+21872	21877	GO:0065007	to	biological regulation
+21872	21877	GO:0009987	to	cellular process
+21932	21934	GO:0065007	to	biological regulation
+21932	21934	GO:0009987	to	cellular process
+22054	22056	GO:0065007	to	biological regulation
+22054	22056	GO:0009987	to	cellular process
+22074	22076	GO:0065007	to	biological regulation
+22074	22076	GO:0009987	to	cellular process
+22168	22173	GO:0005623	cells	cell
+22360	22363	GO:0044464	rod	cell part
+22360	22363	GO:0044422	rod	organelle part
+22455	22459	GO:0005623	Cell	cell
+22536	22540	GO:0005623	cell	cell
+22597	22603	GO:0005623	cells	cell
+22604	22606	GO:0065007	To	biological regulation
+22604	22606	GO:0009987	To	cellular process
+22708	22716	GO:0003824	proteins	catalytic activity
+22829	22840	GO:0005623	cell	cell
+22829	22840	GO:0044464	cell bodies	cell part
+22849	22866	GO:0065007	to	biological regulation
+22849	22866	GO:0009987	to	cellular process
+23058	23061	GO:0003824	IPL	catalytic activity
+23121	23124	GO:0003824	IPL	catalytic activity
+23199	23203	GO:0003824	IPL	catalytic activity
+23296	23300	GO:0005623	cell	cell
+23296	23307	GO:0044464	cell bodies	cell part
+23340	23342	GO:0065007	to	biological regulation
+23340	23342	GO:0009987	to	cellular process
+23352	23356	GO:0005623	cell	cell
+23387	23396	GO:0023046	red	signaling process
+23387	23396	GO:0050896	red	response to stimulus
+23387	23396	GO:0009987	red	cellular process
+23387	23396	GO:0065007	red	biological regulation
+23615	23620	GO:0023046	red	signaling process
+23615	23620	GO:0050896	red	response to stimulus
+23615	23620	GO:0009987	red	cellular process
+23615	23620	GO:0065007	red	biological regulation
+23753	23758	GO:0023046	red	signaling process
+23753	23758	GO:0050896	red	response to stimulus
+23753	23758	GO:0009987	red	cellular process
+23753	23758	GO:0065007	red	biological regulation
+23898	23902	GO:0005623	cell	cell
+23898	23909	GO:0044464	cell bodies	cell part
+23937	23941	GO:0005623	cell	cell
+23937	23949	GO:0044464	cell bodies	cell part
+23962	23966	GO:0005623	cell	cell
+23962	23973	GO:0044464	cell bodies	cell part
+24278	24282	GO:0003824	IPL	catalytic activity
+24393	24405	GO:0009987	cholinergic	cellular process
+24393	24405	GO:0023052	cholinergic	signaling
+24393	24405	GO:0065007	cholinergic	biological regulation
+24434	24441	GO:0065007	neurons	biological regulation
+24434	24441	GO:0016265	neurons	death
+24434	24441	GO:0009987	neurons	cellular process
+24606	24613	GO:0045202	synapse	synapse
+24638	24641	GO:0003824	IPL	catalytic activity
+24656	24658	GO:0065007	to	biological regulation
+24656	24658	GO:0009987	to	cellular process
+24729	24736	GO:0045202	synapse	synapse
+24767	24770	GO:0003824	IPL	catalytic activity
+24785	24787	GO:0065007	to	biological regulation
+24785	24787	GO:0009987	to	cellular process
+25118	25122	GO:0005623	cell	cell
+25118	25129	GO:0044464	cell bodies	cell part
+25188	25193	GO:0005623	cells	cell
+25245	25249	GO:0022414	soma	reproductive process
+25245	25249	GO:0032502	soma	developmental process
+25329	25345	GO:0044464	synaptic vesicle	cell part
+25329	25345	GO:0043226	synaptic vesicle	organelle
+25329	25345	GO:0044456	synaptic vesicle	synapse part
+25338	25345	GO:0043226	vesicle	organelle
+25346	25353	GO:0003824	protein	catalytic activity
+25428	25432	GO:0022414	soma	reproductive process
+25428	25432	GO:0032502	soma	developmental process
+25437	25446	GO:0044464	dendrites	cell part
+25490	25495	GO:0005623	cells	cell
+25599	25604	GO:0005623	cells	cell
+25660	25667	GO:0065007	neurons	biological regulation
+25660	25667	GO:0016265	neurons	death
+25660	25667	GO:0009987	neurons	cellular process
+25733	25738	GO:0005623	cells	cell
+26019	26024	GO:0005623	cells	cell
+26097	26104	GO:0009987	reduced	cellular process
+26097	26104	GO:0008152	reduced	metabolic process
+26097	26104	GO:0005215	reduced	transporter activity
+26097	26104	GO:0051234	reduced	establishment of localization
+26134	26137	GO:0003824	IPL	catalytic activity
+26179	26181	GO:0065007	to	biological regulation
+26179	26181	GO:0009987	to	cellular process
+26370	26379	GO:0051234	transport	establishment of localization
+26448	26453	GO:0005623	cells	cell
+26481	26486	GO:0005623	cells	cell
+26604	26613	GO:0044464	dendrites	cell part
+26698	26702	GO:0022414	soma	reproductive process
+26698	26702	GO:0032502	soma	developmental process
+26772	26777	GO:0005623	cells	cell
+26957	26959	GO:0065007	to	biological regulation
+26957	26959	GO:0009987	to	cellular process
+27152	27156	GO:0005623	cell	cell
+27152	27163	GO:0044464	cell bodies	cell part
+27215	27224	GO:0051234	transport	establishment of localization
+27405	27409	GO:0005623	cell	cell
+27405	27415	GO:0044464	cell body	cell part
+27571	27575	GO:0005623	cell	cell
+27571	27583	GO:0044464	cell bodies	cell part
+27771	27790	GO:0008152	synthesis	metabolic process
+27795	27804	GO:0051234	transport	establishment of localization
+27987	27994	GO:0009987	mitosis	cellular process
+27987	27994	GO:0016043	mitosis	cellular component organization
+28028	28033	GO:0023046	red	signaling process
+28028	28033	GO:0050896	red	response to stimulus
+28028	28033	GO:0009987	red	cellular process
+28028	28033	GO:0065007	red	biological regulation
+28050	28054	GO:0022414	soma	reproductive process
+28050	28054	GO:0032502	soma	developmental process
+28115	28122	GO:0065007	mitotic	biological regulation
+28213	28220	GO:0009987	mitosis	cellular process
+28213	28220	GO:0016043	mitosis	cellular component organization
+28225	28229	GO:0005623	cell	cell
+28225	28235	GO:0016265	cell death	death
+28225	28235	GO:0009987	cell death	cellular process
+28230	28235	GO:0016265	death	death
+28332	28339	GO:0009987	mitosis	cellular process
+28332	28339	GO:0016043	mitosis	cellular component organization
+28344	28348	GO:0005623	cell	cell
+28447	28455	GO:0009987	mitosis	cellular process
+28447	28455	GO:0016043	mitosis	cellular component organization
+28456	28460	GO:0005623	cell	cell
+28456	28467	GO:0016265	cell death	death
+28456	28467	GO:0009987	cell death	cellular process
+28461	28467	GO:0016265	death	death
+28514	28519	GO:0005623	cells	cell
+28669	28674	GO:0023046	red	signaling process
+28669	28674	GO:0050896	red	response to stimulus
+28669	28674	GO:0009987	red	cellular process
+28669	28674	GO:0065007	red	biological regulation
+28718	28723	GO:0005623	cells	cell
+28843	28847	GO:0005623	cell	cell
+28843	28856	GO:0009987	cell division	cellular process
+28889	28894	GO:0023046	red	signaling process
+28889	28894	GO:0050896	red	response to stimulus
+28889	28894	GO:0009987	red	cellular process
+28889	28894	GO:0065007	red	biological regulation
+28965	28970	GO:0005623	cells	cell
+29362	29370	GO:0003824	proteins	catalytic activity
+29401	29407	GO:0005623	cells	cell
+29469	29471	GO:0065007	to	biological regulation
+29469	29471	GO:0009987	to	cellular process
+29508	29521	GO:0009987	transcription	cellular process
+29508	29521	GO:0008152	transcription	metabolic process
+29525	29529	GO:0065007	to	biological regulation
+29525	29529	GO:0009987	to	cellular process
+29675	29681	GO:0009987	direct	cellular process
+29675	29681	GO:0008152	direct	metabolic process
+29761	29765	GO:0005623	cell	cell
+29761	29771	GO:0009987	cell cycle	cellular process
+29775	29780	GO:0016265	death	death
+29794	29796	GO:0065007	to	biological regulation
+29794	29796	GO:0009987	to	cellular process
+29957	29968	GO:0022414	maturation	reproductive process
+30027	30034	GO:0009987	mitosis	cellular process
+30027	30034	GO:0016043	mitosis	cellular component organization
+30041	30048	GO:0005623	cells	cell
+30206	30214	GO:0009987	mitosis	cellular process
+30206	30214	GO:0016043	mitosis	cellular component organization
+30464	30470	GO:0005623	cells	cell
+30606	30610	GO:0005623	cell	cell
+30606	30616	GO:0016265	cell death	death
+30606	30616	GO:0009987	cell death	cellular process
+30611	30616	GO:0016265	death	death
+30660	30665	GO:0065007	to	biological regulation
+30660	30665	GO:0009987	to	cellular process
+30957	30962	GO:0005623	cells	cell
+31005	31007	GO:0065007	to	biological regulation
+31005	31007	GO:0009987	to	cellular process
+31100	31102	GO:0065007	to	biological regulation
+31100	31102	GO:0009987	to	cellular process
+31201	31207	GO:0005623	cells	cell
+31247	31253	GO:0005623	cells	cell
+31268	31278	GO:0016265	apoptosis	death
+31268	31278	GO:0009987	apoptosis	cellular process
+31280	31282	GO:0065007	To	biological regulation
+31280	31282	GO:0009987	To	cellular process
+31442	31448	GO:0005623	cells	cell
+31460	31465	GO:0005623	cells	cell
+31460	31465	GO:0005623	cells	cell
+31540	31545	GO:0005623	cells	cell
+31903	31908	GO:0065007	to	biological regulation
+31903	31908	GO:0009987	to	cellular process
+31974	31978	GO:0005623	cell	cell
+31974	31984	GO:0009987	cell cycle	cellular process
+32055	32060	GO:0005623	cells	cell
+32165	32170	GO:0005623	cells	cell
+32258	32263	GO:0005623	cells	cell
+32680	32685	GO:0005623	cells	cell
+32947	32954	GO:0009987	Neurons	cellular process
+32947	32954	GO:0016265	Neurons	death
+32947	32954	GO:0065007	Neurons	biological regulation
+33046	33053	GO:0065007	neurons	biological regulation
+33046	33053	GO:0016265	neurons	death
+33046	33053	GO:0009987	neurons	cellular process
+33067	33069	GO:0065007	to	biological regulation
+33067	33069	GO:0009987	to	cellular process
+33321	33326	GO:0065007	to	biological regulation
+33321	33326	GO:0009987	to	cellular process
+33650	33655	GO:0005623	cells	cell
+33744	33749	GO:0005623	cells	cell
+33850	33853	GO:0003824	IPL	catalytic activity
+34127	34131	GO:0023046	red	signaling process
+34127	34131	GO:0050896	red	response to stimulus
+34127	34131	GO:0009987	red	cellular process
+34127	34131	GO:0065007	red	biological regulation
+34205	34209	GO:0022414	soma	reproductive process
+34205	34209	GO:0032502	soma	developmental process
+34214	34223	GO:0044464	dendrites	cell part
+34240	34247	GO:0003824	protein	catalytic activity
+34402	34407	GO:0005623	cells	cell
+34419	34424	GO:0005623	cells	cell
+34728	34736	GO:0065007	neurons	biological regulation
+34728	34736	GO:0016265	neurons	death
+34728	34736	GO:0009987	neurons	cellular process
+34891	34895	GO:0023046	red	signaling process
+34891	34895	GO:0050896	red	response to stimulus
+34891	34895	GO:0009987	red	cellular process
+34891	34895	GO:0065007	red	biological regulation
+35030	35037	GO:0003824	protein	catalytic activity
+35107	35114	GO:0065007	neurons	biological regulation
+35107	35114	GO:0016265	neurons	death
+35107	35114	GO:0009987	neurons	cellular process
+35209	35213	GO:0023046	red	signaling process
+35209	35213	GO:0050896	red	response to stimulus
+35209	35213	GO:0009987	red	cellular process
+35209	35213	GO:0065007	red	biological regulation
+35254	35261	GO:0003824	protein	catalytic activity
+35300	35308	GO:0065007	neurons	biological regulation
+35300	35308	GO:0016265	neurons	death
+35300	35308	GO:0009987	neurons	cellular process
+35382	35386	GO:0023046	red	signaling process
+35382	35386	GO:0050896	red	response to stimulus
+35382	35386	GO:0009987	red	cellular process
+35382	35386	GO:0065007	red	biological regulation
+35394	35399	GO:0023046	red	signaling process
+35394	35399	GO:0050896	red	response to stimulus
+35394	35399	GO:0009987	red	cellular process
+35394	35399	GO:0065007	red	biological regulation
+35463	35468	GO:0022414	soma	reproductive process
+35463	35468	GO:0032502	soma	developmental process
+35483	35486	GO:0003824	IPL	catalytic activity
+35613	35620	GO:0065007	neurons	biological regulation
+35613	35620	GO:0016265	neurons	death
+35613	35620	GO:0009987	neurons	cellular process
+35815	35823	GO:0065007	neurons	biological regulation
+35815	35823	GO:0016265	neurons	death
+35815	35823	GO:0009987	neurons	cellular process
+35942	35953	GO:0009987	cholinergic	cellular process
+35942	35953	GO:0023052	cholinergic	signaling
+35942	35953	GO:0065007	cholinergic	biological regulation
+35954	35961	GO:0065007	neurons	biological regulation
+35954	35961	GO:0016265	neurons	death
+35954	35961	GO:0009987	neurons	cellular process
+36081	36092	GO:0009987	cholinergic	cellular process
+36081	36092	GO:0023052	cholinergic	signaling
+36081	36092	GO:0065007	cholinergic	biological regulation
+36099	36106	GO:0065007	neurons	biological regulation
+36099	36106	GO:0016265	neurons	death
+36099	36106	GO:0009987	neurons	cellular process
+36152	36159	GO:0065007	neurons	biological regulation
+36152	36159	GO:0016265	neurons	death
+36152	36159	GO:0009987	neurons	cellular process
+36387	36399	GO:0051179	Localization	localization
+36520	36528	GO:0044421	antibody	extraccellular region part
+36520	36528	GO:0032991	antibody	macromolecular complex
+36635	36637	GO:0065007	To	biological regulation
+36635	36637	GO:0009987	To	cellular process
+36660	36668	GO:0005623	cell	cell
+36737	36739	GO:0065007	To	biological regulation
+36737	36739	GO:0009987	To	cellular process
+36778	36780	GO:0065007	to	biological regulation
+36778	36780	GO:0009987	to	cellular process
+36958	36966	GO:0044421	antibody	extraccellular region part
+36958	36966	GO:0032991	antibody	macromolecular complex
+37075	37077	GO:0065007	To	biological regulation
+37075	37077	GO:0009987	To	cellular process
+37484	37489	GO:0005623	cells	cell
+37508	37518	GO:0022414	maturation	reproductive process
+37536	37541	GO:0065007	to	biological regulation
+37536	37541	GO:0009987	to	cellular process
+37712	37723	GO:0044464	cytoplasm	cell part
+38155	38168	GO:0009987	transcription	cellular process
+38155	38168	GO:0008152	transcription	metabolic process
+38198	38204	GO:0005623	cells	cell
+38225	38233	GO:0003824	proteins	catalytic activity
+38261	38270	GO:0065007	to	biological regulation
+38261	38270	GO:0009987	to	cellular process
+38560	38572	GO:0051179	localization	localization
+38608	38641	GO:0009987	post-translational modifications	cellular process
+38608	38641	GO:0008152	post-translational modifications	metabolic process
+38705	38709	GO:0005623	Cell	cell
+38716	38724	GO:0003824	Proteins	catalytic activity
+38813	38826	GO:0016265	retinal cells	death
+38813	38826	GO:0009987	retinal cells	cellular process
+38813	38826	GO:0032502	retinal cells	developmental process
+38821	38826	GO:0005623	cells	cell
+38907	38909	GO:0065007	to	biological regulation
+38907	38909	GO:0009987	to	cellular process
+38931	38940	GO:0003824	proteins	catalytic activity
+38989	38991	GO:0065007	to	biological regulation
+38989	38991	GO:0009987	to	cellular process
+39022	39030	GO:0003824	protein	catalytic activity
+39352	39355	GO:0023046	red	signaling process
+39352	39355	GO:0050896	red	response to stimulus
+39352	39355	GO:0009987	red	cellular process
+39352	39355	GO:0065007	red	biological regulation
+40317	40324	GO:0009987	M-phase	cellular process
+40367	40372	GO:0023046	red	signaling process
+40367	40372	GO:0050896	red	response to stimulus
+40367	40372	GO:0009987	red	cellular process
+40367	40372	GO:0065007	red	biological regulation
+40545	40549	GO:0005623	cell	cell
+40545	40555	GO:0009987	cell cycle	cellular process
+40637	40646	GO:0044464	cytoplasm	cell part
+40651	40658	GO:0043226	nucleus	organelle
+40651	40658	GO:0044464	nucleus	cell part
+41144	41156	GO:0051179	localization	localization
+41326	41330	GO:0005623	cell	cell
+41326	41336	GO:0009987	cell cycle	cellular process
+41511	41513	GO:0065007	To	biological regulation
+41511	41513	GO:0009987	To	cellular process
+41687	41689	GO:0065007	to	biological regulation
+41687	41689	GO:0009987	to	cellular process
+41938	41945	GO:0003824	protein	catalytic activity
+42184	42186	GO:0065007	to	biological regulation
+42184	42186	GO:0009987	to	cellular process
+42398	42402	GO:0005623	cell	cell
+42398	42408	GO:0009987	cell cycle	cellular process
+42459	42461	GO:0065007	to	biological regulation
+42459	42461	GO:0009987	to	cellular process
+42462	42466	GO:0005623	cell	cell
+42462	42472	GO:0009987	cell cycle	cellular process
+42583	42588	GO:0005623	cells	cell
+42780	42784	GO:0005623	cell	cell
+42780	42790	GO:0009987	cell cycle	cellular process
+42780	42799	GO:0065007	cell cycle control	biological regulation
+42835	42837	GO:0065007	to	biological regulation
+42835	42837	GO:0009987	to	cellular process
+42911	42915	GO:0005623	Cell	cell
+42929	42934	GO:0016265	Death	death
+43022	43026	GO:0005623	cell	cell
+43022	43032	GO:0009987	cell cycle	cellular process
+43090	43095	GO:0016265	death	death
+43150	43152	GO:0065007	to	biological regulation
+43150	43152	GO:0009987	to	cellular process
+43259	43263	GO:0005623	cell	cell
+43259	43269	GO:0009987	cell cycle	cellular process
+43286	43294	GO:0065007	neurons	biological regulation
+43286	43294	GO:0016265	neurons	death
+43286	43294	GO:0009987	neurons	cellular process
+43339	43347	GO:0065007	neurons	biological regulation
+43339	43347	GO:0016265	neurons	death
+43339	43347	GO:0009987	neurons	cellular process
+43513	43519	GO:0016265	death	death
+43580	43590	GO:0022414	maturation	reproductive process
+43679	43684	GO:0016265	death	death
+43737	43744	GO:0065007	neurons	biological regulation
+43737	43744	GO:0016265	neurons	death
+43737	43744	GO:0009987	neurons	cellular process
+43877	43888	GO:0065007	to	biological regulation
+43877	43888	GO:0009987	to	cellular process
+43913	43919	GO:0005623	cells	cell
+43933	43938	GO:0016265	death	death
+43967	43973	GO:0005623	cells	cell
+44125	44127	GO:0065007	to	biological regulation
+44125	44127	GO:0009987	to	cellular process
+44147	44151	GO:0005623	cell	cell
+44147	44162	GO:0009987	cell maturation	cellular process
+44147	44162	GO:0032502	cell maturation	developmental process
+44152	44162	GO:0022414	maturation	reproductive process
+44177	44179	GO:0065007	to	biological regulation
+44177	44179	GO:0009987	to	cellular process
+44256	44262	GO:0016265	death	death
+44301	44315	GO:0016265	retinal cells	death
+44301	44315	GO:0009987	retinal cells	cellular process
+44301	44315	GO:0032502	retinal cells	developmental process
+44309	44315	GO:0005623	cells	cell
+44347	44360	GO:0009987	transcription	cellular process
+44347	44360	GO:0008152	transcription	metabolic process
+44509	44515	GO:0016265	death	death
+44772	44781	GO:0016265	apoptosis	death
+44772	44781	GO:0009987	apoptosis	cellular process
+44796	44798	GO:0065007	to	biological regulation
+44796	44798	GO:0009987	to	cellular process
+44918	44920	GO:0065007	to	biological regulation
+44918	44920	GO:0009987	to	cellular process
+44928	44937	GO:0016265	apoptosis	death
+44928	44937	GO:0009987	apoptosis	cellular process
+44947	44952	GO:0005623	cells	cell
+45100	45104	GO:0005623	cell	cell
+45100	45113	GO:0009987	cell division	cellular process
+45127	45136	GO:0016265	apoptosis	death
+45127	45136	GO:0009987	apoptosis	cellular process
+45237	45239	GO:0065007	to	biological regulation
+45237	45239	GO:0009987	to	cellular process
+45258	45262	GO:0065007	to	biological regulation
+45258	45262	GO:0009987	to	cellular process
+45614	45620	GO:0005623	cells	cell
+45630	45635	GO:0005623	cells	cell
+45656	45658	GO:0065007	to	biological regulation
+45656	45658	GO:0009987	to	cellular process
+45666	45671	GO:0065007	to	biological regulation
+45666	45671	GO:0009987	to	cellular process
+45894	45902	GO:0065007	neurons	biological regulation
+45894	45902	GO:0016265	neurons	death
+45894	45902	GO:0009987	neurons	cellular process
+45951	45962	GO:0009987	cholinergic	cellular process
+45951	45962	GO:0023052	cholinergic	signaling
+45951	45962	GO:0065007	cholinergic	biological regulation
+46022	46031	GO:0008152	synthesis	metabolic process
+46036	46045	GO:0051234	transport	establishment of localization
+46071	46080	GO:0003824	proteins	catalytic activity
+46109	46111	GO:0065007	to	biological regulation
+46109	46111	GO:0009987	to	cellular process
+46256	46268	GO:0032502	neurogenesis	developmental process
+46256	46268	GO:0009987	neurogenesis	cellular process
+46285	46293	GO:0009987	mitosis	cellular process
+46285	46293	GO:0016043	mitosis	cellular component organization
+46359	46365	GO:0005623	cells	cell
+46454	46467	GO:0009987	transcription	cellular process
+46454	46467	GO:0008152	transcription	metabolic process
+46851	46854	GO:0065007	Red	biological regulation
+46851	46854	GO:0009987	Red	cellular process
+46851	46854	GO:0050896	Red	response to stimulus
+46851	46854	GO:0023046	Red	signaling process
+46961	46967	GO:0009987	direct	cellular process
+46961	46967	GO:0008152	direct	metabolic process
+47015	47017	GO:0065007	to	biological regulation
+47015	47017	GO:0009987	to	cellular process
+47089	47091	GO:0065007	to	biological regulation
+47089	47091	GO:0009987	to	cellular process
+47115	47117	GO:0065007	to	biological regulation
+47115	47117	GO:0009987	to	cellular process
+47147	47155	GO:0009987	mitosis	cellular process
+47147	47155	GO:0016043	mitosis	cellular component organization
+47335	47341	GO:0009987	direct	cellular process
+47335	47341	GO:0008152	direct	metabolic process
+47409	47413	GO:0005623	cell	cell
+47575	47581	GO:0016265	death	death
+47669	47675	GO:0016265	death	death
+47734	47739	GO:0016265	death	death
+47942	47946	GO:0005623	cell	cell
+47942	47952	GO:0009987	cell cycle	cellular process
+48031	48038	GO:0065007	neurons	biological regulation
+48031	48038	GO:0016265	neurons	death
+48031	48038	GO:0009987	neurons	cellular process
+48121	48128	GO:0065007	neurons	biological regulation
+48121	48128	GO:0016265	neurons	death
+48121	48128	GO:0009987	neurons	cellular process
+48266	48268	GO:0065007	To	biological regulation
+48266	48268	GO:0009987	To	cellular process
+48365	48367	GO:0065007	to	biological regulation
+48365	48367	GO:0009987	to	cellular process
+48457	48459	GO:0065007	to	biological regulation
+48457	48459	GO:0009987	to	cellular process
+48489	48494	GO:0005623	cells	cell
+48537	48539	GO:0065007	to	biological regulation
+48537	48539	GO:0009987	to	cellular process
+48554	48556	GO:0065007	to	biological regulation
+48554	48556	GO:0009987	to	cellular process
+48589	48596	GO:0003824	protein	catalytic activity
+49020	49032	GO:0051179	Localization	localization
+49083	49085	GO:0065007	to	biological regulation
+49083	49085	GO:0009987	to	cellular process
+49330	49344	GO:0016265	retinal cells	death
+49330	49344	GO:0009987	retinal cells	cellular process
+49330	49344	GO:0032502	retinal cells	developmental process
+49338	49344	GO:0005623	cells	cell
+49844	49852	GO:0003824	proteins	catalytic activity
+49876	49888	GO:0051179	localization	localization
+49947	49955	GO:0003824	proteins	catalytic activity
+49975	49989	GO:0016265	retinal cells	death
+49975	49989	GO:0009987	retinal cells	cellular process
+49975	49989	GO:0032502	retinal cells	developmental process
+49983	49989	GO:0005623	cells	cell
+50050	50052	GO:0065007	to	biological regulation
+50050	50052	GO:0009987	to	cellular process
+50081	50093	GO:0051179	localization	localization
+50204	50211	GO:0043226	nucleus	organelle
+50204	50211	GO:0044464	nucleus	cell part
+50212	50214	GO:0065007	to	biological regulation
+50212	50214	GO:0009987	to	cellular process
+50215	50225	GO:0044464	cytoplasm	cell part
+50522	50527	GO:0065007	to	biological regulation
+50522	50527	GO:0009987	to	cellular process
+50629	50634	GO:0005623	cells	cell
+50645	50649	GO:0005623	cell	cell
+50645	50655	GO:0009987	cell cycle	cellular process
+50663	50671	GO:0065007	neurons	biological regulation
+50663	50671	GO:0016265	neurons	death
+50663	50671	GO:0009987	neurons	cellular process
+50826	50832	GO:0005623	cells	cell
+50888	50890	GO:0065007	to	biological regulation
+50888	50890	GO:0009987	to	cellular process
+50936	50942	GO:0005623	cells	cell
+51088	51093	GO:0005623	cells	cell
+51133	51135	GO:0065007	to	biological regulation
+51133	51135	GO:0009987	to	cellular process
+51224	51231	GO:0065007	neurons	biological regulation
+51224	51231	GO:0016265	neurons	death
+51224	51231	GO:0009987	neurons	cellular process
+51320	51322	GO:0065007	to	biological regulation
+51320	51322	GO:0009987	to	cellular process
+51447	51453	GO:0065007	to	biological regulation
+51447	51453	GO:0009987	to	cellular process
+51467	51469	GO:0065007	to	biological regulation
+51467	51469	GO:0009987	to	cellular process
+51677	51682	GO:0005623	cells	cell
+51795	51799	GO:0005623	cell	cell
+51892	51897	GO:0005623	cells	cell
+52352	52356	GO:0005623	cell	cell
+52352	52362	GO:0009987	cell cycle	cellular process
+52464	52477	GO:0009987	transcription	cellular process
+52464	52477	GO:0008152	transcription	metabolic process
+52502	52509	GO:0043226	nucleus	organelle
+52502	52509	GO:0044464	nucleus	cell part
+52514	52523	GO:0044464	cytoplasm	cell part
+52531	52543	GO:0032502	neurogenesis	developmental process
+52531	52543	GO:0009987	neurogenesis	cellular process
+52601	52603	GO:0065007	to	biological regulation
+52601	52603	GO:0009987	to	cellular process
+52656	52664	GO:0003824	proteins	catalytic activity
+52685	52692	GO:0065007	neurons	biological regulation
+52685	52692	GO:0016265	neurons	death
+52685	52692	GO:0009987	neurons	cellular process
+52769	52776	GO:0065007	neurons	biological regulation
+52769	52776	GO:0016265	neurons	death
+52769	52776	GO:0009987	neurons	cellular process
+52890	52895	GO:0005623	cells	cell
+52987	52991	GO:0005623	cell	cell
+53185	53192	GO:0005488	binding	binding
+53307	53316	GO:0044422	chromatin	organelle part
+53307	53316	GO:0044464	chromatin	cell part
+53418	53431	GO:0009987	transcription	cellular process
+53418	53431	GO:0008152	transcription	metabolic process
+53435	53439	GO:0065007	to	biological regulation
+53435	53439	GO:0009987	to	cellular process
+53536	53538	GO:0065007	to	biological regulation
+53536	53538	GO:0009987	to	cellular process
+53575	53577	GO:0065007	to	biological regulation
+53575	53577	GO:0009987	to	cellular process
+53632	53637	GO:0005623	cells	cell
+53737	53739	GO:0065007	to	biological regulation
+53737	53739	GO:0009987	to	cellular process
+53952	53954	GO:0065007	to	biological regulation
+53952	53954	GO:0009987	to	cellular process
+54672	54679	GO:0065007	to	biological regulation
+54672	54679	GO:0009987	to	cellular process
+55060	55065	GO:0005623	cells	cell
+55123	55131	GO:0044421	antibody	extraccellular region part
+55123	55131	GO:0032991	antibody	macromolecular complex
+55216	55226	GO:0044421	antibodies	extraccellular region part
+55216	55226	GO:0032991	antibodies	macromolecular complex
+55385	55387	GO:0065007	to	biological regulation
+55385	55387	GO:0009987	to	cellular process
+55933	55943	GO:0044421	antibodies	extraccellular region part
+55933	55943	GO:0032991	antibodies	macromolecular complex
+55956	55961	GO:0005623	cells	cell
+56293	56298	GO:0005623	cells	cell
+56589	56591	GO:0065007	to	biological regulation
+56589	56591	GO:0009987	to	cellular process
+56733	56738	GO:0005623	cells	cell
+56814	56819	GO:0005623	cells	cell
+56875	56879	GO:0005623	cell	cell
+56949	56951	GO:0065007	to	biological regulation
+56949	56951	GO:0009987	to	cellular process
+57099	57107	GO:0009987	M-phase	cellular process
+57122	57127	GO:0005623	cells	cell
+57229	57233	GO:0005623	cell	cell
+57426	57448	GO:0009987	reverse transcription	cellular process
+57426	57448	GO:0008152	reverse transcription	metabolic process
+57434	57448	GO:0009987	transcription	cellular process
+57434	57448	GO:0008152	transcription	metabolic process
+57588	57597	GO:0032501	digestion	multicellular organismal process
+57662	57664	GO:0065007	to	biological regulation
+57662	57664	GO:0009987	to	cellular process
+57792	57801	GO:0008152	synthesis	metabolic process
+58403	58412	GO:0005488	template	binding
+58644	58646	GO:0065007	to	biological regulation
+58644	58646	GO:0009987	to	cellular process
+58701	58703	GO:0065007	to	biological regulation
+58701	58703	GO:0009987	to	cellular process
+58770	58772	GO:0065007	to	biological regulation
+58770	58772	GO:0009987	to	cellular process
+58946	58948	GO:0065007	to	biological regulation
+58946	58948	GO:0009987	to	cellular process
+59137	59145	GO:0003824	proteins	catalytic activity
+59283	59291	GO:0003824	Proteins	catalytic activity
+59339	59341	GO:0065007	to	biological regulation
+59339	59341	GO:0009987	to	cellular process
+59408	59417	GO:0044464	membranes	cell part
+59448	59456	GO:0044421	antibody	extraccellular region part
+59448	59456	GO:0032991	antibody	macromolecular complex
+59581	59590	GO:0044464	membranes	cell part
+59688	59696	GO:0044421	antibody	extraccellular region part
+59688	59696	GO:0032991	antibody	macromolecular complex
+59727	59734	GO:0065007	to	biological regulation
+59727	59734	GO:0009987	to	cellular process
+59964	59974	GO:0044421	antibodies	extraccellular region part
+59964	59974	GO:0032991	antibodies	macromolecular complex
+60641	60647	GO:0065007	to	biological regulation
+60641	60647	GO:0009987	to	cellular process
+61478	61482	GO:0005623	Cell	cell
+61483	61488	GO:0016265	Death	death
+61639	61643	GO:0023046	red	signaling process
+61639	61643	GO:0050896	red	response to stimulus
+61639	61643	GO:0009987	red	cellular process
+61639	61643	GO:0065007	red	biological regulation
+61651	61660	GO:0016265	apoptosis	death
+61651	61660	GO:0009987	apoptosis	cellular process
+61669	61674	GO:0023046	red	signaling process
+61669	61674	GO:0050896	red	response to stimulus
+61669	61674	GO:0009987	red	cellular process
+61669	61674	GO:0065007	red	biological regulation
+61699	61704	GO:0005623	cells	cell
+61773	61782	GO:0008152	synthesis	metabolic process
+62000	62009	GO:0009987	Apoptosis	cellular process
+62000	62009	GO:0016265	Apoptosis	death
+62017	62026	GO:0065007	Embryonic	biological regulation
+62017	62026	GO:0009987	Embryonic	cellular process
+62237	62241	GO:0023046	red	signaling process
+62237	62241	GO:0050896	red	response to stimulus
+62237	62241	GO:0009987	red	cellular process
+62237	62241	GO:0065007	red	biological regulation
+62245	62254	GO:0016265	apoptosis	death
+62245	62254	GO:0009987	apoptosis	cellular process
+62281	62286	GO:0023046	red	signaling process
+62281	62286	GO:0050896	red	response to stimulus
+62281	62286	GO:0009987	red	cellular process
+62281	62286	GO:0065007	red	biological regulation
+62322	62327	GO:0005623	cells	cell
+62595	62602	GO:0016043	Mitosis	cellular component organization
+62595	62602	GO:0009987	Mitosis	cellular process
+62733	62740	GO:0009987	M-phase	cellular process
+62752	62757	GO:0023046	red	signaling process
+62752	62757	GO:0050896	red	response to stimulus
+62752	62757	GO:0009987	red	cellular process
+62752	62757	GO:0065007	red	biological regulation
+62810	62816	GO:0005623	cells	cell
+62810	62816	GO:0005623	cells	cell
+63163	63167	GO:0044422	Rod	organelle part
+63163	63167	GO:0044464	Rod	cell part
+63179	63183	GO:0005623	Cell	cell
+63184	63189	GO:0016265	Death	death
+63359	63364	GO:0005623	cells	cell
+63374	63379	GO:0023046	red	signaling process
+63374	63379	GO:0050896	red	response to stimulus
+63374	63379	GO:0009987	red	cellular process
+63374	63379	GO:0065007	red	biological regulation
+63380	63384	GO:0044464	rods	cell part
+63380	63384	GO:0044422	rods	organelle part
+63401	63404	GO:0044464	rod	cell part
+63401	63404	GO:0044422	rod	organelle part
+63428	63431	GO:0044464	rod	cell part
+63428	63431	GO:0044422	rod	organelle part
+63440	63445	GO:0005623	cells	cell
+63530	63536	GO:0005623	cells	cell
+63566	63569	GO:0044464	rod	cell part
+63566	63569	GO:0044422	rod	organelle part
+63587	63593	GO:0005623	cells	cell
+63652	63657	GO:0044464	rods	cell part
+63652	63657	GO:0044422	rods	organelle part
+64350	64354	GO:0023046	red	signaling process
+64350	64354	GO:0050896	red	response to stimulus
+64350	64354	GO:0009987	red	cellular process
+64350	64354	GO:0065007	red	biological regulation
+64376	64381	GO:0005623	cells	cell
+64450	64455	GO:0023046	red	signaling process
+64450	64455	GO:0050896	red	response to stimulus
+64450	64455	GO:0009987	red	cellular process
+64450	64455	GO:0065007	red	biological regulation
+64759	64763	GO:0023046	red	signaling process
+64759	64763	GO:0050896	red	response to stimulus
+64759	64763	GO:0009987	red	cellular process
+64759	64763	GO:0065007	red	biological regulation
+64809	64814	GO:0023046	red	signaling process
+64809	64814	GO:0050896	red	response to stimulus
+64809	64814	GO:0009987	red	cellular process
+64809	64814	GO:0065007	red	biological regulation
+64857	64860	GO:0003824	IPL	catalytic activity
+65207	65210	GO:0003824	IPL	catalytic activity
+65518	65531	GO:0016265	retinal cells	death
+65518	65531	GO:0009987	retinal cells	cellular process
+65518	65531	GO:0032502	retinal cells	developmental process
+65526	65531	GO:0005623	cells	cell
+65612	65614	GO:0065007	to	biological regulation
+65612	65614	GO:0009987	to	cellular process
+65632	65640	GO:0003824	protein	catalytic activity
+65707	65709	GO:0065007	to	biological regulation
+65707	65709	GO:0009987	to	cellular process
+65740	65748	GO:0003824	protein	catalytic activity
+65866	65876	GO:0044421	Antibodies	extraccellular region part
+65866	65876	GO:0032991	Antibodies	macromolecular complex
+66705	66716	GO:0044421	antibodies	extraccellular region part
+66705	66716	GO:0032991	antibodies	macromolecular complex
+66904	66913	GO:0009987	embryonic	cellular process
+66904	66913	GO:0065007	embryonic	biological regulation
+66938	66951	GO:0009987	transcription	cellular process
+66938	66951	GO:0008152	transcription	metabolic process
+67071	67075	GO:0005623	cell	cell
+67110	67113	GO:0003824	IPL	catalytic activity
+67316	67323	GO:0003824	protein	catalytic activity
+67350	67354	GO:0005623	cell	cell
+67381	67385	GO:0005623	cell	cell
+67448	67452	GO:0005623	cell	cell
+67950	67952	GO:0065007	to	biological regulation
+67950	67952	GO:0009987	to	cellular process
+68073	68075	GO:0065007	to	biological regulation
+68073	68075	GO:0009987	to	cellular process

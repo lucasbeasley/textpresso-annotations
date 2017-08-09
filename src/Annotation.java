@@ -164,7 +164,7 @@ class Main{
                         }
 
                         //***remove*** trouble-shooting
-                        if(filen.equals("15005800.txt") && annoterm.equals("antibodies") && tempstartindex >= 48000){
+                        if(filen.equals("15207008.txt") && annoterm.equals("centrosome")){
                             boolean bool = true;
                         }
                         //check if part of the same Textpresso annotation
@@ -292,5 +292,6 @@ class Main{
         writeOut(GOannotations, directory);
 
         //***ISSUE*** Some starting indexes are set to -1
+        //Symbols in middle can cause index to not be found, may need to switch to Pattern/Matcher and StringBuilder
     }
 }

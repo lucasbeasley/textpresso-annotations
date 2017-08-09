@@ -1,0 +1,1202 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+63	76	GO:0032502	embryogenesis	developmental process
+88	110	GO:0051234	apoptotic cell removal	establishment of localization
+88	110	GO:0016043	apoptotic cell removal	cellular component organization
+88	110	GO:0009987	apoptotic cell removal	cellular process
+98	110	GO:0005623	cell	cell
+134	146	GO:0009987	Phagocytosis	cellular process
+134	146	GO:0016043	Phagocytosis	cellular component organization
+134	146	GO:0051234	Phagocytosis	establishment of localization
+160	165	GO:0005623	cells	cell
+181	183	GO:0065007	to	biological regulation
+181	183	GO:0009987	to	cellular process
+224	245	GO:0065007	cellular homeostasis	biological regulation
+224	245	GO:0009987	cellular homeostasis	cellular process
+327	338	GO:0009987	recognition	cellular process
+343	353	GO:0065007	engulfment	biological regulation
+343	353	GO:0009987	engulfment	cellular process
+343	353	GO:0016043	engulfment	cellular component organization
+343	372	GO:0009987	engulfment of apoptotic cells	cellular process
+343	372	GO:0016043	engulfment of apoptotic cells	cellular component organization
+1135	1140	GO:0005623	cells	cell
+1261	1270	GO:0023052	signaling	signaling
+7156	7158	GO:0065007	To	biological regulation
+7156	7158	GO:0009987	To	cellular process
+9586	9601	GO:0040007	growth	growth
+10830	10843	GO:0032502	embryogenesis	developmental process
+35035	35050	GO:0032502	eye development	developmental process
+35134	35136	GO:0065007	to	biological regulation
+35134	35136	GO:0009987	to	cellular process
+37205	37230	GO:0009987	apoptotic cell clearance	cellular process
+37205	37230	GO:0016043	apoptotic cell clearance	cellular component organization
+37205	37230	GO:0051234	apoptotic cell clearance	establishment of localization
+37215	37230	GO:0005623	cell	cell
+38270	38280	GO:0065007	engulfment	biological regulation
+38270	38280	GO:0009987	engulfment	cellular process
+38270	38280	GO:0016043	engulfment	cellular component organization
+38270	38307	GO:0009987	engulfment of apoptotic cells	cellular process
+38270	38307	GO:0016043	engulfment of apoptotic cells	cellular component organization
+38900	38905	GO:0005623	cells	cell
+48661	48670	GO:0023052	signaling	signaling
+48856	48862	GO:0005623	cells	cell
+65624	65638	GO:0032502	embryogenesis	developmental process
+-1	22	GO:0051234	apoptotic cell removal	establishment of localization
+-1	22	GO:0016043	apoptotic cell removal	cellular component organization
+-1	22	GO:0009987	apoptotic cell removal	cellular process
+98	22	GO:0005623	cell	cell
+1047	1071	GO:0009987	apoptotic cell clearance	cellular process
+1047	1071	GO:0016043	apoptotic cell clearance	cellular component organization
+1047	1071	GO:0051234	apoptotic cell clearance	establishment of localization
+1057	1071	GO:0005623	cell	cell
+1129	1134	GO:0065007	to	biological regulation
+1129	1134	GO:0009987	to	cellular process
+1129	1154	GO:0009987	apoptotic cell clearance	cellular process
+1129	1154	GO:0016043	apoptotic cell clearance	cellular component organization
+1129	1154	GO:0051234	apoptotic cell clearance	establishment of localization
+1135	1154	GO:0005623	cell	cell
+1901	1923	GO:0016265	Programmed cell death	death
+1901	1923	GO:0022414	Programmed cell death	reproductive process
+1901	1923	GO:0032502	Programmed cell death	developmental process
+1901	1923	GO:0009987	Programmed cell death	cellular process
+1912	1923	GO:0005623	cell	cell
+1912	1923	GO:0016265	cell death	death
+1912	1923	GO:0009987	cell death	cellular process
+1917	1923	GO:0016265	death	death
+1927	1937	GO:0016265	apoptosis	death
+1927	1937	GO:0009987	apoptosis	cellular process
+1996	2004	GO:0005623	cell	cell
+2171	2176	GO:0005623	cells	cell
+2211	2216	GO:0005623	cells	cell
+2243	2252	GO:0009987	embryonic	cellular process
+2243	2252	GO:0065007	embryonic	biological regulation
+2243	2264	GO:0032502	embryonic development	developmental process
+2287	2291	GO:0005623	cell	cell
+2287	2297	GO:0016265	cell death	death
+2287	2297	GO:0009987	cell death	cellular process
+2292	2297	GO:0016265	death	death
+2352	2357	GO:0005623	cells	cell
+2404	2409	GO:0005623	cells	cell
+2475	2481	GO:0005623	cells	cell
+2571	2584	GO:0044464	intracellular	cell part
+2571	2584	GO:0051179	intracellular	localization
+2571	2584	GO:0009987	intracellular	cellular process
+2634	2639	GO:0005623	cells	cell
+2686	2698	GO:0009987	Phagocytosis	cellular process
+2686	2698	GO:0016043	Phagocytosis	cellular component organization
+2686	2698	GO:0051234	Phagocytosis	establishment of localization
+2712	2717	GO:0005623	cells	cell
+2746	2756	GO:0065007	engulfment	biological regulation
+2746	2756	GO:0009987	engulfment	cellular process
+2746	2756	GO:0016043	engulfment	cellular component organization
+2837	2847	GO:0065007	engulfment	biological regulation
+2837	2847	GO:0009987	engulfment	cellular process
+2837	2847	GO:0016043	engulfment	cellular component organization
+2837	2866	GO:0009987	engulfment of apoptotic cells	cellular process
+2837	2866	GO:0016043	engulfment of apoptotic cells	cellular component organization
+3103	3108	GO:0005623	cells	cell
+28251	28260	GO:0051234	secretion	establishment of localization
+29344	29355	GO:0009987	recognition	cellular process
+29384	29390	GO:0005623	cell	cell
+29475	29479	GO:0065007	to	biological regulation
+29475	29479	GO:0009987	to	cellular process
+29567	29573	GO:0005623	cells	cell
+29642	29644	GO:0065007	to	biological regulation
+29642	29644	GO:0009987	to	cellular process
+32815	32820	GO:0005623	cells	cell
+43599	43610	GO:0009987	recognition	cellular process
+43662	43672	GO:0065007	engulfment	biological regulation
+43662	43672	GO:0009987	engulfment	cellular process
+43662	43672	GO:0016043	engulfment	cellular component organization
+43662	43696	GO:0009987	engulfment of apoptotic cells	cellular process
+43662	43696	GO:0016043	engulfment of apoptotic cells	cellular component organization
+43736	43742	GO:0005623	cells	cell
+44030	44042	GO:0051234	phagocytosis	establishment of localization
+44030	44042	GO:0016043	phagocytosis	cellular component organization
+44030	44042	GO:0009987	phagocytosis	cellular process
+44246	44252	GO:0005623	cells	cell
+48534	48545	GO:0009987	recognition	cellular process
+-1	22	GO:0005488	binding	binding
+3528	3540	GO:0051234	phagocytosis	establishment of localization
+3528	3540	GO:0016043	phagocytosis	cellular component organization
+3528	3540	GO:0009987	phagocytosis	cellular process
+3875	3887	GO:0051704	transduction	multi-organism process
+3932	3936	GO:0005623	cell	cell
+3932	3948	GO:0009987	cell recognition	cellular process
+3937	3948	GO:0009987	recognition	cellular process
+4038	4062	GO:0009987	apoptotic cell clearance	cellular process
+4038	4062	GO:0016043	apoptotic cell clearance	cellular component organization
+4038	4062	GO:0051234	apoptotic cell clearance	establishment of localization
+4048	4062	GO:0005623	cell	cell
+4186	4190	GO:0005623	cell	cell
+4186	4202	GO:0009987	cell recognition	cellular process
+4191	4202	GO:0009987	recognition	cellular process
+4291	4298	GO:0003824	protein	catalytic activity
+4465	4471	GO:0040007	growth	growth
+4585	4600	GO:0044464	plasma membrane	cell part
+4592	4600	GO:0044464	membrane	cell part
+4614	4619	GO:0005623	cells	cell
+4670	4692	GO:0065007	induction of apoptosis	biological regulation
+4683	4692	GO:0016265	apoptosis	death
+4683	4692	GO:0009987	apoptosis	cellular process
+4711	4713	GO:0065007	to	biological regulation
+4711	4713	GO:0009987	to	cellular process
+4774	4778	GO:0005623	cell	cell
+4774	4790	GO:0009987	cell recognition	cellular process
+4779	4790	GO:0009987	recognition	cellular process
+4838	4846	GO:0005488	bridging	binding
+4899	4905	GO:0005623	cells	cell
+4930	4938	GO:0003824	proteins	catalytic activity
+4947	4954	GO:0003824	protein	catalytic activity
+5032	5053	GO:0002376	complement activation	immune system process
+5032	5053	GO:0008152	complement activation	metabolic process
+5032	5053	GO:0065007	complement activation	biological regulation
+5032	5053	GO:0050896	complement activation	response to stimulus
+5090	5097	GO:0003824	protein	catalytic activity
+5154	5158	GO:0065007	to	biological regulation
+5154	5158	GO:0009987	to	cellular process
+5465	5473	GO:0009987	oxidized	cellular process
+5465	5473	GO:0008152	oxidized	metabolic process
+5814	5819	GO:0005623	cells	cell
+5849	5861	GO:0051234	phagocytosis	establishment of localization
+5849	5861	GO:0016043	phagocytosis	cellular component organization
+5849	5861	GO:0009987	phagocytosis	cellular process
+5964	5972	GO:0044421	antibody	extraccellular region part
+5964	5972	GO:0032991	antibody	macromolecular complex
+5993	6000	GO:0005488	binding	binding
+6010	6012	GO:0065007	to	biological regulation
+6010	6012	GO:0009987	to	cellular process
+6029	6034	GO:0005623	cells	cell
+6053	6055	GO:0065007	to	biological regulation
+6053	6055	GO:0009987	to	cellular process
+6140	6146	GO:0040007	growth	growth
+6306	6315	GO:0023052	signaling	signaling
+6374	6379	GO:0005623	cells	cell
+6428	6444	GO:0002376	immune responses	immune system process
+6428	6444	GO:0050896	immune responses	response to stimulus
+6445	6447	GO:0065007	to	biological regulation
+6445	6447	GO:0009987	to	cellular process
+6458	6463	GO:0005623	cells	cell
+6537	6541	GO:0005623	cell	cell
+6537	6550	GO:0043226	cell nucleus	organelle
+6537	6550	GO:0044464	cell nucleus	cell part
+6542	6550	GO:0043226	nucleus	organelle
+6542	6550	GO:0044464	nucleus	cell part
+6563	6575	GO:0051179	localization	localization
+6616	6628	GO:0051179	localization	localization
+6688	6690	GO:0065007	to	biological regulation
+6688	6690	GO:0009987	to	cellular process
+6695	6699	GO:0005623	cell	cell
+6695	6707	GO:0043226	cell nucleus	organelle
+6695	6707	GO:0044464	cell nucleus	cell part
+6700	6707	GO:0043226	nucleus	organelle
+6700	6707	GO:0044464	nucleus	cell part
+6802	6814	GO:0051179	localization	localization
+6829	6836	GO:0003824	protein	catalytic activity
+6875	6887	GO:0051179	localization	localization
+6917	6922	GO:0005623	cells	cell
+6943	6955	GO:0051234	phagocytosis	establishment of localization
+6943	6955	GO:0016043	phagocytosis	cellular component organization
+6943	6955	GO:0009987	phagocytosis	cellular process
+6969	6975	GO:0005623	cells	cell
+7035	7037	GO:0065007	to	biological regulation
+7035	7037	GO:0009987	to	cellular process
+7105	7109	GO:0005623	cell	cell
+7105	7121	GO:0009987	cell recognition	cellular process
+7110	7121	GO:0009987	recognition	cellular process
+7144	7154	GO:0023052	signaling	signaling
+7156	7158	GO:0065007	To	biological regulation
+7156	7158	GO:0009987	To	cellular process
+7355	7362	GO:0032502	embryos	developmental process
+7716	7718	GO:0065007	to	biological regulation
+7716	7718	GO:0009987	to	cellular process
+7742	7748	GO:0005623	cells	cell
+7854	7856	GO:0065007	to	biological regulation
+7854	7856	GO:0009987	to	cellular process
+7857	7867	GO:0016265	apoptosis	death
+7857	7867	GO:0009987	apoptosis	cellular process
+7914	7916	GO:0065007	To	biological regulation
+7914	7916	GO:0009987	To	cellular process
+7982	7985	GO:0065007	to	biological regulation
+7982	7985	GO:0009987	to	cellular process
+8150	8159	GO:0009987	embryonic	cellular process
+8150	8159	GO:0065007	embryonic	biological regulation
+8170	8175	GO:0005623	cells	cell
+8370	8372	GO:0065007	to	biological regulation
+8370	8372	GO:0009987	to	cellular process
+8509	8511	GO:0065007	to	biological regulation
+8509	8511	GO:0009987	to	cellular process
+8599	8606	GO:0032502	embryos	developmental process
+8866	8868	GO:0065007	To	biological regulation
+8866	8868	GO:0009987	To	cellular process
+8893	8902	GO:0009987	embryonic	cellular process
+8893	8902	GO:0065007	embryonic	biological regulation
+8893	8914	GO:0032502	embryonic development	developmental process
+9016	9024	GO:0032502	embryos	developmental process
+9083	9090	GO:0032502	embryos	developmental process
+9148	9155	GO:0032502	embryos	developmental process
+9247	9254	GO:0032502	embryos	developmental process
+9344	9353	GO:0009987	embryonic	cellular process
+9344	9353	GO:0065007	embryonic	biological regulation
+9385	9387	GO:0065007	to	biological regulation
+9385	9387	GO:0009987	to	cellular process
+9406	9413	GO:0032502	embryos	developmental process
+9494	9501	GO:0032502	embryos	developmental process
+9722	9726	GO:0032502	head	developmental process
+9806	9810	GO:0032502	head	developmental process
+9863	9878	GO:0032502	eye development	developmental process
+9924	9932	GO:0032502	embryos	developmental process
+10116	10123	GO:0032502	embryos	developmental process
+10217	10219	GO:0065007	to	biological regulation
+10217	10219	GO:0009987	to	cellular process
+10238	10245	GO:0032502	embryos	developmental process
+10353	10360	GO:0022414	matings	reproductive process
+10353	10360	GO:0051704	matings	multi-organism process
+10372	10374	GO:0065007	to	biological regulation
+10372	10374	GO:0009987	to	cellular process
+10624	10628	GO:0032502	head	developmental process
+10830	10843	GO:0032502	embryogenesis	developmental process
+11074	11076	GO:0065007	to	biological regulation
+11074	11076	GO:0009987	to	cellular process
+11108	11113	GO:0005623	cells	cell
+11118	11125	GO:0032502	embryos	developmental process
+11155	11157	GO:0065007	To	biological regulation
+11155	11157	GO:0009987	To	cellular process
+11240	11242	GO:0065007	to	biological regulation
+11240	11242	GO:0009987	to	cellular process
+11410	11414	GO:0005623	cell	cell
+11580	11587	GO:0032502	embryos	developmental process
+11605	11607	GO:0065007	to	biological regulation
+11605	11607	GO:0009987	to	cellular process
+11660	11662	GO:0065007	to	biological regulation
+11660	11662	GO:0009987	to	cellular process
+11717	11719	GO:0065007	to	biological regulation
+11717	11719	GO:0009987	to	cellular process
+11773	11781	GO:0032502	embryos	developmental process
+12065	12079	GO:0032502	embryogenesis	developmental process
+12397	12404	GO:0032502	embryos	developmental process
+12663	12665	GO:0065007	to	biological regulation
+12663	12665	GO:0009987	to	cellular process
+12771	12776	GO:0065007	to	biological regulation
+12771	12776	GO:0009987	to	cellular process
+13225	13230	GO:0005623	cells	cell
+13331	13333	GO:0065007	to	biological regulation
+13331	13333	GO:0009987	to	cellular process
+13780	13782	GO:0065007	to	biological regulation
+13780	13782	GO:0009987	to	cellular process
+13910	13923	GO:0032502	embryogenesis	developmental process
+14078	14096	GO:0032502	organ development	developmental process
+14151	14158	GO:0032502	embryos	developmental process
+14170	14172	GO:0065007	to	biological regulation
+14170	14172	GO:0009987	to	cellular process
+14559	14564	GO:0005623	cells	cell
+14591	14595	GO:0005623	cell	cell
+14591	14603	GO:0044464	cell surface	cell part
+14908	14915	GO:0032502	embryos	developmental process
+14977	14984	GO:0032502	embryos	developmental process
+15073	15080	GO:0044464	capsule	cell part
+15135	15140	GO:0005623	cells	cell
+15486	15493	GO:0032502	embryos	developmental process
+15599	15606	GO:0032502	embryos	developmental process
+15711	15716	GO:0005623	cells	cell
+15742	15750	GO:0009987	internal	cellular process
+15742	15750	GO:0008152	internal	metabolic process
+15773	15787	GO:0009987	neuronal cells	cellular process
+15773	15787	GO:0016265	neuronal cells	death
+15782	15787	GO:0005623	cells	cell
+15832	15839	GO:0032502	embryos	developmental process
+15972	15976	GO:0032502	head	developmental process
+16010	16015	GO:0065007	to	biological regulation
+16010	16015	GO:0009987	to	cellular process
+16074	16083	GO:0065007	to	biological regulation
+16074	16083	GO:0009987	to	cellular process
+16685	16695	GO:0022414	maturation	reproductive process
+16833	16842	GO:0009987	embryonic	cellular process
+16833	16842	GO:0065007	embryonic	biological regulation
+16983	16987	GO:0065007	to	biological regulation
+16983	16987	GO:0009987	to	cellular process
+17369	17378	GO:0008152	formation	metabolic process
+17674	17681	GO:0032502	embryos	developmental process
+17735	17742	GO:0032502	embryos	developmental process
+17735	17742	GO:0032502	embryos	developmental process
+18002	18009	GO:0032502	embryos	developmental process
+18071	18076	GO:0005623	cells	cell
+18094	18101	GO:0009987	reduced	cellular process
+18094	18101	GO:0008152	reduced	metabolic process
+18094	18101	GO:0005215	reduced	transporter activity
+18094	18101	GO:0051234	reduced	establishment of localization
+18189	18196	GO:0032502	embryos	developmental process
+18590	18592	GO:0065007	to	biological regulation
+18590	18592	GO:0009987	to	cellular process
+18860	18865	GO:0005623	cells	cell
+19153	19160	GO:0032502	embryos	developmental process
+19258	19266	GO:0032502	embryos	developmental process
+19273	19280	GO:0032502	embryos	developmental process
+19422	19427	GO:0005623	cells	cell
+19575	19580	GO:0005623	cells	cell
+19758	19767	GO:0008152	formation	metabolic process
+19847	19852	GO:0065007	to	biological regulation
+19847	19852	GO:0009987	to	cellular process
+19893	19895	GO:0065007	to	biological regulation
+19893	19895	GO:0009987	to	cellular process
+20058	20066	GO:0032502	embryos	developmental process
+20204	20208	GO:0005623	cell	cell
+20287	20289	GO:0065007	to	biological regulation
+20287	20289	GO:0009987	to	cellular process
+20420	20432	GO:0009987	Phagocytosis	cellular process
+20420	20432	GO:0016043	Phagocytosis	cellular component organization
+20420	20432	GO:0051234	Phagocytosis	establishment of localization
+20460	20465	GO:0005623	cells	cell
+20586	20592	GO:0005623	cells	cell
+20629	20633	GO:0005623	cell	cell
+20629	20639	GO:0016265	cell death	death
+20629	20639	GO:0009987	cell death	cellular process
+20634	20639	GO:0016265	death	death
+20699	20708	GO:0009987	Apoptosis	cellular process
+20699	20708	GO:0016265	Apoptosis	death
+20725	20730	GO:0005623	cells	cell
+20825	20827	GO:0065007	to	biological regulation
+20825	20827	GO:0009987	to	cellular process
+20996	21000	GO:0005623	cell	cell
+20996	21006	GO:0016265	cell death	death
+20996	21006	GO:0009987	cell death	cellular process
+21001	21006	GO:0016265	death	death
+21153	21157	GO:0005623	cell	cell
+21235	21239	GO:0005623	cell	cell
+21235	21245	GO:0016265	cell death	death
+21235	21245	GO:0009987	cell death	cellular process
+21240	21245	GO:0016265	death	death
+21453	21458	GO:0005623	cells	cell
+21466	21483	GO:0032502	limb development	developmental process
+21485	21487	GO:0065007	To	biological regulation
+21485	21487	GO:0009987	To	cellular process
+21537	21542	GO:0005623	cells	cell
+21689	21698	GO:0016265	apoptosis	death
+21689	21698	GO:0009987	apoptosis	cellular process
+21852	21857	GO:0005623	cells	cell
+21923	21930	GO:0032502	embryos	developmental process
+22052	22061	GO:0016265	apoptosis	death
+22052	22061	GO:0009987	apoptosis	cellular process
+22117	22138	GO:0016265	programmed cell death	death
+22117	22138	GO:0022414	programmed cell death	reproductive process
+22117	22138	GO:0009987	programmed cell death	cellular process
+22117	22138	GO:0032502	programmed cell death	developmental process
+22128	22138	GO:0005623	cell	cell
+22128	22138	GO:0016265	cell death	death
+22128	22138	GO:0009987	cell death	cellular process
+22133	22138	GO:0016265	death	death
+22296	22301	GO:0005623	cells	cell
+22454	22459	GO:0005623	cells	cell
+22486	22494	GO:0032502	embryos	developmental process
+22550	22555	GO:0005623	cells	cell
+22595	22603	GO:0032502	embryos	developmental process
+22638	22640	GO:0065007	to	biological regulation
+22638	22640	GO:0009987	to	cellular process
+22691	22696	GO:0005623	cells	cell
+22782	22806	GO:0009987	apoptotic cell clearance	cellular process
+22782	22806	GO:0016043	apoptotic cell clearance	cellular component organization
+22782	22806	GO:0051234	apoptotic cell clearance	establishment of localization
+22792	22806	GO:0005623	cell	cell
+22844	22853	GO:0009987	embryonic	cellular process
+22844	22853	GO:0065007	embryonic	biological regulation
+22844	22865	GO:0032502	embryonic development	developmental process
+22936	22941	GO:0005623	cells	cell
+23166	23188	GO:0051234	apoptotic cell removal	establishment of localization
+23166	23188	GO:0016043	apoptotic cell removal	cellular component organization
+23166	23188	GO:0009987	apoptotic cell removal	cellular process
+23176	23188	GO:0005623	cell	cell
+23285	23290	GO:0005623	cells	cell
+23298	23314	GO:0032502	lung development	developmental process
+23364	23373	GO:0016265	apoptosis	death
+23364	23373	GO:0009987	apoptosis	cellular process
+23388	23392	GO:0005623	cell	cell
+23549	23558	GO:0016265	apoptosis	death
+23549	23558	GO:0009987	apoptosis	cellular process
+23594	23612	GO:0032502	lung morphogenesis	developmental process
+23599	23612	GO:0032502	morphogenesis	developmental process
+23710	23715	GO:0005623	cells	cell
+23777	23779	GO:0065007	to	biological regulation
+23777	23779	GO:0009987	to	cellular process
+23867	23869	GO:0065007	to	biological regulation
+23867	23869	GO:0009987	to	cellular process
+23933	23944	GO:0016265	neutrophils	death
+23933	23944	GO:0009987	neutrophils	cellular process
+24044	24046	GO:0065007	To	biological regulation
+24044	24046	GO:0009987	To	cellular process
+24106	24115	GO:0016265	apoptosis	death
+24106	24115	GO:0009987	apoptosis	cellular process
+24136	24150	GO:0032502	embryogenesis	developmental process
+24327	24333	GO:0005623	cells	cell
+24351	24360	GO:0009987	embryonic	cellular process
+24351	24360	GO:0065007	embryonic	biological regulation
+24380	24385	GO:0005623	cells	cell
+24580	24585	GO:0005623	cells	cell
+24628	24634	GO:0005623	cells	cell
+24739	24763	GO:0009987	apoptotic cell clearance	cellular process
+24739	24763	GO:0016043	apoptotic cell clearance	cellular component organization
+24739	24763	GO:0051234	apoptotic cell clearance	establishment of localization
+24749	24763	GO:0005623	cell	cell
+24783	24790	GO:0032502	embryos	developmental process
+24836	24848	GO:0051234	phagocytosis	establishment of localization
+24836	24848	GO:0016043	phagocytosis	cellular component organization
+24836	24848	GO:0009987	phagocytosis	cellular process
+24862	24867	GO:0005623	cells	cell
+24919	24925	GO:0005623	cells	cell
+24927	24929	GO:0065007	To	biological regulation
+24927	24929	GO:0009987	To	cellular process
+25028	25032	GO:0005623	cell	cell
+25063	25075	GO:0051234	phagocytosis	establishment of localization
+25063	25075	GO:0016043	phagocytosis	cellular component organization
+25063	25075	GO:0009987	phagocytosis	cellular process
+25149	25161	GO:0051234	phagocytosis	establishment of localization
+25149	25161	GO:0016043	phagocytosis	cellular component organization
+25149	25161	GO:0009987	phagocytosis	cellular process
+25169	25181	GO:0009987	Phagocytosis	cellular process
+25169	25181	GO:0016043	Phagocytosis	cellular component organization
+25169	25181	GO:0051234	Phagocytosis	establishment of localization
+25274	25279	GO:0005623	cells	cell
+25317	25329	GO:0051234	phagocytosis	establishment of localization
+25317	25329	GO:0016043	phagocytosis	cellular component organization
+25317	25329	GO:0009987	phagocytosis	cellular process
+25424	25428	GO:0005623	cell	cell
+25524	25528	GO:0005623	cell	cell
+25529	25539	GO:0065007	engulfment	biological regulation
+25529	25539	GO:0009987	engulfment	cellular process
+25529	25539	GO:0016043	engulfment	cellular component organization
+25587	25589	GO:0065007	To	biological regulation
+25587	25589	GO:0009987	To	cellular process
+25667	25671	GO:0005623	cell	cell
+25718	25730	GO:0051234	phagocytosis	establishment of localization
+25718	25730	GO:0016043	phagocytosis	cellular component organization
+25718	25730	GO:0009987	phagocytosis	cellular process
+25822	25828	GO:0005623	cells	cell
+25976	25981	GO:0005623	cells	cell
+26276	26281	GO:0005623	cells	cell
+26350	26355	GO:0005623	cells	cell
+26507	26512	GO:0005623	cells	cell
+26614	26616	GO:0065007	to	biological regulation
+26614	26616	GO:0009987	to	cellular process
+26634	26639	GO:0005623	cells	cell
+26665	26676	GO:0009987	recognition	cellular process
+26680	26692	GO:0051234	phagocytosis	establishment of localization
+26680	26692	GO:0016043	phagocytosis	cellular component organization
+26680	26692	GO:0009987	phagocytosis	cellular process
+26696	26701	GO:0005623	cells	cell
+26721	26743	GO:0016265	programmed cell death	death
+26721	26743	GO:0022414	programmed cell death	reproductive process
+26721	26743	GO:0009987	programmed cell death	cellular process
+26721	26743	GO:0032502	programmed cell death	developmental process
+26732	26743	GO:0005623	cell	cell
+26732	26743	GO:0016265	cell death	death
+26732	26743	GO:0009987	cell death	cellular process
+26737	26743	GO:0016265	death	death
+26773	26780	GO:0009987	reduced	cellular process
+26773	26780	GO:0008152	reduced	metabolic process
+26773	26780	GO:0005215	reduced	transporter activity
+26773	26780	GO:0051234	reduced	establishment of localization
+26817	26821	GO:0065007	to	biological regulation
+26817	26821	GO:0009987	to	cellular process
+26906	26918	GO:0051234	phagocytosis	establishment of localization
+26906	26918	GO:0016043	phagocytosis	cellular component organization
+26906	26918	GO:0009987	phagocytosis	cellular process
+26932	26938	GO:0005623	cells	cell
+27071	27082	GO:0009987	recognition	cellular process
+27071	27101	GO:0009987	recognition of apoptotic cells	cellular process
+27251	27257	GO:0005623	cells	cell
+27407	27412	GO:0065007	to	biological regulation
+27407	27412	GO:0009987	to	cellular process
+27413	27419	GO:0005623	cells	cell
+27611	27617	GO:0005623	cells	cell
+27788	27790	GO:0065007	to	biological regulation
+27788	27790	GO:0009987	to	cellular process
+27874	27880	GO:0005623	cells	cell
+27913	27917	GO:0065007	to	biological regulation
+27913	27917	GO:0009987	to	cellular process
+29344	29355	GO:0009987	recognition	cellular process
+29360	29370	GO:0065007	engulfment	biological regulation
+29360	29370	GO:0009987	engulfment	cellular process
+29360	29370	GO:0016043	engulfment	cellular component organization
+29360	29390	GO:0009987	engulfment of apoptotic cells	cellular process
+29360	29390	GO:0016043	engulfment of apoptotic cells	cellular component organization
+29567	29573	GO:0005623	cells	cell
+47442	47444	GO:0065007	To	biological regulation
+47442	47444	GO:0009987	To	cellular process
+48661	48670	GO:0023052	signaling	signaling
+-1	22	GO:0051234	secretion	establishment of localization
+409	411	GO:0065007	To	biological regulation
+409	411	GO:0009987	To	cellular process
+1111	1121	GO:0065007	engulfment	biological regulation
+1111	1121	GO:0009987	engulfment	cellular process
+1111	1121	GO:0016043	engulfment	cellular component organization
+1111	1140	GO:0009987	engulfment of apoptotic cells	cellular process
+1111	1140	GO:0016043	engulfment of apoptotic cells	cellular component organization
+1304	1309	GO:0005623	cells	cell
+2171	2176	GO:0005623	cells	cell
+2211	2216	GO:0005623	cells	cell
+2352	2357	GO:0005623	cells	cell
+2417	2422	GO:0065007	to	biological regulation
+2417	2422	GO:0009987	to	cellular process
+2693	2698	GO:0065007	to	biological regulation
+2693	2698	GO:0009987	to	cellular process
+6306	6315	GO:0023052	signaling	signaling
+7110	7121	GO:0009987	recognition	cellular process
+25529	25539	GO:0065007	engulfment	biological regulation
+25529	25539	GO:0009987	engulfment	cellular process
+25529	25539	GO:0016043	engulfment	cellular component organization
+25529	25561	GO:0009987	engulfment of apoptotic cells	cellular process
+25529	25561	GO:0016043	engulfment of apoptotic cells	cellular component organization
+25822	25828	GO:0005623	cells	cell
+25976	25981	GO:0005623	cells	cell
+26773	26780	GO:0009987	reduced	cellular process
+26773	26780	GO:0008152	reduced	metabolic process
+26773	26780	GO:0005215	reduced	transporter activity
+26773	26780	GO:0051234	reduced	establishment of localization
+26817	26821	GO:0065007	to	biological regulation
+26817	26821	GO:0009987	to	cellular process
+30031	30045	GO:0032502	embryogenesis	developmental process
+30278	30280	GO:0065007	to	biological regulation
+30278	30280	GO:0009987	to	cellular process
+30939	30941	GO:0065007	to	biological regulation
+30939	30941	GO:0009987	to	cellular process
+31139	31145	GO:0040007	growth	growth
+31293	31306	GO:0032502	embryogenesis	developmental process
+31349	31372	GO:0032501	branching morphogenesis	multicellular organismal process
+31349	31372	GO:0032502	branching morphogenesis	developmental process
+31359	31372	GO:0032502	morphogenesis	developmental process
+31556	31563	GO:0044464	capsule	cell part
+32128	32135	GO:0032502	embryos	developmental process
+32505	32526	GO:0016265	programmed cell death	death
+32505	32526	GO:0022414	programmed cell death	reproductive process
+32505	32526	GO:0009987	programmed cell death	cellular process
+32505	32526	GO:0032502	programmed cell death	developmental process
+32516	32526	GO:0005623	cell	cell
+32516	32526	GO:0016265	cell death	death
+32516	32526	GO:0009987	cell death	cellular process
+32521	32526	GO:0016265	death	death
+32534	32550	GO:0032502	lung development	developmental process
+32599	32612	GO:0032502	embryogenesis	developmental process
+32620	32622	GO:0065007	to	biological regulation
+32620	32622	GO:0009987	to	cellular process
+32686	32695	GO:0016265	apoptosis	death
+32686	32695	GO:0009987	apoptosis	cellular process
+32719	32738	GO:0032502	lung morphogenesis	developmental process
+32724	32738	GO:0032502	morphogenesis	developmental process
+32762	32764	GO:0065007	to	biological regulation
+32762	32764	GO:0009987	to	cellular process
+32815	32820	GO:0005623	cells	cell
+32911	32916	GO:0005623	cells	cell
+32966	32968	GO:0065007	to	biological regulation
+32966	32968	GO:0009987	to	cellular process
+33087	33092	GO:0005623	cells	cell
+33113	33131	GO:0032502	lung morphogenesis	developmental process
+33118	33131	GO:0032502	morphogenesis	developmental process
+33220	33236	GO:0032502	lung development	developmental process
+33244	33258	GO:0032502	embryogenesis	developmental process
+33272	33281	GO:0008152	formation	metabolic process
+33309	33332	GO:0032501	branching morphogenesis	multicellular organismal process
+33309	33332	GO:0032502	branching morphogenesis	developmental process
+33319	33332	GO:0032502	morphogenesis	developmental process
+33406	33415	GO:0008152	formation	metabolic process
+33482	33491	GO:0008152	formation	metabolic process
+33724	33726	GO:0065007	to	biological regulation
+33724	33726	GO:0009987	to	cellular process
+33763	33777	GO:0032502	embryogenesis	developmental process
+33786	33810	GO:0032502	mammary gland formation	developmental process
+33800	33810	GO:0008152	formation	metabolic process
+33926	33935	GO:0016265	apoptosis	death
+33926	33935	GO:0009987	apoptosis	cellular process
+34067	34069	GO:0065007	to	biological regulation
+34067	34069	GO:0009987	to	cellular process
+34311	34321	GO:0022414	maturation	reproductive process
+34346	34353	GO:0065007	type II	biological regulation
+34346	34353	GO:0003824	type II	catalytic activity
+34346	34353	GO:0060089	type II	molecular transducer activity
+34346	34353	GO:0008152	type II	metabolic process
+34374	34379	GO:0005623	cells	cell
+34451	34456	GO:0016265	death	death
+34783	34800	GO:0032502	heart development	developmental process
+35035	35050	GO:0032502	eye development	developmental process
+35101	35108	GO:0032502	embryos	developmental process
+35231	35240	GO:0008152	formation	metabolic process
+35246	35251	GO:0065007	to	biological regulation
+35246	35251	GO:0009987	to	cellular process
+35656	35669	GO:0032502	morphogenesis	developmental process
+35725	35739	GO:0032502	embryogenesis	developmental process
+36035	36037	GO:0065007	to	biological regulation
+36035	36037	GO:0009987	to	cellular process
+36137	36151	GO:0032502	morphogenesis	developmental process
+36206	36215	GO:0008152	formation	metabolic process
+36469	36476	GO:0032502	embryos	developmental process
+36554	36560	GO:0032502	embryo	developmental process
+36757	36767	GO:0008152	formation	metabolic process
+36845	36854	GO:0008152	formation	metabolic process
+36949	36953	GO:0005623	cell	cell
+37106	37111	GO:0005623	cells	cell
+37119	37135	GO:0032502	eye development	developmental process
+37189	37191	GO:0065007	to	biological regulation
+37189	37191	GO:0009987	to	cellular process
+37205	37230	GO:0009987	apoptotic cell clearance	cellular process
+37205	37230	GO:0016043	apoptotic cell clearance	cellular component organization
+37205	37230	GO:0051234	apoptotic cell clearance	establishment of localization
+37215	37230	GO:0005623	cell	cell
+37274	37283	GO:0016265	apoptosis	death
+37274	37283	GO:0009987	apoptosis	cellular process
+37357	37377	GO:0009987	apoptotic cell death	cellular process
+37357	37377	GO:0016265	apoptotic cell death	death
+37367	37377	GO:0005623	cell	cell
+37367	37377	GO:0016265	cell death	death
+37367	37377	GO:0009987	cell death	cellular process
+37372	37377	GO:0016265	death	death
+37442	37446	GO:0005623	cell	cell
+37442	37452	GO:0016265	cell death	death
+37442	37452	GO:0009987	cell death	cellular process
+37447	37452	GO:0016265	death	death
+37535	37544	GO:0016265	apoptosis	death
+37535	37544	GO:0009987	apoptosis	cellular process
+37597	37599	GO:0065007	to	biological regulation
+37597	37599	GO:0009987	to	cellular process
+37646	37648	GO:0065007	to	biological regulation
+37646	37648	GO:0009987	to	cellular process
+37661	37663	GO:0065007	to	biological regulation
+37661	37663	GO:0009987	to	cellular process
+37692	37701	GO:0008152	formation	metabolic process
+37758	37774	GO:0032502	eye development	developmental process
+37805	37809	GO:0005623	cell	cell
+37810	37819	GO:0016265	apoptosis	death
+37810	37819	GO:0009987	apoptosis	cellular process
+37863	37865	GO:0065007	to	biological regulation
+37863	37865	GO:0009987	to	cellular process
+37943	37947	GO:0005623	cell	cell
+37943	37953	GO:0016265	cell death	death
+37943	37953	GO:0009987	cell death	cellular process
+37948	37953	GO:0016265	death	death
+38235	38240	GO:0005623	cells	cell
+38241	38243	GO:0065007	to	biological regulation
+38241	38243	GO:0009987	to	cellular process
+38270	38280	GO:0065007	engulfment	biological regulation
+38270	38280	GO:0009987	engulfment	cellular process
+38270	38280	GO:0016043	engulfment	cellular component organization
+38386	38394	GO:0044421	antibody	extraccellular region part
+38386	38394	GO:0032991	antibody	macromolecular complex
+38699	38701	GO:0065007	to	biological regulation
+38699	38701	GO:0009987	to	cellular process
+38829	38831	GO:0065007	to	biological regulation
+38829	38831	GO:0009987	to	cellular process
+38900	38905	GO:0005623	cells	cell
+38918	38922	GO:0005623	cell	cell
+38993	39000	GO:0009987	reduced	cellular process
+38993	39000	GO:0008152	reduced	metabolic process
+38993	39000	GO:0005215	reduced	transporter activity
+38993	39000	GO:0051234	reduced	establishment of localization
+39001	39005	GO:0005623	cell	cell
+39001	39011	GO:0016265	cell death	death
+39001	39011	GO:0009987	cell death	cellular process
+39006	39011	GO:0016265	death	death
+39067	39072	GO:0005623	cells	cell
+39085	39087	GO:0065007	to	biological regulation
+39085	39087	GO:0009987	to	cellular process
+39444	39469	GO:0009987	apoptotic cell clearance	cellular process
+39444	39469	GO:0016043	apoptotic cell clearance	cellular component organization
+39444	39469	GO:0051234	apoptotic cell clearance	establishment of localization
+39454	39469	GO:0005623	cell	cell
+39626	39636	GO:0022414	maturation	reproductive process
+39748	39750	GO:0065007	to	biological regulation
+39748	39750	GO:0009987	to	cellular process
+39912	39917	GO:0005623	cells	cell
+40008	40014	GO:0005623	cells	cell
+40032	40056	GO:0009987	apoptotic cell clearance	cellular process
+40032	40056	GO:0016043	apoptotic cell clearance	cellular component organization
+40032	40056	GO:0051234	apoptotic cell clearance	establishment of localization
+40042	40056	GO:0005623	cell	cell
+40078	40085	GO:0032502	embryos	developmental process
+40132	40137	GO:0005623	cells	cell
+40300	40309	GO:0009987	embryonic	cellular process
+40300	40309	GO:0065007	embryonic	biological regulation
+40300	40321	GO:0032502	embryonic development	developmental process
+40345	40347	GO:0065007	to	biological regulation
+40345	40347	GO:0009987	to	cellular process
+40386	40391	GO:0005623	cells	cell
+40437	40449	GO:0051234	phagocytosis	establishment of localization
+40437	40449	GO:0016043	phagocytosis	cellular component organization
+40437	40449	GO:0009987	phagocytosis	cellular process
+40519	40524	GO:0005623	cells	cell
+40640	40646	GO:0005623	cells	cell
+40674	40676	GO:0065007	to	biological regulation
+40674	40676	GO:0009987	to	cellular process
+40707	40731	GO:0009987	apoptotic cell clearance	cellular process
+40707	40731	GO:0016043	apoptotic cell clearance	cellular component organization
+40707	40731	GO:0051234	apoptotic cell clearance	establishment of localization
+40717	40731	GO:0005623	cell	cell
+40736	40738	GO:0065007	to	biological regulation
+40736	40738	GO:0009987	to	cellular process
+40816	40818	GO:0065007	to	biological regulation
+40816	40818	GO:0009987	to	cellular process
+40974	40979	GO:0005623	cells	cell
+41174	41183	GO:0051704	gestation	multi-organism process
+41174	41183	GO:0022414	gestation	reproductive process
+41209	41214	GO:0005623	cells	cell
+41327	41336	GO:0016265	apoptosis	death
+41327	41336	GO:0009987	apoptosis	cellular process
+41372	41374	GO:0065007	to	biological regulation
+41372	41374	GO:0009987	to	cellular process
+41410	41419	GO:0016265	apoptosis	death
+41410	41419	GO:0009987	apoptosis	cellular process
+41602	41618	GO:0032502	lung development	developmental process
+41649	41658	GO:0016265	apoptosis	death
+41649	41658	GO:0009987	apoptosis	cellular process
+41723	41728	GO:0005623	cells	cell
+41765	41778	GO:0032502	embryogenesis	developmental process
+41949	41956	GO:0032502	embryos	developmental process
+41967	41974	GO:0009987	reduced	cellular process
+41967	41974	GO:0008152	reduced	metabolic process
+41967	41974	GO:0005215	reduced	transporter activity
+41967	41974	GO:0051234	reduced	establishment of localization
+42023	42028	GO:0005623	cells	cell
+42048	42056	GO:0032502	embryos	developmental process
+42097	42102	GO:0005623	cells	cell
+42165	42172	GO:0032502	embryos	developmental process
+42255	42260	GO:0005623	cells	cell
+42286	42293	GO:0009987	reduced	cellular process
+42286	42293	GO:0008152	reduced	metabolic process
+42286	42293	GO:0005215	reduced	transporter activity
+42286	42293	GO:0051234	reduced	establishment of localization
+42319	42325	GO:0005623	cells	cell
+42416	42418	GO:0065007	to	biological regulation
+42416	42418	GO:0009987	to	cellular process
+42458	42463	GO:0005623	cells	cell
+42578	42592	GO:0032502	embryogenesis	developmental process
+42636	42641	GO:0005623	cells	cell
+42721	42727	GO:0005623	cells	cell
+42750	42771	GO:0016265	programmed cell death	death
+42750	42771	GO:0022414	programmed cell death	reproductive process
+42750	42771	GO:0009987	programmed cell death	cellular process
+42750	42771	GO:0032502	programmed cell death	developmental process
+42761	42771	GO:0005623	cell	cell
+42761	42771	GO:0016265	cell death	death
+42761	42771	GO:0009987	cell death	cellular process
+42766	42771	GO:0016265	death	death
+42807	42821	GO:0032502	embryogenesis	developmental process
+42869	42888	GO:0022414	gonad morphogenesis	reproductive process
+42869	42888	GO:0032502	gonad morphogenesis	developmental process
+42875	42888	GO:0032502	morphogenesis	developmental process
+42977	42982	GO:0005623	cells	cell
+43058	43063	GO:0005623	cells	cell
+43112	43117	GO:0005623	cells	cell
+43187	43196	GO:0016265	apoptosis	death
+43187	43196	GO:0009987	apoptosis	cellular process
+43384	43391	GO:0032502	embryos	developmental process
+43450	43463	GO:0009987	transcription	cellular process
+43450	43463	GO:0008152	transcription	metabolic process
+43487	43499	GO:0051234	phagocytosis	establishment of localization
+43487	43499	GO:0016043	phagocytosis	cellular component organization
+43487	43499	GO:0009987	phagocytosis	cellular process
+43513	43518	GO:0005623	cells	cell
+43526	43539	GO:0032502	embryogenesis	developmental process
+43599	43610	GO:0009987	recognition	cellular process
+43644	43646	GO:0065007	to	biological regulation
+43644	43646	GO:0009987	to	cellular process
+43662	43672	GO:0065007	engulfment	biological regulation
+43662	43672	GO:0009987	engulfment	cellular process
+43662	43672	GO:0016043	engulfment	cellular component organization
+43691	43696	GO:0005623	cells	cell
+43711	43713	GO:0065007	to	biological regulation
+43711	43713	GO:0009987	to	cellular process
+43736	43742	GO:0005623	cells	cell
+43768	43792	GO:0009987	apoptotic cell clearance	cellular process
+43768	43792	GO:0016043	apoptotic cell clearance	cellular component organization
+43768	43792	GO:0051234	apoptotic cell clearance	establishment of localization
+43778	43792	GO:0005623	cell	cell
+43832	43837	GO:0005623	cells	cell
+43896	43898	GO:0065007	to	biological regulation
+43896	43898	GO:0009987	to	cellular process
+43976	43981	GO:0005623	cells	cell
+44030	44042	GO:0051234	phagocytosis	establishment of localization
+44030	44042	GO:0016043	phagocytosis	cellular component organization
+44030	44042	GO:0009987	phagocytosis	cellular process
+44246	44252	GO:0005623	cells	cell
+44335	44337	GO:0065007	to	biological regulation
+44335	44337	GO:0009987	to	cellular process
+44373	44377	GO:0005623	cell	cell
+44450	44452	GO:0065007	to	biological regulation
+44450	44452	GO:0009987	to	cellular process
+44492	44506	GO:0032502	hematopoiesis	developmental process
+44846	44848	GO:0065007	to	biological regulation
+44846	44848	GO:0009987	to	cellular process
+44901	44905	GO:0005623	cell	cell
+44906	44916	GO:0065007	engulfment	biological regulation
+44906	44916	GO:0009987	engulfment	cellular process
+44906	44916	GO:0016043	engulfment	cellular component organization
+45045	45049	GO:0005623	cell	cell
+45122	45124	GO:0065007	to	biological regulation
+45122	45124	GO:0009987	to	cellular process
+45210	45220	GO:0065007	engulfment	biological regulation
+45210	45220	GO:0009987	engulfment	cellular process
+45210	45220	GO:0016043	engulfment	cellular component organization
+45352	45361	GO:0051234	secretion	establishment of localization
+45443	45449	GO:0005623	cells	cell
+45507	45510	GO:0065007	to	biological regulation
+45507	45510	GO:0009987	to	cellular process
+45599	45617	GO:0050896	classical pathways	response to stimulus
+45599	45617	GO:0065007	classical pathways	biological regulation
+45599	45617	GO:0002376	classical pathways	immune system process
+45599	45617	GO:0008152	classical pathways	metabolic process
+45621	45642	GO:0009987	macrophage activation	cellular process
+45621	45642	GO:0002376	macrophage activation	immune system process
+45754	45766	GO:0051179	localization	localization
+45780	45787	GO:0003824	protein	catalytic activity
+46065	46076	GO:0065007	engulfment	biological regulation
+46065	46076	GO:0009987	engulfment	cellular process
+46065	46076	GO:0016043	engulfment	cellular component organization
+46091	46095	GO:0009987	RNAi	cellular process
+46091	46095	GO:0065007	RNAi	biological regulation
+46265	46267	GO:0065007	to	biological regulation
+46265	46267	GO:0009987	to	cellular process
+46281	46291	GO:0065007	engulfment	biological regulation
+46281	46291	GO:0009987	engulfment	cellular process
+46281	46291	GO:0016043	engulfment	cellular component organization
+46408	46418	GO:0065007	engulfment	biological regulation
+46408	46418	GO:0009987	engulfment	cellular process
+46408	46418	GO:0016043	engulfment	cellular component organization
+46622	46624	GO:0065007	to	biological regulation
+46622	46624	GO:0009987	to	cellular process
+46650	46660	GO:0065007	engulfment	biological regulation
+46650	46660	GO:0009987	engulfment	cellular process
+46650	46660	GO:0016043	engulfment	cellular component organization
+46754	46766	GO:0051234	phagocytosis	establishment of localization
+46754	46766	GO:0016043	phagocytosis	cellular component organization
+46754	46766	GO:0009987	phagocytosis	cellular process
+46780	46785	GO:0005623	cells	cell
+46817	46825	GO:0044421	antibody	extraccellular region part
+46817	46825	GO:0032991	antibody	macromolecular complex
+46849	46857	GO:0044421	antibody	extraccellular region part
+46849	46857	GO:0032991	antibody	macromolecular complex
+46876	46883	GO:0005488	binding	binding
+46936	46948	GO:0051179	localization	localization
+46968	46970	GO:0065007	to	biological regulation
+46968	46970	GO:0009987	to	cellular process
+47038	47057	GO:0009987	signal transduction	cellular process
+47038	47057	GO:0023046	signal transduction	signaling process
+47038	47057	GO:0050896	signal transduction	response to stimulus
+47038	47057	GO:0065007	signal transduction	biological regulation
+47038	47057	GO:0023052	signal transduction	signaling
+47045	47057	GO:0051704	transduction	multi-organism process
+47065	47075	GO:0065007	engulfment	biological regulation
+47065	47075	GO:0009987	engulfment	cellular process
+47065	47075	GO:0016043	engulfment	cellular component organization
+47116	47123	GO:0005488	binding	binding
+47131	47133	GO:0065007	to	biological regulation
+47131	47133	GO:0009987	to	cellular process
+47442	47444	GO:0065007	To	biological regulation
+47442	47444	GO:0009987	To	cellular process
+47502	47507	GO:0005623	cells	cell
+47610	47612	GO:0065007	to	biological regulation
+47610	47612	GO:0009987	to	cellular process
+47716	47724	GO:0044421	antibody	extraccellular region part
+47716	47724	GO:0032991	antibody	macromolecular complex
+47791	47801	GO:0003824	protein	catalytic activity
+47875	47883	GO:0044421	antibody	extraccellular region part
+47875	47883	GO:0032991	antibody	macromolecular complex
+47954	47956	GO:0065007	to	biological regulation
+47954	47956	GO:0009987	to	cellular process
+48078	48088	GO:0022414	maturation	reproductive process
+48116	48130	GO:0032502	embryogenesis	developmental process
+48214	48227	GO:0032502	morphogenesis	developmental process
+48334	48340	GO:0005623	cells	cell
+48363	48365	GO:0065007	to	biological regulation
+48363	48365	GO:0009987	to	cellular process
+48534	48545	GO:0009987	recognition	cellular process
+48564	48575	GO:0009987	recognition	cellular process
+48623	48627	GO:0005623	cell	cell
+48628	48638	GO:0065007	engulfment	biological regulation
+48628	48638	GO:0009987	engulfment	cellular process
+48628	48638	GO:0016043	engulfment	cellular component organization
+48661	48670	GO:0023052	signaling	signaling
+48718	48726	GO:0005488	bridging	binding
+48727	48735	GO:0003824	proteins	catalytic activity
+48759	48764	GO:0065007	to	biological regulation
+48759	48764	GO:0009987	to	cellular process
+48856	48862	GO:0005623	cells	cell
+48875	48882	GO:0009987	reduced	cellular process
+48875	48882	GO:0008152	reduced	metabolic process
+48875	48882	GO:0005215	reduced	transporter activity
+48875	48882	GO:0051234	reduced	establishment of localization
+48885	48891	GO:0065007	to	biological regulation
+48885	48891	GO:0009987	to	cellular process
+49223	49233	GO:0043226	chromosome	organelle
+49223	49233	GO:0044422	chromosome	organelle part
+49223	49233	GO:0044464	chromosome	cell part
+49724	49729	GO:0005623	cells	cell
+49748	49757	GO:0032502	germ-line	developmental process
+49748	49757	GO:0022414	germ-line	reproductive process
+49778	49783	GO:0005623	cells	cell
+49835	49838	GO:0065007	to	biological regulation
+49835	49838	GO:0009987	to	cellular process
+50111	50116	GO:0005623	cells	cell
+50119	50121	GO:0065007	to	biological regulation
+50119	50121	GO:0009987	to	cellular process
+50133	50140	GO:0065007	to	biological regulation
+50133	50140	GO:0009987	to	cellular process
+50154	50156	GO:0065007	to	biological regulation
+50154	50156	GO:0009987	to	cellular process
+50343	50353	GO:0032502	germ-line	developmental process
+50343	50353	GO:0022414	germ-line	reproductive process
+50354	50363	GO:0032502	Germ-line	developmental process
+50354	50363	GO:0022414	Germ-line	reproductive process
+50522	50531	GO:0032502	germ-line	developmental process
+50522	50531	GO:0022414	germ-line	reproductive process
+50588	50591	GO:0065007	to	biological regulation
+50588	50591	GO:0009987	to	cellular process
+51021	51030	GO:0032502	Germ-line	developmental process
+51021	51030	GO:0022414	Germ-line	reproductive process
+51191	51198	GO:0032502	embryos	developmental process
+51327	51336	GO:0044464	membranes	cell part
+51394	51399	GO:0065007	to	biological regulation
+51394	51399	GO:0009987	to	cellular process
+51485	51487	GO:0065007	to	biological regulation
+51485	51487	GO:0009987	to	cellular process
+51888	51890	GO:0065007	To	biological regulation
+51888	51890	GO:0009987	To	cellular process
+52038	52040	GO:0065007	to	biological regulation
+52038	52040	GO:0009987	to	cellular process
+52429	52431	GO:0065007	to	biological regulation
+52429	52431	GO:0009987	to	cellular process
+52440	52448	GO:0044464	membrane	cell part
+53031	53038	GO:0032502	embryos	developmental process
+53163	53171	GO:0032502	embryos	developmental process
+53204	53206	GO:0065007	to	biological regulation
+53204	53206	GO:0009987	to	cellular process
+53215	53223	GO:0044464	membrane	cell part
+53523	53531	GO:0044464	membrane	cell part
+53581	53583	GO:0065007	to	biological regulation
+53581	53583	GO:0009987	to	cellular process
+53697	53704	GO:0032502	embryos	developmental process
+53756	53763	GO:0032502	embryos	developmental process
+53779	53786	GO:0009987	reduced	cellular process
+53779	53786	GO:0008152	reduced	metabolic process
+53779	53786	GO:0005215	reduced	transporter activity
+53779	53786	GO:0051234	reduced	establishment of localization
+53834	53841	GO:0032502	Embryos	developmental process
+53854	53861	GO:0003824	protein	catalytic activity
+54057	54064	GO:0003824	protein	catalytic activity
+54157	54165	GO:0044464	membrane	cell part
+54204	54206	GO:0065007	to	biological regulation
+54204	54206	GO:0009987	to	cellular process
+54268	54276	GO:0044421	antibody	extraccellular region part
+54268	54276	GO:0032991	antibody	macromolecular complex
+54277	54279	GO:0065007	to	biological regulation
+54277	54279	GO:0009987	to	cellular process
+54439	54449	GO:0044421	antibodies	extraccellular region part
+54439	54449	GO:0032991	antibodies	macromolecular complex
+54461	54463	GO:0065007	to	biological regulation
+54461	54463	GO:0009987	to	cellular process
+54461	54463	GO:0065007	to	biological regulation
+54461	54463	GO:0009987	to	cellular process
+54740	54746	GO:0065007	to	biological regulation
+54740	54746	GO:0009987	to	cellular process
+55232	55239	GO:0032502	embryos	developmental process
+55302	55304	GO:0065007	to	biological regulation
+55302	55304	GO:0009987	to	cellular process
+55444	55451	GO:0032502	Embryos	developmental process
+55547	55549	GO:0065007	to	biological regulation
+55547	55549	GO:0009987	to	cellular process
+55581	55590	GO:0044464	membranes	cell part
+55636	55643	GO:0032502	embryos	developmental process
+55756	55763	GO:0032502	Embryos	developmental process
+55771	55777	GO:0065007	to	biological regulation
+55771	55777	GO:0009987	to	cellular process
+56179	56207	GO:0009987	detection of apoptotic cells	cellular process
+57349	57354	GO:0005623	cells	cell
+59124	59132	GO:0044421	antibody	extraccellular region part
+59124	59132	GO:0032991	antibody	macromolecular complex
+-1	22	GO:0044421	antibodies	extraccellular region part
+-1	22	GO:0032991	antibodies	macromolecular complex
+54439	54449	GO:0044421	antibodies	extraccellular region part
+54439	54449	GO:0032991	antibodies	macromolecular complex
+55362	55365	GO:0023046	red	signaling process
+55362	55365	GO:0050896	red	response to stimulus
+55362	55365	GO:0009987	red	cellular process
+55362	55365	GO:0065007	red	biological regulation
+55636	55643	GO:0032502	embryos	developmental process
+56779	56787	GO:0032502	embryos	developmental process
+57072	57081	GO:0032501	digestion	multicellular organismal process
+57273	57275	GO:0065007	to	biological regulation
+57273	57275	GO:0009987	to	cellular process
+57290	57294	GO:0005623	cell	cell
+57349	57354	GO:0005623	cells	cell
+57698	57703	GO:0005623	cells	cell
+57777	57789	GO:0051234	phagocytosis	establishment of localization
+57777	57789	GO:0016043	phagocytosis	cellular component organization
+57777	57789	GO:0009987	phagocytosis	cellular process
+57917	57922	GO:0005623	cells	cell
+57990	57996	GO:0005623	cells	cell
+58053	58055	GO:0065007	to	biological regulation
+58053	58055	GO:0009987	to	cellular process
+58117	58126	GO:0016265	apoptosis	death
+58117	58126	GO:0009987	apoptosis	cellular process
+58158	58163	GO:0005623	cells	cell
+58230	58235	GO:0005623	cells	cell
+58273	58282	GO:0016265	apoptosis	death
+58273	58282	GO:0009987	apoptosis	cellular process
+58323	58328	GO:0005623	cells	cell
+58383	58388	GO:0005623	cells	cell
+58491	58496	GO:0005623	cells	cell
+58582	58587	GO:0065007	to	biological regulation
+58582	58587	GO:0009987	to	cellular process
+58683	58695	GO:0009987	Phagocytosis	cellular process
+58683	58695	GO:0016043	Phagocytosis	cellular component organization
+58683	58695	GO:0051234	Phagocytosis	establishment of localization
+58713	58715	GO:0065007	to	biological regulation
+58713	58715	GO:0009987	to	cellular process
+58802	58807	GO:0005623	cells	cell
+58822	58828	GO:0065007	to	biological regulation
+58822	58828	GO:0009987	to	cellular process
+58904	58910	GO:0005623	cells	cell
+58911	58913	GO:0065007	To	biological regulation
+58911	58913	GO:0009987	To	cellular process
+58922	58934	GO:0051234	phagocytosis	establishment of localization
+58922	58934	GO:0016043	phagocytosis	cellular component organization
+58922	58934	GO:0009987	phagocytosis	cellular process
+59028	59033	GO:0005623	Cells	cell
+59124	59132	GO:0044421	antibody	extraccellular region part
+59124	59132	GO:0032991	antibody	macromolecular complex
+59167	59175	GO:0044421	antibody	extraccellular region part
+59167	59175	GO:0032991	antibody	macromolecular complex
+59176	59183	GO:0003824	coupled	catalytic activity
+59184	59186	GO:0065007	to	biological regulation
+59184	59186	GO:0009987	to	cellular process
+59355	59367	GO:0051234	phagocytosis	establishment of localization
+59355	59367	GO:0016043	phagocytosis	cellular component organization
+59355	59367	GO:0009987	phagocytosis	cellular process
+59484	59489	GO:0065007	to	biological regulation
+59484	59489	GO:0009987	to	cellular process
+59623	59634	GO:0005623	cells	cell
+59711	59722	GO:0005623	cells	cell
+59915	59945	GO:0002376	macrophage cytokine production	immune system process
+59915	59945	GO:0032501	macrophage cytokine production	multicellular organismal process
+59926	59945	GO:0032501	cytokine production	multicellular organismal process
+60094	60099	GO:0005623	cells	cell
+60975	60987	GO:0051179	localization	localization
+61001	61006	GO:0005623	cells	cell
+61053	61061	GO:0032502	embryos	developmental process
+61126	61133	GO:0003824	protein	catalytic activity
+61268	61280	GO:0051179	localization	localization
+61294	61299	GO:0005623	cells	cell
+61346	61354	GO:0032502	embryos	developmental process
+61419	61426	GO:0003824	protein	catalytic activity
+61841	61845	GO:0005623	cell	cell
+62156	62160	GO:0005623	cell	cell
+62542	62547	GO:0005623	cells	cell
+62662	62680	GO:0003824	phosphotransferase	catalytic activity
+62662	62680	GO:0005215	phosphotransferase	transporter activity
+62743	62751	GO:0003824	protein	catalytic activity
+62823	62826	GO:0023046	red	signaling process
+62823	62826	GO:0050896	red	response to stimulus
+62823	62826	GO:0009987	red	cellular process
+62823	62826	GO:0065007	red	biological regulation
+63190	63192	GO:0065007	to	biological regulation
+63190	63192	GO:0009987	to	cellular process
+63201	63210	GO:0032502	germ-line	developmental process
+63201	63210	GO:0022414	germ-line	reproductive process
+63440	63447	GO:0032502	embryos	developmental process
+63678	63686	GO:0032502	embryos	developmental process
+63716	63723	GO:0003824	protein	catalytic activity
+63784	63791	GO:0032502	embryos	developmental process
+63815	63824	GO:0044421	antibody	extraccellular region part
+63815	63824	GO:0032991	antibody	macromolecular complex
+64020	64027	GO:0032502	embryos	developmental process
+64104	64109	GO:0032502	head	developmental process
+64383	64392	GO:0009987	embryonic	cellular process
+64383	64392	GO:0065007	embryonic	biological regulation
+64383	64405	GO:0032502	embryonic development	developmental process
+64531	64540	GO:0009987	embryonic	cellular process
+64531	64540	GO:0065007	embryonic	biological regulation
+64664	64682	GO:0003824	phosphotransferase	catalytic activity
+64664	64682	GO:0005215	phosphotransferase	transporter activity
+64850	64857	GO:0032502	embryos	developmental process
+65088	65095	GO:0032502	embryos	developmental process
+65244	65246	GO:0065007	to	biological regulation
+65244	65246	GO:0009987	to	cellular process
+65282	65288	GO:0005623	cells	cell
+65491	65493	GO:0065007	to	biological regulation
+65491	65493	GO:0009987	to	cellular process
+65624	65638	GO:0032502	embryogenesis	developmental process
+65655	65662	GO:0032502	embryos	developmental process
+65720	65729	GO:0009987	embryonic	cellular process
+65720	65729	GO:0065007	embryonic	biological regulation
+65880	65887	GO:0032502	embryos	developmental process
+66017	66019	GO:0065007	to	biological regulation
+66017	66019	GO:0009987	to	cellular process
+66105	66112	GO:0032502	embryos	developmental process
+66142	66144	GO:0065007	to	biological regulation
+66142	66144	GO:0009987	to	cellular process
+66654	66656	GO:0065007	to	biological regulation
+66654	66656	GO:0009987	to	cellular process
+66671	66679	GO:0032502	embryos	developmental process
+66758	66767	GO:0008152	formation	metabolic process
+66906	66908	GO:0065007	to	biological regulation
+66906	66908	GO:0009987	to	cellular process
+67032	67040	GO:0043226	vacuoles	organelle
+67032	67040	GO:0044464	vacuoles	cell part
+67049	67051	GO:0065007	to	biological regulation
+67049	67051	GO:0009987	to	cellular process
+67062	67067	GO:0065007	to	biological regulation
+67062	67067	GO:0009987	to	cellular process
+67646	67651	GO:0003824	IPL	catalytic activity
+68007	68022	GO:0032502	eye development	developmental process
+68062	68070	GO:0032502	embryos	developmental process
+68101	68109	GO:0032502	embryos	developmental process
+68237	68244	GO:0032502	embryos	developmental process
+68738	68759	GO:0016265	programmed cell death	death
+68738	68759	GO:0022414	programmed cell death	reproductive process
+68738	68759	GO:0009987	programmed cell death	cellular process
+68738	68759	GO:0032502	programmed cell death	developmental process
+68749	68759	GO:0005623	cell	cell
+68749	68759	GO:0016265	cell death	death
+68749	68759	GO:0009987	cell death	cellular process
+68754	68759	GO:0016265	death	death
+68819	68824	GO:0005623	cells	cell
+68851	68859	GO:0032502	embryos	developmental process
+68994	69006	GO:0051179	localization	localization
+69020	69025	GO:0005623	cells	cell
+69149	69153	GO:0023046	red	signaling process
+69149	69153	GO:0050896	red	response to stimulus
+69149	69153	GO:0009987	red	cellular process
+69149	69153	GO:0065007	red	biological regulation
+69193	69200	GO:0032502	embryos	developmental process
+69225	69230	GO:0005623	cells	cell
+69377	69382	GO:0005623	cells	cell
+69509	69516	GO:0032502	embryos	developmental process
+69781	69783	GO:0065007	to	biological regulation
+69781	69783	GO:0009987	to	cellular process
+69794	69799	GO:0005623	cells	cell
+69807	69816	GO:0009987	embryonic	cellular process
+69807	69816	GO:0065007	embryonic	biological regulation
+69807	69829	GO:0032502	embryonic development	developmental process
+69963	69975	GO:0009987	Phagocytosis	cellular process
+69963	69975	GO:0016043	Phagocytosis	cellular component organization
+69963	69975	GO:0051234	Phagocytosis	establishment of localization
+69989	69994	GO:0005623	cells	cell
+70086	70093	GO:0032502	embryos	developmental process
+70104	70107	GO:0023046	red	signaling process
+70104	70107	GO:0050896	red	response to stimulus
+70104	70107	GO:0009987	red	cellular process
+70104	70107	GO:0065007	red	biological regulation
+70308	70313	GO:0005623	cells	cell
+70350	70362	GO:0051234	phagocytosis	establishment of localization
+70350	70362	GO:0016043	phagocytosis	cellular component organization
+70350	70362	GO:0009987	phagocytosis	cellular process
+70376	70381	GO:0005623	cells	cell
+70504	70510	GO:0005623	cells	cell
+70526	70535	GO:0016265	apoptosis	death
+70526	70535	GO:0009987	apoptosis	cellular process
+70644	70649	GO:0005623	cells	cell
+70730	70735	GO:0005623	cells	cell
+70743	70748	GO:0065007	to	biological regulation
+70743	70748	GO:0009987	to	cellular process
+70833	70838	GO:0005623	cells	cell
+70890	70909	GO:0032501	Cytokine production	multicellular organismal process
+70980	70986	GO:0005623	cells	cell
+71022	71029	GO:0032502	embryos	developmental process
+71096	71101	GO:0005623	cells	cell
+71156	71161	GO:0005623	cells	cell
+71346	71354	GO:0065007	to	biological regulation
+71346	71354	GO:0009987	to	cellular process

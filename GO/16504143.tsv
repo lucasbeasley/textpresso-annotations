@@ -1,0 +1,315 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm
+20	28	GO:0050896	learning	response to stimulus
+20	28	GO:0032501	learning	multicellular organismal process
+35	38	GO:0065007	to	biological regulation
+35	38	GO:0009987	to	cellular process
+204	206	GO:0065007	to	biological regulation
+204	206	GO:0009987	to	cellular process
+321	323	GO:0065007	To	biological regulation
+321	323	GO:0009987	To	cellular process
+704	712	GO:0050896	learning	response to stimulus
+704	712	GO:0032501	learning	multicellular organismal process
+801	804	GO:0044464	rod	cell part
+801	804	GO:0044422	rod	organelle part
+923	926	GO:0044464	rod	cell part
+923	926	GO:0044422	rod	organelle part
+1049	1053	GO:0005623	cell	cell
+1049	1063	GO:0009987	cell migration	cellular process
+1049	1063	GO:0040011	cell migration	locomotion
+1116	1124	GO:0050896	learning	response to stimulus
+1116	1124	GO:0032501	learning	multicellular organismal process
+1186	1196	GO:0023052	signalling	signaling
+1221	1225	GO:0005623	cell	cell
+1221	1234	GO:0009987	cell adhesion	cellular process
+1221	1234	GO:0022610	cell adhesion	biological adhesion
+1251	1259	GO:0045202	synapse	synapse
+1446	1454	GO:0003824	proteins	catalytic activity
+1661	1667	GO:0040007	growth	growth
+1891	1897	GO:0040007	growth	growth
+2029	2043	GO:0032502	embryogenesis	developmental process
+2178	2180	GO:0065007	to	biological regulation
+2178	2180	GO:0009987	to	cellular process
+2240	2242	GO:0065007	to	biological regulation
+2240	2242	GO:0009987	to	cellular process
+2269	2273	GO:0005623	cell	cell
+2269	2282	GO:0009987	cell adhesion	cellular process
+2269	2282	GO:0022610	cell adhesion	biological adhesion
+2366	2370	GO:0005623	cell	cell
+2366	2380	GO:0009987	cell migration	cellular process
+2366	2380	GO:0040011	cell migration	locomotion
+2399	2404	GO:0005623	cells	cell
+2501	2508	GO:0003824	protein	catalytic activity
+2525	2527	GO:0065007	to	biological regulation
+2525	2527	GO:0009987	to	cellular process
+2543	2547	GO:0005623	cell	cell
+2543	2557	GO:0009987	cell migration	cellular process
+2543	2557	GO:0040011	cell migration	locomotion
+3090	3117	GO:0003824	metalloproteinase activity	catalytic activity
+3202	3204	GO:0065007	to	biological regulation
+3202	3204	GO:0009987	to	cellular process
+3205	3209	GO:0005623	cell	cell
+3205	3220	GO:0009987	cell migration	cellular process
+3205	3220	GO:0040011	cell migration	locomotion
+3276	3283	GO:0005488	binding	binding
+3284	3286	GO:0065007	to	biological regulation
+3284	3286	GO:0009987	to	cellular process
+3311	3319	GO:0003824	proteins	catalytic activity
+3323	3336	GO:0044464	intracellular	cell part
+3323	3336	GO:0051179	intracellular	localization
+3323	3336	GO:0009987	intracellular	cellular process
+3337	3347	GO:0023052	signalling	signaling
+3413	3418	GO:0016265	death	death
+3624	3629	GO:0016265	death	death
+4085	4089	GO:0005623	cell	cell
+4085	4099	GO:0009987	cell migration	cellular process
+4085	4099	GO:0040011	cell migration	locomotion
+4317	4319	GO:0065007	to	biological regulation
+4317	4319	GO:0009987	to	cellular process
+4443	4445	GO:0065007	To	biological regulation
+4443	4445	GO:0009987	To	cellular process
+4874	4881	GO:0003824	protein	catalytic activity
+5111	5113	GO:0065007	to	biological regulation
+5111	5113	GO:0009987	to	cellular process
+5181	5188	GO:0003824	protein	catalytic activity
+5243	5250	GO:0003824	protein	catalytic activity
+5329	5337	GO:0044421	antibody	extraccellular region part
+5329	5337	GO:0032991	antibody	macromolecular complex
+5365	5372	GO:0003824	protein	catalytic activity
+5504	5512	GO:0003824	protein	catalytic activity
+5566	5572	GO:0051704	Mating	multi-organism process
+5566	5572	GO:0022414	Mating	reproductive process
+5849	5851	GO:0065007	to	biological regulation
+5849	5851	GO:0009987	to	cellular process
+5918	5938	GO:0065007	to	biological regulation
+5918	5938	GO:0009987	to	cellular process
+6809	6817	GO:0050896	learning	response to stimulus
+6809	6817	GO:0032501	learning	multicellular organismal process
+6844	6846	GO:0065007	To	biological regulation
+6844	6846	GO:0009987	To	cellular process
+6921	6929	GO:0050896	learning	response to stimulus
+6921	6929	GO:0032501	learning	multicellular organismal process
+7102	7104	GO:0065007	to	biological regulation
+7102	7104	GO:0009987	to	cellular process
+7157	7159	GO:0065007	to	biological regulation
+7157	7159	GO:0009987	to	cellular process
+7193	7195	GO:0065007	to	biological regulation
+7193	7195	GO:0009987	to	cellular process
+7316	7318	GO:0065007	to	biological regulation
+7316	7318	GO:0009987	to	cellular process
+7427	7429	GO:0065007	to	biological regulation
+7427	7429	GO:0009987	to	cellular process
+7541	7543	GO:0065007	to	biological regulation
+7541	7543	GO:0009987	to	cellular process
+7770	7772	GO:0065007	to	biological regulation
+7770	7772	GO:0009987	to	cellular process
+7929	7931	GO:0065007	to	biological regulation
+7929	7931	GO:0009987	to	cellular process
+8090	8098	GO:0050896	learning	response to stimulus
+8090	8098	GO:0032501	learning	multicellular organismal process
+8740	8742	GO:0065007	To	biological regulation
+8740	8742	GO:0009987	To	cellular process
+8865	8868	GO:0044464	rod	cell part
+8865	8868	GO:0044422	rod	organelle part
+8896	8899	GO:0044464	rod	cell part
+8896	8899	GO:0044422	rod	organelle part
+8956	8959	GO:0044464	rod	cell part
+8956	8959	GO:0044422	rod	organelle part
+9452	9455	GO:0044464	rod	cell part
+9452	9455	GO:0044422	rod	organelle part
+9946	9948	GO:0065007	to	biological regulation
+9946	9948	GO:0009987	to	cellular process
+10047	10049	GO:0065007	to	biological regulation
+10047	10049	GO:0009987	to	cellular process
+10619	10628	GO:0065007	to	biological regulation
+10619	10628	GO:0009987	to	cellular process
+10977	10979	GO:0065007	to	biological regulation
+10977	10979	GO:0009987	to	cellular process
+11236	11244	GO:0050896	learning	response to stimulus
+11236	11244	GO:0032501	learning	multicellular organismal process
+11332	11334	GO:0065007	to	biological regulation
+11332	11334	GO:0009987	to	cellular process
+11383	11391	GO:0050896	learning	response to stimulus
+11383	11391	GO:0032501	learning	multicellular organismal process
+11955	11963	GO:0050896	learning	response to stimulus
+11955	11963	GO:0032501	learning	multicellular organismal process
+12043	12058	GO:0003824	motor activity	catalytic activity
+12236	12239	GO:0044464	rod	cell part
+12236	12239	GO:0044422	rod	organelle part
+12430	12433	GO:0044464	rod	cell part
+12430	12433	GO:0044422	rod	organelle part
+12514	12517	GO:0044464	rod	cell part
+12514	12517	GO:0044422	rod	organelle part
+12628	12631	GO:0044464	rod	cell part
+12628	12631	GO:0044422	rod	organelle part
+13017	13020	GO:0044464	rod	cell part
+13017	13020	GO:0044422	rod	organelle part
+13125	13133	GO:0050896	learning	response to stimulus
+13125	13133	GO:0032501	learning	multicellular organismal process
+13176	13185	GO:0050896	learning	response to stimulus
+13176	13185	GO:0032501	learning	multicellular organismal process
+13259	13262	GO:0044464	rod	cell part
+13259	13262	GO:0044422	rod	organelle part
+13345	13347	GO:0065007	to	biological regulation
+13345	13347	GO:0009987	to	cellular process
+13401	13404	GO:0044464	rod	cell part
+13401	13404	GO:0044422	rod	organelle part
+13496	13499	GO:0044464	rod	cell part
+13496	13499	GO:0044422	rod	organelle part
+13573	13582	GO:0050896	learning	response to stimulus
+13573	13582	GO:0032501	learning	multicellular organismal process
+13701	13709	GO:0050896	learning	response to stimulus
+13701	13709	GO:0032501	learning	multicellular organismal process
+13734	13737	GO:0044464	rod	cell part
+13734	13737	GO:0044422	rod	organelle part
+13781	13789	GO:0050896	learning	response to stimulus
+13781	13789	GO:0032501	learning	multicellular organismal process
+13888	13892	GO:0044464	rod	cell part
+13888	13892	GO:0044422	rod	organelle part
+13925	13927	GO:0065007	To	biological regulation
+13925	13927	GO:0009987	To	cellular process
+13942	13950	GO:0050896	learning	response to stimulus
+13942	13950	GO:0032501	learning	multicellular organismal process
+14008	14010	GO:0065007	to	biological regulation
+14008	14010	GO:0009987	to	cellular process
+14042	14050	GO:0050896	learning	response to stimulus
+14042	14050	GO:0032501	learning	multicellular organismal process
+14212	14226	GO:0003824	motor activity	catalytic activity
+14289	14291	GO:0065007	to	biological regulation
+14289	14291	GO:0009987	to	cellular process
+14357	14360	GO:0044464	rod	cell part
+14357	14360	GO:0044422	rod	organelle part
+14542	14544	GO:0065007	to	biological regulation
+14542	14544	GO:0009987	to	cellular process
+14577	14585	GO:0050896	learning	response to stimulus
+14577	14585	GO:0032501	learning	multicellular organismal process
+14700	14715	GO:0008152	gene expression	metabolic process
+14733	14738	GO:0005623	cells	cell
+14769	14774	GO:0005623	cells	cell
+14831	14836	GO:0005623	cells	cell
+14926	14928	GO:0065007	to	biological regulation
+14926	14928	GO:0009987	to	cellular process
+14951	14959	GO:0050896	learning	response to stimulus
+14951	14959	GO:0032501	learning	multicellular organismal process
+15256	15260	GO:0005623	cell	cell
+15395	15399	GO:0005623	cell	cell
+15395	15408	GO:0009987	cell adhesion	cellular process
+15395	15408	GO:0022610	cell adhesion	biological adhesion
+15453	15457	GO:0005623	cell	cell
+15478	15505	GO:0032502	nervous system development	developmental process
+15486	15505	GO:0032502	system development	developmental process
+15548	15552	GO:0065007	to	biological regulation
+15548	15552	GO:0009987	to	cellular process
+15746	15748	GO:0065007	to	biological regulation
+15746	15748	GO:0009987	to	cellular process
+15857	15865	GO:0050896	learning	response to stimulus
+15857	15865	GO:0032501	learning	multicellular organismal process
+15870	15876	GO:0050896	memory	response to stimulus
+15870	15876	GO:0032501	memory	multicellular organismal process
+15927	15940	GO:0060089	NMDA receptor	molecular transducer activity
+16110	16115	GO:0005623	cells	cell
+16160	16162	GO:0065007	to	biological regulation
+16160	16162	GO:0009987	to	cellular process
+16182	16203	GO:0009987	synaptic transmission	cellular process
+16182	16203	GO:0023052	synaptic transmission	signaling
+16356	16366	GO:0023052	signalling	signaling
+16579	16587	GO:0050896	learning	response to stimulus
+16579	16587	GO:0032501	learning	multicellular organismal process
+16594	16597	GO:0065007	to	biological regulation
+16594	16597	GO:0009987	to	cellular process
+17051	17053	GO:0065007	to	biological regulation
+17051	17053	GO:0009987	to	cellular process
+17460	17475	GO:0003824	motor activity	catalytic activity
+17612	17620	GO:0050896	learning	response to stimulus
+17612	17620	GO:0032501	learning	multicellular organismal process
+17746	17749	GO:0044464	rod	cell part
+17746	17749	GO:0044422	rod	organelle part
+17813	17815	GO:0065007	to	biological regulation
+17813	17815	GO:0009987	to	cellular process
+17883	17892	GO:0003824	proteins	catalytic activity
+18170	18176	GO:0065007	To	biological regulation
+18170	18176	GO:0009987	To	cellular process
+18630	18639	GO:0009987	embryonic	cellular process
+18630	18639	GO:0065007	embryonic	biological regulation
+18650	18655	GO:0005623	cells	cell
+18871	18875	GO:0065007	to	biological regulation
+18871	18875	GO:0009987	to	cellular process
+19625	19632	GO:0003824	protein	catalytic activity
+19691	19693	GO:0065007	To	biological regulation
+19691	19693	GO:0009987	To	cellular process
+19795	19799	GO:0005623	cell	cell
+19928	19932	GO:0005623	cell	cell
+19976	19984	GO:0003824	proteins	catalytic activity
+20044	20052	GO:0065007	to	biological regulation
+20044	20052	GO:0009987	to	cellular process
+20177	20186	GO:0044464	membrane	cell part
+20231	20239	GO:0044421	antibody	extraccellular region part
+20231	20239	GO:0032991	antibody	macromolecular complex
+20302	20312	GO:0044421	antibodies	extraccellular region part
+20302	20312	GO:0032991	antibodies	macromolecular complex
+20373	20381	GO:0044421	antibody	extraccellular region part
+20373	20381	GO:0032991	antibody	macromolecular complex
+20518	20520	GO:0065007	to	biological regulation
+20518	20520	GO:0009987	to	cellular process
+20659	20663	GO:0065007	to	biological regulation
+20659	20663	GO:0009987	to	cellular process
+21068	21082	GO:0003824	motor activity	catalytic activity
+21353	21361	GO:0050896	learning	response to stimulus
+21353	21361	GO:0032501	learning	multicellular organismal process
+21491	21493	GO:0065007	to	biological regulation
+21491	21493	GO:0009987	to	cellular process
+21594	21596	GO:0065007	to	biological regulation
+21594	21596	GO:0009987	to	cellular process
+21805	21807	GO:0065007	to	biological regulation
+21805	21807	GO:0009987	to	cellular process
+21805	21807	GO:0065007	to	biological regulation
+21805	21807	GO:0009987	to	cellular process
+21846	21848	GO:0065007	to	biological regulation
+21846	21848	GO:0009987	to	cellular process
+21916	21921	GO:0065007	to	biological regulation
+21916	21921	GO:0009987	to	cellular process
+22282	22287	GO:0065007	to	biological regulation
+22282	22287	GO:0009987	to	cellular process
+22984	22987	GO:0044464	rod	cell part
+22984	22987	GO:0044422	rod	organelle part
+23042	23045	GO:0044464	rod	cell part
+23042	23045	GO:0044422	rod	organelle part
+23127	23130	GO:0044464	rod	cell part
+23127	23130	GO:0044422	rod	organelle part
+23271	23274	GO:0044464	rod	cell part
+23271	23274	GO:0044422	rod	organelle part
+23448	23453	GO:0065007	to	biological regulation
+23448	23453	GO:0009987	to	cellular process
+23670	23672	GO:0065007	to	biological regulation
+23670	23672	GO:0009987	to	cellular process
+23922	23924	GO:0065007	to	biological regulation
+23922	23924	GO:0009987	to	cellular process
+24102	24104	GO:0065007	to	biological regulation
+24102	24104	GO:0009987	to	cellular process
+24155	24157	GO:0065007	to	biological regulation
+24155	24157	GO:0009987	to	cellular process
+24200	24202	GO:0065007	to	biological regulation
+24200	24202	GO:0009987	to	cellular process
+24216	24218	GO:0065007	to	biological regulation
+24216	24218	GO:0009987	to	cellular process
+24227	24229	GO:0065007	to	biological regulation
+24227	24229	GO:0009987	to	cellular process
+25019	25022	GO:0044464	rod	cell part
+25019	25022	GO:0044422	rod	organelle part
+25138	25140	GO:0065007	to	biological regulation
+25138	25140	GO:0009987	to	cellular process
+25579	25587	GO:0044421	antibody	extraccellular region part
+25579	25587	GO:0032991	antibody	macromolecular complex
+25579	25599	GO:0002376	antibody production	immune system process
+25794	25796	GO:0065007	to	biological regulation
+25794	25796	GO:0009987	to	cellular process
+25794	25796	GO:0065007	to	biological regulation
+25794	25796	GO:0009987	to	cellular process
+26337	26345	GO:0003824	protein	catalytic activity
+26354	26362	GO:0003824	protein	catalytic activity
+27330	27339	GO:0044421	antibody	extraccellular region part
+27330	27339	GO:0032991	antibody	macromolecular complex
+27399	27406	GO:0003824	protein	catalytic activity
+27425	27431	GO:0005623	cells	cell
+27477	27484	GO:0003824	protein	catalytic activity
+28405	28408	GO:0044464	rod	cell part
+28405	28408	GO:0044422	rod	organelle part
