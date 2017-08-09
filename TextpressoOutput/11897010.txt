@@ -1,0 +1,8213 @@
+### s1 ###
+## BOA ##
+Cloning
+1
+method grammar='VBG'
+## EOA ##
+## BOA ##
+characterization
+3
+characterization grammar='NN|NNS'
+## EOA ##
+## BOA ##
+mouse
+6
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1
+7
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1 gene
+7
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+gene
+8
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+reveals
+9
+localization_verbs_022008 source='CCC'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+an
+10
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+alternatively spliced
+11
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+alternatively spliced transcript
+11
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+spliced
+12
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+transcript
+13
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+seen
+15
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+localization_verbs_050808 source='ccc'
+localization_verbs att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+## EOA ##
+## BOA ##
+humans
+17
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s2 ###
+## BOA ##
+
+1
+reporter_gene_celegans 
+## EOA ##
+## BOA ##
+IV
+5
+## EOA ##
+## BOA ##
+an
+10
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+storage
+14
+maintenance_of_localization source='go'
+## EOA ##
+## BOA ##
+disorder
+15
+disease grammar='NN|NNS' reference='indirect'
+## EOA ##
+## BOA ##
+characterized
+16
+characterization grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+severe
+18
+PATO-0000001-0000068.qualitative.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+abnormalities
+22
+mutants grammar='JJ|JJS|JJR' reference='indirect'
+## EOA ##
+### EOS ###
+### s3 ###
+## BOA ##
+gene
+4
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+has
+8
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+identified
+10
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+a
+12
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transient receptor potential
+17
+## EOA ##
+## BOA ##
+receptor
+18
+receptor grammar='NNP' reference='direct'
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+TRP
+21
+## EOA ##
+## BOA ##
+superfamily
+25
+pathway grammar='NN|NNS' type='general' course='upstream'
+## EOA ##
+### EOS ###
+### s4 ###
+## BOA ##
+report
+3
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+cloning
+5
+method grammar='VBG'
+## EOA ##
+## BOA ##
+characterization
+7
+characterization grammar='NN|NNS'
+## EOA ##
+## BOA ##
+mouse
+10
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+11
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+Mcoln1
+13
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+report
+16
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+17
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+novel
+18
+ccc att='gen'
+## EOA ##
+## BOA ##
+splice
+19
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variant
+20
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+seen
+24
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+localization_verbs_050808 source='ccc'
+localization_verbs att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+## EOA ##
+## BOA ##
+humans
+26
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s5 ###
+## BOA ##
+Results
+1
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+## EOA ##
+### EOS ###
+### s6 ###
+## BOA ##
+human
+2
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+mouse
+4
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+genes
+5
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+display
+6
+characterization grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+a
+7
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+high
+8
+localization grammar='RB|RBR|JJ|JJR' type='general'
+## EOA ##
+### EOS ###
+### s7 ###
+## BOA ##
+Mcoln1
+1
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+shows
+2
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+amino
+5
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+5
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+nucleotide
+10
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+## EOA ##
+## BOA ##
+to
+12
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+### EOS ###
+### s8 ###
+## BOA ##
+Mcoln1
+3
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+maps
+4
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+to
+5
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+chromosome
+6
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+contains
+9
+mf_int_verbs_2009-11-25 source='ccc'
+characterization grammar='VB|VBZ'
+ccc att='gen'
+## EOA ##
+## BOA ##
+an
+10
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+open
+11
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+open reading frame
+11
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+reading frame
+12
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+amino
+16
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acids
+16
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+a
+20
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+21
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+length
+22
+mf_int_assay_2009-11-25 source='ccc'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+encoded
+27
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+exons
+30
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+similar
+32
+comparison grammar='JJ|JJR' type='similar'
+## EOA ##
+## BOA ##
+to
+33
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+its
+34
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+human
+35
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s9 ###
+## BOA ##
+transcript
+2
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+results
+4
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+## EOA ##
+## BOA ##
+murine
+6
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+specific
+7
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+## EOA ##
+## BOA ##
+splicing
+9
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+encodes
+10
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+a
+11
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+amino
+13
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+13
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+protein
+15
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+differs
+17
+comparison grammar='VB|VBZ' type='different'
+## EOA ##
+## BOA ##
+at
+18
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+c-terminus
+20
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+### EOS ###
+### s10 ###
+### EOS ###
+### s11 ###
+## BOA ##
+
+1
+reporter_gene_celegans 
+## EOA ##
+## BOA ##
+Mcoln1
+2
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+highly
+4
+localization grammar='RBR|RB' type='general'
+## EOA ##
+## BOA ##
+similar
+5
+comparison grammar='JJ|JJR' type='similar'
+## EOA ##
+## BOA ##
+to
+6
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+transmembrane
+12
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domains
+13
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+ion
+15
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+pore
+16
+cell_part source='go'
+GO-0005575-0032991.macromolecular_complex.2010-07-22 source='GO-v1.934'
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+region
+17
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s12 ###
+## BOA ##
+late
+4
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='later'
+## EOA ##
+## BOA ##
+endosomal
+5
+localization_cell_components_090507 att="gen"
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+localization_cell_components_022008 source='CCC'
+localization_cell_components_082208 source='ccc'
+localization_cell_components_120107 
+## EOA ##
+## BOA ##
+targeting
+8
+localization_other att="gen"
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+effect grammar='VBG' type='unknown'
+localization_verbs_082208 source='ccc'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_120107 
+## EOA ##
+## BOA ##
+targeting signal
+8
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+signal
+9
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='no'
+localization_other_120107 
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+conserved
+11
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+protein
+18
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+localized
+20
+ccc att='gen'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_012607 att="gen"
+localization grammar='VBD|VBN' type='spatial'
+localization_verbs att="gen"
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+to
+21
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+vesicle
+23
+localization_cell_components_082208 source='ccc'
+localization_cell_components_050808 source='ccc'
+organelle source='go'
+localization_cell_components_022008 source='CCC'
+CCC_TAIR source='CCC_TAIR'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+## EOA ##
+## BOA ##
+vesicle membranes
+23
+CCC_TAIR source='CCC_TAIR'
+organelle_part source='go'
+cell_part source='go'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+membranes
+24
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+localization_cell_components_120107 
+ccc att='gen'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+localization_cell_components att="gen"
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+cell_part source='go'
+localization_cell_components_082208 source='ccc'
+## EOA ##
+### EOS ###
+### s13 ###
+## BOA ##
+To
+1
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+date
+2
+## EOA ##
+## BOA ##
+there
+4
+localization grammar='RBR|RB|PP|NN|NNS|EX|JJ|JJR' type='general'
+## EOA ##
+## BOA ##
+few
+7
+descriptor grammar='JJ|JJR|NNS|NNPS|PP'
+## EOA ##
+## BOA ##
+splice
+11
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variants
+12
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+### EOS ###
+### s14 ###
+## BOA ##
+Mcoln1
+4
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+to
+7
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+development
+9
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='general' biosynthesis='other'
+## EOA ##
+## BOA ##
+mouse
+11
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+for
+13
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+fact
+17
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+there
+19
+localization grammar='RBR|RB|PP|NN|NNS|EX|JJ|JJR' type='general'
+## EOA ##
+## BOA ##
+transcripts
+22
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+mice
+24
+organism grammar='NNS|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+an
+26
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+function
+30
+purpose grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+gene
+33
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+may
+35
+modality grammar='VBP|MD'
+## EOA ##
+### EOS ###
+### s15 ###
+## BOA ##
+IV
+4
+## EOA ##
+## BOA ##
+an
+12
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+storage
+16
+maintenance_of_localization source='go'
+## EOA ##
+## BOA ##
+disorder
+17
+disease grammar='NN|NNS' reference='indirect'
+## EOA ##
+## BOA ##
+characterized
+20
+characterization grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+corneal clouding
+22
+disease_hsapiens 
+## EOA ##
+## BOA ##
+delayed
+25
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+development
+27
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='general' biosynthesis='other'
+## EOA ##
+## BOA ##
+mental retardation
+30
+disease_hsapiens 
+## EOA ##
+## BOA ##
+retardation
+31
+effect grammar='NN|NNS' type='negative'
+## EOA ##
+## BOA ##
+presents
+34
+PATO-0000001-0000068.qualitative.2010-07-22 source='PATO-v1.223'
+descriptor grammar='JJ|JJR|JJS|VB|VBZ|NN|NNS'
+## EOA ##
+## BOA ##
+during
+35
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+first
+37
+localization grammar='NN|NNP|VB|VBZ|JJ' type='general'
+## EOA ##
+### EOS ###
+### s16 ###
+## BOA ##
+characteristic
+4
+characterization grammar='NN|NNS|JJ'
+## EOA ##
+## BOA ##
+constitutively
+9
+consort grammar='RB|RBR|RBS' type='unknown'
+## EOA ##
+## BOA ##
+associated
+12
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs att="gen"
+association grammar='VBD|VBN'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+localization_verbs_012607 att="gen"
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+ccc att='gen'
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+localization_verbs_050808 source='ccc'
+## EOA ##
+### EOS ###
+### s17 ###
+## BOA ##
+do
+4
+gene_ncrassa grammar='NN|NNP' reference='direct'
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+chemical_drug_2010-03-19 source='textpresso'
+## EOA ##
+## BOA ##
+show
+6
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+excretion
+8
+GO-0008150-0032501.multicellular_organismal_process.2010-07-22 source='GO-v1.934'
+multicellular_organismal_process source='go'
+GO-0008150-0051234.establishment_of_localization.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+changes
+11
+effect grammar='NN|NNS|VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+like
+15
+comparison grammar='VB|VBZ' type='similar'
+## EOA ##
+### EOS ###
+### s18 ###
+## BOA ##
+Abnormal
+1
+phenotype_celegans reference='direct' source='wormbase'
+mutants grammar='NN|NNS|NNP|NNPS|JJ|JJS|JJR' reference='indirect'
+PATO-0000001-0000068.qualitative.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+storage
+3
+maintenance_of_localization source='go'
+## EOA ##
+## BOA ##
+bodies
+4
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+localization_cell_components_082208 source='ccc'
+localization_cell_components_050808 source='ccc'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_012607 att="gen"
+localization_other att="gen"
+localization_cell_components_120107 
+## EOA ##
+## BOA ##
+large
+6
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+phenotype_celegans reference='direct' source='wormbase'
+descriptor grammar='JJ|JJR|NN|NNS|RB|RBR|RBS'
+## EOA ##
+## BOA ##
+vacuoles
+7
+organelle source='go'
+cell_part source='go'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+CCC_TAIR source='CCC_TAIR'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+found
+10
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_012607 att="gen"
+localization_verbs att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+using
+16
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+prior
+20
+localization grammar='NN|NNS|JJ|JJR' type='temporal'
+## EOA ##
+## BOA ##
+to
+21
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+gene
+22
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s19 ###
+## BOA ##
+A
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+recent
+2
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+report
+3
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+frequency
+8
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+mutations
+22
+mutants grammar='NN|NNS' reference='direct'
+sequence source='so'
+## EOA ##
+## BOA ##
+reported
+25
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s20 ###
+## BOA ##
+human
+2
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+gene
+3
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+maps
+10
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+to
+11
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+chromosome
+12
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+encodes
+19
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+a
+20
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+novel
+21
+ccc att='gen'
+## EOA ##
+## BOA ##
+protein
+22
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+a
+25
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transient receptor potential
+29
+## EOA ##
+## BOA ##
+receptor
+30
+receptor grammar='NNP' reference='direct'
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+TRP
+33
+## EOA ##
+## BOA ##
+gene
+37
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+superfamily
+38
+pathway grammar='NN|NNS' type='general' course='upstream'
+## EOA ##
+## BOA ##
+7-10
+40
+## EOA ##
+### EOS ###
+### s21 ###
+## BOA ##
+Protein
+1
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+NIF-Molecule source='NIFSTD'
+sequence source='so'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_experimental_050808 source='ccc'
+localization_other_012607 att="gen"
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+suggest
+4
+modality grammar='VBZ'
+## EOA ##
+## BOA ##
+result
+9
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+11
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+defect
+12
+mutants grammar='NN|NNS|NNP|NNPS|VB|VBZ' reference='indirect'
+## EOA ##
+## BOA ##
+late
+15
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='later'
+## EOA ##
+## BOA ##
+endocytic
+16
+localization_cell_components_120107 
+localization_cell_components_082208 source='ccc'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+pathway
+17
+pathway grammar='NN|NNS' type='general' course='unknown'
+## EOA ##
+## BOA ##
+to
+20
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+caused
+27
+effect grammar='VBD|VBN' type='unknown'
+## EOA ##
+## BOA ##
+defective
+29
+mutants grammar='JJ|JJS|JJR' reference='indirect'
+## EOA ##
+## BOA ##
+hydrolases
+31
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+## EOA ##
+### EOS ###
+### s22 ###
+## BOA ##
+Recent
+1
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+work
+2
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+effect grammar='NN|NNS|VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+Caenorhabditis
+4
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Caenorhabditis elegans
+4
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s23 ###
+## BOA ##
+Loss
+1
+descriptor grammar='JJ|RB|RBR|NN|NNP'
+## EOA ##
+## BOA ##
+Loss of
+1
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+function
+3
+purpose grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+mutants
+4
+mutants grammar='NN|NNS' reference='direct'
+## EOA ##
+## BOA ##
+C
+8
+anatomy_celegans reference='direct' source='wormbase'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+C _PRD_ elegans
+8
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+11
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+cup-5
+13
+gene_celegans source='WormBase'
+## EOA ##
+## BOA ##
+result
+15
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+an
+17
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+increased
+18
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_082208 source='ccc'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+increased rate
+18
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+rate
+19
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+endocytosis
+21
+GO-0008150-0016043.cellular_component_organization.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+cellular_process source='go'
+GO-0008150-0051234.establishment_of_localization.2010-07-22 source='GO-v1.934'
+establishment_of_localization source='go'
+## EOA ##
+## BOA ##
+accumulation
+23
+localization_other_120107 
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+ccc att='gen'
+effect grammar='NN|NNS' type='unknown'
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+large
+25
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+phenotype_celegans reference='direct' source='wormbase'
+descriptor grammar='JJ|JJR|NN|NNS|RB|RBR|RBS'
+## EOA ##
+## BOA ##
+vacuoles
+26
+organelle source='go'
+cell_part source='go'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+CCC_TAIR source='CCC_TAIR'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+a
+29
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+decreased
+30
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+decreased rate
+30
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+rate
+31
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+protein
+34
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+protein breakdown
+34
+GO-0008150-0008152.metabolic_process.2010-07-22 source='GO-v1.934'
+metabolic_process source='go'
+## EOA ##
+## BOA ##
+breakdown
+35
+GO-0008150-0008152.metabolic_process.2010-07-22 source='GO-v1.934'
+metabolic_process source='go'
+## EOA ##
+## BOA ##
+over-expression
+38
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+gene
+41
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+reverses
+42
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+phenotype
+44
+phenotype reference='indirect' source='textpresso'
+## EOA ##
+### EOS ###
+### s24 ###
+## BOA ##
+Cloning
+1
+method grammar='VBG'
+## EOA ##
+## BOA ##
+characterization
+3
+characterization grammar='NN|NNS'
+## EOA ##
+## BOA ##
+mouse
+6
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+7
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+for
+12
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+development
+14
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='general' biosynthesis='other'
+## EOA ##
+## BOA ##
+mouse
+16
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+to
+20
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+disorder
+24
+disease grammar='NN|NNS' reference='indirect'
+## EOA ##
+### EOS ###
+### s25 ###
+## BOA ##
+Results
+1
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+## EOA ##
+### EOS ###
+### s26 ###
+## BOA ##
+
+1
+reporter_gene_celegans 
+## EOA ##
+## BOA ##
+Cloning
+2
+method grammar='VBG'
+## EOA ##
+## BOA ##
+mapping
+4
+method grammar='VBG'
+## EOA ##
+## BOA ##
+mouse
+7
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+8
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+Mcoln1
+9
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+to
+12
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+clone
+13
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+mouse
+15
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+16
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+human
+21
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+amino
+22
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+22
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+sequence
+24
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+compared
+26
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+comparison grammar='VBD|VBN' type='unknown'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+to
+27
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+high
+29
+localization grammar='RB|RBR|JJ|JJR' type='general'
+## EOA ##
+## BOA ##
+sequence
+32
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+using
+37
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+identified
+41
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+mouse
+43
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+BAC
+44
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+BAC clone
+44
+sequence source='so'
+## EOA ##
+## BOA ##
+clone
+45
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s27 ###
+## BOA ##
+Correspondence
+1
+consort grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+Joint
+4
+anatomy_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Genome
+5
+SO-0001260-0001026.genome.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Human
+16
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Genome
+17
+SO-0001260-0001026.genome.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Center
+18
+spatial_relation grammar='NN|NNP|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+location
+21
+localization_other att="gen"
+ccc att='gen'
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+localization grammar='NN|NNS' type='spatial'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+localization_other_120107 
+## EOA ##
+## BOA ##
+BAC
+24
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+to
+25
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+mouse
+26
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+mouse chromosome 8
+26
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+chromosome
+27
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+allowed
+30
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+us
+31
+## EOA ##
+## BOA ##
+to
+32
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+construct
+33
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+a
+34
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+physical
+35
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+physical map
+35
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+36
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+region
+39
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+Fig
+44
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+1A
+46
+## EOA ##
+### EOS ###
+### s28 ###
+## BOA ##
+BAC
+2
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequence
+3
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+compared
+6
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+comparison grammar='VBD|VBN' type='unknown'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+to
+7
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+mouse
+9
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+EST
+10
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+using
+12
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+multiple
+16
+descriptor grammar='JJ|JJR|NN|NNS'
+## EOA ##
+## BOA ##
+ESTs
+17
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+## EOA ##
+## BOA ##
+corresponding
+20
+ccc att='gen'
+consort grammar='VBG' type='unknown'
+## EOA ##
+## BOA ##
+I
+21
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s29 ###
+## BOA ##
+M
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+anatomy_celegans reference='direct' source='wormbase'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+### EOS ###
+### s30 ###
+## BOA ##
+A
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+### EOS ###
+### s31 ###
+## BOA ##
+G
+1
+gene_ncrassa grammar='NN|NNP' reference='direct'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s32 ###
+## BOA ##
+E
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+clones
+3
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+identified
+5
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+### EOS ###
+### s33 ###
+## BOA ##
+Figure
+1
+tables_and_figures 
+## EOA ##
+## BOA ##
+Physical
+3
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+transcript
+5
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+6
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+Mcoln1
+9
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1 gene
+9
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+gene
+10
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+region
+11
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s34 ###
+## BOA ##
+A
+2
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Physical
+4
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Physical map
+4
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+5
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+showing
+6
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+7
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+segment
+10
+localization grammar='NN|NNS|VB|VBZ' type='general'
+## EOA ##
+## BOA ##
+mouse
+12
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+mouse chromosome 8
+12
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+chromosome
+13
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+to
+16
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+human
+17
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+human chromosome 19
+17
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+chromosome
+18
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+anchored
+21
+localization grammar='VBD|VBN' type='spatial'
+## EOA ##
+## BOA ##
+genes
+24
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Insr
+25
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Nte
+27
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s35 ###
+## BOA ##
+region
+2
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+BACs
+7
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s36 ###
+## BOA ##
+B
+2
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+transcript
+5
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+6
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+Mcoln1
+8
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+shows
+9
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+exons
+11
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+locations
+15
+localization grammar='NN|NNS' type='spatial'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+probes
+18
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+used
+19
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+### EOS ###
+### s37 ###
+## BOA ##
+map
+2
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+shows
+4
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+expanded
+6
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+## EOA ##
+## BOA ##
+exon
+7
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+alternatively spliced
+11
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+alternatively spliced transcript
+11
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+spliced
+12
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+transcript
+13
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+box
+16
+## EOA ##
+### EOS ###
+### s38 ###
+## BOA ##
+cluster
+2
+localization grammar='NN|NNS|VB|VBZ' type='spatial'
+## EOA ##
+### EOS ###
+### s39 ###
+## BOA ##
+homologue
+4
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+human
+7
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+zinc finger
+8
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+finger
+9
+DDANAT-0010001-0010082.multicellular_organism.2010-07-22 source='DDANAT-v1.10'
+## EOA ##
+## BOA ##
+gene
+10
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s40 ###
+## BOA ##
+should
+2
+modality grammar='VBD|MD'
+## EOA ##
+## BOA ##
+transcript
+10
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+11
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+to
+15
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+BAC
+21
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s41 ###
+## BOA ##
+clones
+2
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+Nos
+5
+## EOA ##
+### EOS ###
+### s42 ###
+## BOA ##
+cluster
+10
+localization grammar='NN|NNS|VB|VBZ' type='spatial'
+## EOA ##
+### EOS ###
+### s43 ###
+## BOA ##
+obtained
+3
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+sequenced
+5
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+assembled
+8
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='general' biosynthesis='other'
+## EOA ##
+## BOA ##
+a
+10
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+13
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+an
+15
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+open
+16
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+open reading frame
+16
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+reading frame
+17
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+amino
+21
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acids
+21
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+designated
+23
+characterization grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+Mcoln1
+24
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s44 ###
+## BOA ##
+Comparison
+1
+comparison grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+cDNA
+4
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+sequence
+5
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+to
+6
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+BAC
+8
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+BAC clone
+8
+sequence source='so'
+## EOA ##
+## BOA ##
+clone
+9
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+showed
+10
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_012607 att="gen"
+localization_verbs_120107 
+## EOA ##
+## BOA ##
+gene
+13
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+consists
+14
+characterization grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+exons
+17
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s45 ###
+## BOA ##
+created
+3
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+a
+4
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+5
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+6
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+Mcoln1
+9
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+region
+10
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+mouse
+12
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+mouse chromosome 8
+12
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+chromosome
+13
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Fig
+16
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+presence
+23
+localization grammar='NN|NNS' type='spatial'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+Cluster
+27
+localization grammar='NN|NNS|VB|VBZ' type='spatial'
+## EOA ##
+### EOS ###
+### s46 ###
+## BOA ##
+a
+3
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+4
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+human
+7
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+zinc finger
+8
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+finger
+9
+DDANAT-0010001-0010082.multicellular_organism.2010-07-22 source='DDANAT-v1.10'
+## EOA ##
+## BOA ##
+gene
+10
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+terminates
+18
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+before
+24
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='earlier'
+## EOA ##
+## BOA ##
+start
+26
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+## EOA ##
+## BOA ##
+Mcoln1
+28
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Nte
+31
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+mouse
+34
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+35
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+human
+38
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+neuropathy
+39
+disease_hsapiens 
+## EOA ##
+## BOA ##
+target
+40
+effect grammar='VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+esterase
+41
+catalytic_activity source='go'
+## EOA ##
+## BOA ##
+gene
+42
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+beginning
+46
+localization grammar='NN|NNS|JJ|JJR|VBG' type='temporal'
+## EOA ##
+## BOA ##
+base
+48
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+mf_int_assay_2009-11-25 source='ccc'
+DDANAT-0010001-0010085.subdivision.2010-07-22 source='DDANAT-v1.10'
+## EOA ##
+## BOA ##
+base pairs
+48
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+pairs
+49
+consort grammar='NN|NNS|VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+after
+50
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='later'
+## EOA ##
+## BOA ##
+polyadenylation
+52
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+signal
+53
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='no'
+localization_other_120107 
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+for
+54
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1
+55
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s47 ###
+## BOA ##
+transcript
+2
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+map
+3
+method grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+region
+6
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+surrounding
+7
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+localization grammar='VBG' type='spatial'
+ccc att='gen'
+## EOA ##
+## BOA ##
+Mcoln1
+8
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+similar
+10
+comparison grammar='JJ|JJR' type='similar'
+## EOA ##
+## BOA ##
+to
+11
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+corresponding
+13
+ccc att='gen'
+consort grammar='VBG' type='unknown'
+## EOA ##
+## BOA ##
+region
+14
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+homologous
+17
+ccc att='gen'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+comparison grammar='JJ|JJR' type='identical'
+## EOA ##
+## BOA ##
+human
+18
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+region
+20
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+presence
+27
+localization grammar='NN|NNS' type='spatial'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+zinc finger
+30
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+finger
+31
+DDANAT-0010001-0010082.multicellular_organism.2010-07-22 source='DDANAT-v1.10'
+## EOA ##
+## BOA ##
+gene
+32
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Nte
+34
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+extends
+37
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+## EOA ##
+## BOA ##
+region
+39
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+between
+42
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+human
+43
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+human chromosome 19
+43
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+chromosome
+44
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+mouse
+47
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+mouse chromosome 8
+47
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+chromosome
+48
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s48 ###
+## BOA ##
+Characterization
+1
+characterization grammar='NN|NNS'
+## EOA ##
+## BOA ##
+Mcoln1
+3
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Comparison
+4
+comparison grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+mouse
+7
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+human
+9
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+peptide
+10
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+sequences
+11
+SO.parent.2010-07-22 
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+showed
+12
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_012607 att="gen"
+localization_verbs_120107 
+## EOA ##
+## BOA ##
+Fig
+17
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s49 ###
+## BOA ##
+C
+2
+anatomy_celegans reference='direct' source='wormbase'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+C _PRD_ elegans
+2
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+5
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+cup-5
+6
+gene_celegans source='WormBase'
+## EOA ##
+## BOA ##
+shows
+7
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+12
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+analysis
+15
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+17
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+identified
+18
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+a
+19
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Drosophila
+21
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Drosophila melanogaster
+21
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+23
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+shows
+25
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+Fig
+30
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s50 ###
+## BOA ##
+amino
+5
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+5
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid substitutions
+5
+sequence source='so'
+SO-0001060-0001537.all-descendants.structural_variant.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+substitutions
+7
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+effect grammar='NN|NNS' type='unknown'
+SO-0000110-0001059.sequence_alteration.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+result
+9
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+occur
+12
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+at
+13
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+conserved
+14
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+amino
+15
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acids
+15
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+NIF-Molecule source='NIFSTD'
+## EOA ##
+### EOS ###
+### s51 ###
+## BOA ##
+analysis
+2
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+4
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+protein
+5
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+structure
+6
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+nearly
+9
+spatial_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='close'
+## EOA ##
+## BOA ##
+identical
+10
+comparison grammar='JJ|JJR' type='identical'
+## EOA ##
+## BOA ##
+to
+11
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+containing
+14
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+characterization grammar='VBG'
+## EOA ##
+## BOA ##
+transmembrane
+16
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domains
+17
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+C-termini
+22
+mf_int_assay_2009-11-25 source='ccc'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+in the cytoplasm
+24
+ccc_ps3_mc2 att='gen'
+## EOA ##
+## BOA ##
+cytoplasm
+26
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+cell_part source='go'
+localization_cell_components_082208 source='ccc'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components att="gen"
+localization_cell_components_050808 source='ccc'
+localization_cell_components_012607 att="gen"
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+localization_cell_components_120107 
+ccc att='gen'
+## EOA ##
+## BOA ##
+Fig
+28
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s52 ###
+## BOA ##
+Figure
+1
+tables_and_figures 
+## EOA ##
+## BOA ##
+Peptide
+3
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+sequence
+4
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+comparison
+5
+comparison grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+Mcoln1
+7
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+to
+8
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+human
+9
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+D
+11
+anatomy_celegans reference='direct' source='wormbase'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+D _PRD_ melanogaster
+11
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+C
+16
+anatomy_celegans reference='direct' source='wormbase'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+C _PRD_ elegans
+16
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+cup-5
+20
+gene_celegans source='WormBase'
+## EOA ##
+## BOA ##
+homologues
+22
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+### EOS ###
+### s53 ###
+## BOA ##
+Blue
+1
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+indicate
+3
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+## EOA ##
+## BOA ##
+transmembrane
+4
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domains
+5
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+red
+8
+localization_experimental_022008 source='CCC'
+GO-0008150-0023046.signaling_process.2010-07-22 source='GO-v1.934'
+localization_experimental_082208 source='ccc'
+GO-0008150-0050896.response_to_stimulus.2010-07-22 source='GO-v1.934'
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+box
+9
+## EOA ##
+## BOA ##
+surrounds
+10
+localization grammar='NN|NNS|VB|VBZ' type='spatial'
+## EOA ##
+## BOA ##
+pore
+14
+cell_part source='go'
+GO-0005575-0032991.macromolecular_complex.2010-07-22 source='GO-v1.934'
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+orange
+17
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+box
+18
+## EOA ##
+## BOA ##
+surrounds
+19
+localization grammar='NN|NNS|VB|VBZ' type='spatial'
+## EOA ##
+## BOA ##
+late
+22
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='later'
+## EOA ##
+## BOA ##
+endosomal
+23
+localization_cell_components_090507 att="gen"
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+localization_cell_components_022008 source='CCC'
+localization_cell_components_082208 source='ccc'
+localization_cell_components_120107 
+## EOA ##
+## BOA ##
+targeting
+26
+localization_other att="gen"
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+effect grammar='VBG' type='unknown'
+localization_verbs_082208 source='ccc'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_120107 
+## EOA ##
+## BOA ##
+targeting signal
+26
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+signal
+27
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='no'
+localization_other_120107 
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+Expression
+29
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+localization_other_120107 
+localization_other att="gen"
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+## EOA ##
+## BOA ##
+analysis
+30
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+32
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Mouse
+33
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+adult
+34
+life_stages_celegans grammar='NN|NNS|NNP|NNPS' reference='direct'
+developmental_stage_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+multiple
+35
+descriptor grammar='JJ|JJR|NN|NNS'
+## EOA ##
+## BOA ##
+embryonic
+39
+developmental_stage_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+life_stages_celegans grammar='JJ' reference='direct'
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+Northern
+40
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+blots
+41
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+hybridized
+43
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+using
+44
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+a
+45
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+46
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+generated
+47
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+mouse
+49
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+exon
+50
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+probe
+53
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Fig
+56
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+a
+62
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+band
+63
+## EOA ##
+## BOA ##
+a
+79
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+less
+80
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+abundant
+81
+ccc att='gen'
+## EOA ##
+## BOA ##
+band
+88
+## EOA ##
+## BOA ##
+Figs
+94
+tables_and_figures 
+## EOA ##
+### EOS ###
+### s54 ###
+## BOA ##
+band
+6
+## EOA ##
+## BOA ##
+shows
+7
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+ubiquitous
+8
+descriptor grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+variable
+10
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+expression
+11
+localization_other_120107 
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+highest
+15
+localization grammar='JJS' type='general'
+## EOA ##
+## BOA ##
+expression
+16
+localization_other_120107 
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+brain
+18
+anatomy_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+kidney
+22
+## EOA ##
+### EOS ###
+### s55 ###
+## BOA ##
+blot
+5
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+shows
+6
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+decreasing
+7
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+levels
+8
+localization_other_120107 
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+localization_other_090507 att="gen"
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+increasing
+17
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+## EOA ##
+## BOA ##
+age
+19
+localization grammar='VB|VBZ' type='temporal'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+### EOS ###
+### s56 ###
+## BOA ##
+human
+3
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+gene
+5
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+encodes
+6
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+a
+7
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+single
+8
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+descriptor grammar='JJ|JJR|JJS|VB|VBZ|NN|NNS'
+sequence source='so'
+## EOA ##
+## BOA ##
+transcript
+9
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+out
+16
+spatial_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+hybridizations
+18
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+probes
+20
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+generated
+21
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+regions
+24
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+localization grammar='VB|VBZ' type='spatial'
+ccc att='gen'
+## EOA ##
+## BOA ##
+coding sequence
+27
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequence
+28
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+UTR
+32
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+all
+35
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+probes
+36
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+identified
+37
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+transcripts
+41
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+mouse
+44
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+data
+46
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+shown
+48
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s57 ###
+## BOA ##
+to
+3
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+presence
+6
+localization grammar='NN|NNS' type='spatial'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+a
+8
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+single
+9
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+descriptor grammar='JJ|JJR|JJS|VB|VBZ|NN|NNS'
+sequence source='so'
+## EOA ##
+## BOA ##
+mouse
+10
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+locus
+11
+gene grammar='NN|NNS' reference='indirect'
+## EOA ##
+## BOA ##
+hybridized
+14
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+a
+15
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+mouse
+16
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Southern
+17
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+blot
+18
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+exon
+21
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+probe
+23
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s58 ###
+## BOA ##
+different
+2
+comparison grammar='JJ|JJR|RB|RBR|RBS' type='different'
+## EOA ##
+## BOA ##
+enzymes
+4
+NIF-Molecule source='NIFSTD'
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+used
+6
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+size
+12
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+bands
+13
+ccc att='gen'
+## EOA ##
+## BOA ##
+for
+14
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+chromosome
+16
+sequence source='so'
+cell_part source='go'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044422.organelle_part.2010-07-22 source='GO-v1.934'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+locus
+18
+gene grammar='NN|NNS' reference='indirect'
+## EOA ##
+## BOA ##
+detected
+20
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+data
+22
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+shown
+24
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s59 ###
+## BOA ##
+Figure
+1
+tables_and_figures 
+## EOA ##
+## BOA ##
+Northern
+3
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+analysis
+4
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+6
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s60 ###
+## BOA ##
+A
+2
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Mouse
+4
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Northern
+8
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+B
+11
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+mouse
+13
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+multiple
+14
+descriptor grammar='JJ|JJR|NN|NNS'
+## EOA ##
+## BOA ##
+Northern
+17
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+blots
+18
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+hybridized
+22
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+a
+24
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+25
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+generated
+26
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+exon
+28
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+probe
+31
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Fig
+34
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s61 ###
+## BOA ##
+C
+2
+anatomy_celegans reference='direct' source='wormbase'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Hybridization
+4
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+multiple
+7
+descriptor grammar='JJ|JJR|NN|NNS'
+## EOA ##
+## BOA ##
+blot
+10
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+a
+12
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+13
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+alternatively spliced
+16
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+17
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+segment
+18
+localization grammar='NN|NNS|VB|VBZ' type='general'
+## EOA ##
+## BOA ##
+exon
+20
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+probe
+23
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Fig
+26
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s62 ###
+## BOA ##
+control
+2
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+hybridization
+3
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+shown
+5
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+below
+6
+spatial_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+blot
+8
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+### EOS ###
+### s63 ###
+## BOA ##
+Characterization
+1
+characterization grammar='NN|NNS'
+## EOA ##
+## BOA ##
+Mcoln1
+4
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+splice
+6
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variant
+7
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+to
+10
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+determine
+11
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+coding sequence
+13
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequence
+14
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+for
+15
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+18
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+mouse
+23
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+EST
+24
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+using
+26
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+intron
+28
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequence
+34
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+flanking
+35
+spatial_relation grammar='NN|NNP|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='close'
+## EOA ##
+## BOA ##
+Mcoln1
+37
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1 gene
+37
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+gene
+38
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s64 ###
+## BOA ##
+ESTs
+2
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+## EOA ##
+## BOA ##
+identified
+4
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+contained
+6
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_012607 att="gen"
+characterization grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+sequence
+7
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+intron
+9
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+corresponding
+22
+ccc att='gen'
+consort grammar='VBG' type='unknown'
+## EOA ##
+## BOA ##
+clones
+23
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+sequenced
+25
+method grammar='VBD|VBN'
+## EOA ##
+### EOS ###
+### s65 ###
+## BOA ##
+Clone
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+ESTs
+4
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+## EOA ##
+## BOA ##
+begins
+13
+localization grammar='VB|VBZ' type='temporal'
+## EOA ##
+## BOA ##
+before
+19
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='earlier'
+## EOA ##
+## BOA ##
+exon
+20
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+through
+24
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+exon
+26
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+splices
+28
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+to
+30
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+exon
+31
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s66 ###
+## BOA ##
+Clone
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+EST
+4
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+begins
+11
+localization grammar='VB|VBZ' type='temporal'
+## EOA ##
+## BOA ##
+bp
+13
+## EOA ##
+## BOA ##
+before
+14
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='earlier'
+## EOA ##
+## BOA ##
+exon
+15
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+splices
+19
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+to
+21
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+exon
+22
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s67 ###
+## BOA ##
+A
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+mouse
+2
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+multiple
+3
+descriptor grammar='JJ|JJR|NN|NNS'
+## EOA ##
+## BOA ##
+Northern
+6
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+hybridized
+8
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+using
+9
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+a
+10
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+11
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+generated
+12
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+intron
+16
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequence
+17
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+clone
+19
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+Probe
+22
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='VB|VBZ'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Fig
+25
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+detected
+31
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+detected only
+31
+ccc_ps2_mc2 att='gen'
+## EOA ##
+## BOA ##
+band
+38
+## EOA ##
+## BOA ##
+Fig
+40
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s68 ###
+## BOA ##
+to
+3
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+determine
+4
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+sequence
+6
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+transcript
+10
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+using
+13
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+primers
+14
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+exons
+16
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+paired
+20
+consort grammar='VBD|VBN' type='unknown'
+## EOA ##
+## BOA ##
+a
+22
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+primer
+23
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+intron
+25
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+performed
+28
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+using
+29
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+mouse
+33
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+brain
+34
+anatomy_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+RNA
+36
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='RNA'
+sequence source='so'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequenced
+41
+method grammar='VBD|VBN'
+## EOA ##
+### EOS ###
+### s69 ###
+## BOA ##
+show
+3
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+transcript
+7
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+to
+10
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+an
+11
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+splice
+13
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+results
+16
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+## EOA ##
+## BOA ##
+an
+18
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+expanded
+19
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+## EOA ##
+## BOA ##
+exon
+20
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s70 ###
+## BOA ##
+Specifically
+1
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+exon
+3
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+splices
+5
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+at
+6
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+bp
+7
+## EOA ##
+## BOA ##
+intron
+10
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+creating
+13
+effect grammar='VBG' type='positive'
+## EOA ##
+## BOA ##
+a
+14
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+large
+15
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+phenotype_celegans reference='direct' source='wormbase'
+descriptor grammar='JJ|JJR|NN|NNS|RB|RBR|RBS'
+## EOA ##
+## BOA ##
+bp
+17
+## EOA ##
+## BOA ##
+exon
+18
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+splices
+21
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+to
+23
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+exon
+24
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s71 ###
+## BOA ##
+open
+2
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+open reading frame
+2
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+reading frame
+3
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+alternatively spliced
+7
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+alternatively spliced transcript
+7
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+spliced
+8
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+transcript
+9
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+amino
+12
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acids
+12
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+amino
+16
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acids
+16
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+encoded
+22
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+transcript
+29
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s72 ###
+## BOA ##
+analysis
+2
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+encodes
+7
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+a
+8
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+protein
+9
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+identical
+10
+comparison grammar='JJ|JJR' type='identical'
+## EOA ##
+## BOA ##
+structure
+12
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+to
+13
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+Mcoln1
+14
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+possessing
+16
+characterization grammar='VBG'
+## EOA ##
+## BOA ##
+transmembrane
+18
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domains
+19
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+21
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+pore
+23
+cell_part source='go'
+GO-0005575-0032991.macromolecular_complex.2010-07-22 source='GO-v1.934'
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+protein
+27
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+sequences
+28
+SO.parent.2010-07-22 
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+diverge
+29
+pathway grammar='VBG' type='evolutionary' course='downstream'
+## EOA ##
+## BOA ##
+at
+30
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+amino
+31
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+31
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s73 ###
+## BOA ##
+amino
+3
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+3
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+C-terminal
+5
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_082208 source='ccc'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+cytoplasmic
+6
+localization_cell_components_082208 source='ccc'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+localization_cell_components_120107 
+ccc att='gen'
+localization_cell_components_012607 att="gen"
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components att="gen"
+localization_cell_components_050808 source='ccc'
+## EOA ##
+## BOA ##
+tail
+7
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+encoded
+8
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+transcript
+15
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+completely
+17
+effect grammar='RB|RBR|RBS' type='unknown'
+## EOA ##
+## BOA ##
+different
+18
+comparison grammar='JJ|JJR|RB|RBR|RBS' type='different'
+## EOA ##
+## BOA ##
+amino
+22
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+22
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+tail
+24
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+encoded
+25
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+murine
+28
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+specific
+29
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+## EOA ##
+## BOA ##
+transcript
+34
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Fig
+36
+tables_and_figures 
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s74 ###
+## BOA ##
+Mouse
+2
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+RNA
+3
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='RNA'
+sequence source='so'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+Blots
+5
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+hybridized
+7
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+exon
+10
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+intron
+13
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+probes
+15
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+above
+17
+spatial_relation grammar='NN|NNP|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+an
+19
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+to
+21
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+determine
+22
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+transcripts
+26
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+showed
+27
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_012607 att="gen"
+localization_verbs_120107 
+## EOA ##
+## BOA ##
+differences
+28
+comparison grammar='NN|NNS' type='different'
+## EOA ##
+## BOA ##
+expression
+30
+localization_other_120107 
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+patterns
+31
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_050808 source='ccc'
+## EOA ##
+## BOA ##
+there
+35
+localization grammar='RBR|RB|PP|NN|NNS|EX|JJ|JJR' type='general'
+## EOA ##
+## BOA ##
+difference
+39
+comparison grammar='NN|NNS' type='different'
+## EOA ##
+## BOA ##
+represented
+45
+characterization grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+data
+47
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+shown
+49
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s75 ###
+## BOA ##
+Figure
+1
+tables_and_figures 
+## EOA ##
+## BOA ##
+Peptide
+3
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+sequence
+4
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+comparison
+5
+comparison grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+alternatively spliced
+9
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+10
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+Mcoln1
+11
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+isoforms
+12
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s76 ###
+## BOA ##
+green
+2
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+box
+3
+## EOA ##
+## BOA ##
+surrounds
+4
+localization grammar='NN|NNS|VB|VBZ' type='spatial'
+## EOA ##
+## BOA ##
+divergent
+6
+pathway grammar='JJ|JJR' type='evolutionary' course='downstream'
+## EOA ##
+## BOA ##
+cytoplasmic
+8
+localization_cell_components_082208 source='ccc'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+localization_cell_components_120107 
+ccc att='gen'
+localization_cell_components_012607 att="gen"
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components att="gen"
+localization_cell_components_050808 source='ccc'
+## EOA ##
+## BOA ##
+tails
+9
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+### EOS ###
+### s77 ###
+## BOA ##
+blue
+2
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+indicate
+4
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_022008 source='CCC'
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+## EOA ##
+## BOA ##
+transmembrane
+6
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domains
+7
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s78 ###
+## BOA ##
+directly
+4
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+compared
+5
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+comparison grammar='VBD|VBN' type='unknown'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+nucleotide
+7
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+## EOA ##
+## BOA ##
+amino
+9
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+9
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+sequence
+11
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+alternatively spliced
+14
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+15
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+mouse
+16
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+17
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+to
+18
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+human
+21
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+sequence
+24
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+found
+26
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_012607 att="gen"
+localization_verbs att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+### EOS ###
+### s79 ###
+## BOA ##
+previously
+3
+localization grammar='RB|RBR' type='temporal'
+## EOA ##
+## BOA ##
+Northern
+5
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+blots
+6
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+performed
+7
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+human
+9
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+probes
+11
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+show
+12
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+transcript
+19
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s80 ###
+## BOA ##
+addition
+2
+effect grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+hybridized
+5
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+a
+6
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+human
+7
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+multiple
+8
+descriptor grammar='JJ|JJR|NN|NNS'
+## EOA ##
+## BOA ##
+Northern
+11
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+human
+13
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Southern
+14
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+a
+16
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+17
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+human
+19
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+intron
+20
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+adjacent
+24
+spatial_relation grammar='NN|NNP|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='close'
+## EOA ##
+## BOA ##
+to
+25
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+exon
+26
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s81 ###
+## BOA ##
+probe
+2
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+was located
+3
+ccc_ps2_mc2 att='gen'
+## EOA ##
+## BOA ##
+located
+4
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+ccc att='gen'
+mf_int_verbs_2009-11-25 source='ccc'
+localization grammar='VBD|VBN' type='spatial'
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+region
+7
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+syntenic
+8
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+to
+9
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+encodes
+12
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+## EOA ##
+## BOA ##
+mouse
+15
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+16
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s82 ###
+## BOA ##
+bands
+4
+ccc att='gen'
+## EOA ##
+## BOA ##
+detected
+6
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Southern
+9
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+bands
+12
+ccc att='gen'
+## EOA ##
+## BOA ##
+detected
+14
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Northern
+17
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+transcript
+23
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+specific
+25
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+## EOA ##
+## BOA ##
+to
+26
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+murine
+27
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1
+28
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s83 ###
+## BOA ##
+Recent
+1
+PATO-0000001-0001236.process_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+analysis
+3
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+7
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+transcript
+8
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+a
+10
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+match
+11
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS|VB|VBZ' type='identical'
+## EOA ##
+## BOA ##
+to
+12
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+a
+13
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+amino
+16
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+16
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+protein
+19
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+predicted
+26
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+28
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+clone
+30
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s84 ###
+## BOA ##
+obvious
+3
+ccc att='gen'
+## EOA ##
+## BOA ##
+results
+6
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+## EOA ##
+## BOA ##
+sequence
+15
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+17
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+full-length
+18
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+protein
+19
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+probes
+23
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+unique
+24
+descriptor grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+to
+25
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+clone
+27
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+probes
+32
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+containing
+33
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+characterization grammar='VBG'
+## EOA ##
+## BOA ##
+Mcoln1
+35
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+coding sequence
+36
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+sequence
+37
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+identify
+39
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+transcripts
+42
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s85 ###
+### EOS ###
+### s86 ###
+## BOA ##
+
+1
+reporter_gene_celegans 
+## EOA ##
+## BOA ##
+Comparison
+2
+comparison grammar='NN|NNS' type='unknown'
+## EOA ##
+## BOA ##
+Mcoln1
+4
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+to
+7
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+its
+8
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+human
+9
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+homologue
+10
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+shows
+11
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+at
+14
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+both
+15
+consort grammar='NNPS|CC|JJ|JJR|JJS' type='unknown'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino
+17
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+17
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+nucleotide
+20
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+## EOA ##
+### EOS ###
+### s87 ###
+## BOA ##
+All
+1
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+transmembrane
+5
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domains
+6
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+highly
+16
+localization grammar='RBR|RB' type='general'
+## EOA ##
+## BOA ##
+conserved
+17
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s88 ###
+## BOA ##
+motif
+7
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+at
+8
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+C-terminus
+10
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+may
+13
+modality grammar='VBP|MD'
+## EOA ##
+## BOA ##
+act
+14
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+brainarea grammar='NNP' reference='direct'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+effect grammar='NN|NNS|VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+a
+16
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+late
+17
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='later'
+## EOA ##
+## BOA ##
+endosomal
+18
+localization_cell_components_090507 att="gen"
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+localization_cell_components_022008 source='CCC'
+localization_cell_components_082208 source='ccc'
+localization_cell_components_120107 
+## EOA ##
+## BOA ##
+targeting
+21
+localization_other att="gen"
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+effect grammar='VBG' type='unknown'
+localization_verbs_082208 source='ccc'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_120107 
+## EOA ##
+## BOA ##
+targeting signal
+21
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+signal
+22
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='no'
+localization_other_120107 
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+conserved
+26
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s89 ###
+## BOA ##
+work
+6
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+effect grammar='NN|NNS|VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+cup-5
+8
+gene_celegans source='WormBase'
+## EOA ##
+## BOA ##
+homologue
+17
+ccc att='gen'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+comparison grammar='NN|NNS' type='identical'
+## EOA ##
+## BOA ##
+cellular localization
+22
+cellular_process source='go'
+GO-0008150-0051179.localization.2010-07-22 source='GO-v1.934'
+localization_GO source='go'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+localization
+23
+localization_other att="gen"
+localization_experimental_022008 source='CCC'
+ccc att='gen'
+localization_experimental_082208 source='ccc'
+localization_other_090507 att="gen"
+GO-0008150-0051179.localization.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization grammar='NN|NNS' type='spatial'
+localization_GO source='go'
+localization_other_120107 
+## EOA ##
+## BOA ##
+suggest
+25
+modality grammar='VBZ'
+## EOA ##
+## BOA ##
+protein
+28
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+found
+30
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_012607 att="gen"
+localization_verbs att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+late
+33
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='later'
+## EOA ##
+## BOA ##
+late endosomes
+33
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+CCC_TAIR source='CCC_TAIR'
+organelle source='go'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+cell_part source='go'
+## EOA ##
+## BOA ##
+endosomes
+34
+localization_cell_components_082208 source='ccc'
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_022008 source='CCC'
+cell_part source='go'
+localization_cell_components_120107 
+ccc att='gen'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+organelle source='go'
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+## EOA ##
+## BOA ##
+lysosomes
+38
+GO-0005575-0043226.organelle.2010-07-22 source='GO-v1.934'
+localization_cell_components_022008 source='CCC'
+cell_part source='go'
+localization_cell_components_082208 source='ccc'
+CCC_TAIR source='CCC_TAIR'
+organelle source='go'
+localization_cell_components_050808 source='ccc'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+## EOA ##
+### EOS ###
+### s90 ###
+## BOA ##
+mouse
+2
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1
+3
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Mcoln1 gene
+3
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+gene
+4
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+has
+5
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+alternatively spliced
+7
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+8
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+isoforms
+9
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+a
+15
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+different
+16
+comparison grammar='JJ|JJR|RB|RBR|RBS' type='different'
+## EOA ##
+## BOA ##
+cytoplasmic
+18
+localization_cell_components_082208 source='ccc'
+localization_cell_components_090507 att="gen"
+localization_cell_components_022008 source='CCC'
+localization_cell_components_120107 
+ccc att='gen'
+localization_cell_components_012607 att="gen"
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components att="gen"
+localization_cell_components_050808 source='ccc'
+## EOA ##
+## BOA ##
+tail
+19
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+### EOS ###
+### s91 ###
+## BOA ##
+unique
+2
+descriptor grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+amino
+4
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+amino acid
+4
+NIF-Molecule source='NIFSTD'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+tail
+7
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+lacks
+8
+characterization grammar='VB|VBZ'
+## EOA ##
+## BOA ##
+targeting
+11
+localization_other att="gen"
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+effect grammar='VBG' type='unknown'
+localization_verbs_082208 source='ccc'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_120107 
+## EOA ##
+## BOA ##
+targeting signal
+11
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+signal
+12
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='no'
+localization_other_120107 
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_other_090507 att="gen"
+localization_experimental_082208 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+contain
+16
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_012607 att="gen"
+localization_verbs att="gen"
+characterization grammar='VB|VBZ'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+## EOA ##
+## BOA ##
+conserved
+18
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+domains
+19
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+compared
+21
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+comparison grammar='VBD|VBN' type='unknown'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+against
+22
+spatial_relation grammar='NN|NNP|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='close'
+## EOA ##
+## BOA ##
+profile
+25
+characterization grammar='NN|NNS|VB|VBZ'
+## EOA ##
+### EOS ###
+### s92 ###
+## BOA ##
+protein
+5
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+may
+6
+modality grammar='VBP|MD'
+## EOA ##
+## BOA ##
+similar
+8
+comparison grammar='JJ|JJR' type='similar'
+## EOA ##
+## BOA ##
+function
+10
+purpose grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+an
+12
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+subcellular
+14
+localization_experimental_050808 source='ccc'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+localization_experimental_082208 source='ccc'
+localization_other_120107 
+localization_experimental_022008 source='CCC'
+## EOA ##
+## BOA ##
+localization
+15
+localization_other att="gen"
+localization_experimental_022008 source='CCC'
+ccc att='gen'
+localization_experimental_082208 source='ccc'
+localization_other_090507 att="gen"
+GO-0008150-0051179.localization.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization grammar='NN|NNS' type='spatial'
+localization_GO source='go'
+localization_other_120107 
+## EOA ##
+## BOA ##
+antibodies
+24
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_other_120107 
+GO-0005575-0044421.extraccellular_region_part.2010-07-22 source='GO-v1.934'
+binding source='go'
+localization_other att="gen"
+GO-0005575-0032991.macromolecular_complex.2010-07-22 source='GO-v1.934'
+localization_experimental_022008 source='CCC'
+ccc att='gen'
+localization_experimental_082208 source='ccc'
+## EOA ##
+## BOA ##
+raised
+26
+ccc att='gen'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='positive'
+## EOA ##
+### EOS ###
+### s93 ###
+## BOA ##
+results
+4
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+## EOA ##
+## BOA ##
+suggest
+5
+modality grammar='VBZ'
+## EOA ##
+## BOA ##
+Mcoln1
+10
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+mice
+12
+organism grammar='NNS|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+may
+13
+modality grammar='VBP|MD'
+## EOA ##
+## BOA ##
+data
+24
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+mouse
+26
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+gene
+27
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+gene expression
+27
+GO-0008150-0008152.metabolic_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+expression
+28
+localization_other_120107 
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+localization_other_090507 att="gen"
+localization_other_012607 att="gen"
+localization_experimental_050808 source='ccc'
+localization_experimental_022008 source='CCC'
+localization_experimental_082208 source='ccc'
+localization_other att="gen"
+## EOA ##
+## BOA ##
+phenotype
+30
+phenotype reference='indirect' source='textpresso'
+## EOA ##
+### EOS ###
+### s94 ###
+## BOA ##
+second
+4
+localization grammar='NN|NNP|VB|VBZ|JJ' type='general'
+## EOA ##
+## BOA ##
+Mcoln1
+5
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+seen
+9
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+localization_verbs_050808 source='ccc'
+localization_verbs att="gen"
+localization_verbs_012607 att="gen"
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+## EOA ##
+## BOA ##
+humans
+11
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+sequence
+14
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+alternatively spliced
+17
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+18
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+region
+19
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+conserved
+22
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+between
+23
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+man
+24
+## EOA ##
+## BOA ##
+mouse
+26
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+### EOS ###
+### s95 ###
+## BOA ##
+To
+1
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+date
+2
+## EOA ##
+## BOA ##
+few
+5
+descriptor grammar='JJ|JJR|NNS|NNPS|PP'
+## EOA ##
+## BOA ##
+genes
+6
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+reported
+9
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+show
+11
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+specific
+13
+localization_experimental_050808 source='ccc'
+mf_int_assay_2009-11-25 source='ccc'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+## EOA ##
+## BOA ##
+splice
+15
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variants
+16
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+### EOS ###
+### s96 ###
+## BOA ##
+MOG
+1
+brainarea grammar='NNP' reference='direct'
+## EOA ##
+## BOA ##
+glycoprotein
+6
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+NIF-Molecule source='NIFSTD'
+## EOA ##
+## BOA ##
+has
+8
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+many
+9
+descriptor grammar='JJ|JJR|NNS|NNPS|PP'
+## EOA ##
+## BOA ##
+different
+10
+comparison grammar='JJ|JJR|RB|RBR|RBS' type='different'
+## EOA ##
+## BOA ##
+splice
+11
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variants
+12
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+humans
+14
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+found
+18
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_012607 att="gen"
+localization_verbs att="gen"
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+mice
+20
+organism grammar='NNS|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s97 ###
+## BOA ##
+a
+3
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+ATPase
+5
+## EOA ##
+## BOA ##
+has
+7
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+a
+8
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+splice
+10
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variant
+11
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+deletes
+13
+sequence source='so'
+## EOA ##
+## BOA ##
+a
+14
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transmembrane
+15
+localization_cell_components_120107 
+localization_cell_components_012607 att="gen"
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+## EOA ##
+## BOA ##
+domain
+16
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+alters
+20
+effect grammar='VB|VBZ' type='unknown'
+## EOA ##
+## BOA ##
+function
+23
+purpose grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+protein
+26
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+### EOS ###
+### s98 ###
+## BOA ##
+Sequencing
+1
+method grammar='VBG'
+## EOA ##
+## BOA ##
+human
+4
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+genome
+5
+SO-0001260-0001026.genome.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+has
+6
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+to
+8
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+genes
+15
+sequence source='so'
+gene grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+a
+17
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+significantly
+23
+ccc att='gen'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+higher
+24
+localization grammar='JJR' type='general'
+## EOA ##
+## BOA ##
+number of
+31
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+expressed
+33
+localization_verbs_012607 att="gen"
+localization_verbs att="gen"
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='expression'
+localization_verbs_082208 source='ccc'
+localization_verbs_090507 att="gen"
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+expressed sequence tags
+33
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+sequence
+34
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+tags
+35
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+ESTs
+37
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+## EOA ##
+### EOS ###
+### s99 ###
+## BOA ##
+a
+5
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+major
+6
+ccc att='gen'
+## EOA ##
+## BOA ##
+for
+8
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+splicing
+10
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+creating
+12
+effect grammar='VBG' type='positive'
+## EOA ##
+## BOA ##
+complexity
+14
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+has
+17
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+splicing
+22
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+regulation
+23
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='unknown'
+biological_regulation source='go'
+## EOA ##
+## BOA ##
+to
+24
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+### EOS ###
+### s100 ###
+## BOA ##
+an
+5
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+splice
+9
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+variants
+10
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+will
+11
+modality grammar='VBP|MD'
+## EOA ##
+## BOA ##
+identified
+13
+localization_verbs_022008 source='CCC'
+localization_verbs_120107 
+mf_int_verbs_2009-11-25 source='ccc'
+ccc att='gen'
+localization_verbs_082208 source='ccc'
+localization_verbs_050808 source='ccc'
+## EOA ##
+## BOA ##
+characterization
+16
+characterization grammar='NN|NNS'
+## EOA ##
+## BOA ##
+alternatively spliced
+18
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+alternatively spliced transcripts
+18
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+19
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+transcripts
+20
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+progresses
+21
+effect grammar='VB|VBZ' type='unknown'
+## EOA ##
+### EOS ###
+### s101 ###
+## BOA ##
+methods
+3
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+Bioinformatics
+4
+method grammar='NN|NNS|JJ'
+## EOA ##
+## BOA ##
+conducted
+6
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+using
+9
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+Human
+13
+organism grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Genome
+14
+SO-0001260-0001026.genome.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s102 ###
+## BOA ##
+Sequences
+1
+SO.parent.2010-07-22 
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+## EOA ##
+## BOA ##
+used
+5
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+to
+6
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+Mcoln1
+9
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+sequence
+10
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+SO.parent.2010-07-22 
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s103 ###
+## BOA ##
+performed
+2
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+motif
+3
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='protein'
+## EOA ##
+## BOA ##
+using
+5
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+alignment
+10
+comparison grammar='NN|NNS' type='unknown'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+protein
+12
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+localization_experimental_022008 source='CCC'
+localization_other att="gen"
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+localization_other_120107 
+mf_int_assay_2009-11-25 source='ccc'
+sequence source='so'
+localization_experimental_050808 source='ccc'
+NIF-Molecule source='NIFSTD'
+GO-0003674-0003824.catalytic_activity.2010-07-22 source='GO-v1.934'
+localization_other_012607 att="gen"
+localization_other_090507 att="gen"
+molecular_function grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' reference='direct' source='textpresso' protein='yes'
+## EOA ##
+## BOA ##
+sequences
+13
+SO.parent.2010-07-22 
+sequence source='so'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='other'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+using
+14
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+### EOS ###
+### s104 ###
+## BOA ##
+DNA
+1
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+Sequencing
+2
+method grammar='VBG'
+## EOA ##
+## BOA ##
+I
+3
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s105 ###
+## BOA ##
+M
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+anatomy_celegans reference='direct' source='wormbase'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+### EOS ###
+### s106 ###
+## BOA ##
+A
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+### EOS ###
+### s107 ###
+## BOA ##
+G
+1
+gene_ncrassa grammar='NN|NNP' reference='direct'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+### EOS ###
+### s108 ###
+## BOA ##
+E
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+anatomy_celegans reference='direct' source='wormbase'
+## EOA ##
+## BOA ##
+Clones
+3
+sequence source='so'
+clone grammar='NN|NNS' reference='indirect'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+AL
+12
+## EOA ##
+### EOS ###
+### s109 ###
+## BOA ##
+Sequencing
+1
+method grammar='VBG'
+## EOA ##
+## BOA ##
+performed
+3
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+using
+4
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+sequencing
+7
+method grammar='VBG'
+## EOA ##
+## BOA ##
+kit
+8
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+Biosystems
+11
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+a
+19
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+DNA
+23
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+sequencer
+24
+method grammar='NN|NNS'
+## EOA ##
+### EOS ###
+### s110 ###
+## BOA ##
+Reaction
+2
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+mouse
+6
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+brain
+7
+anatomy_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+RNA
+9
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='RNA'
+sequence source='so'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+made
+22
+mf_int_verbs_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+to
+23
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+a
+24
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+concentration
+29
+localization_experimental_050808 source='ccc'
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+localization_experimental_082208 source='ccc'
+ccc att='gen'
+## EOA ##
+### EOS ###
+### s111 ###
+## BOA ##
+RNA
+2
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='RNA'
+sequence source='so'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+used
+4
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+a
+6
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+template
+7
+GO-0003674-0005488.binding.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+to
+8
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+create
+9
+effect grammar='VB|VBZ' type='positive'
+## EOA ##
+## BOA ##
+cDNA
+10
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+clone grammar='NN|NNS' reference='indirect'
+sequence source='so'
+## EOA ##
+## BOA ##
+using
+13
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+oligo
+17
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+dT
+18
+## EOA ##
+## BOA ##
+primer
+19
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='NN|NNS'
+## EOA ##
+### EOS ###
+### s112 ###
+## BOA ##
+used
+5
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+to
+6
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+alternatively spliced
+9
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+spliced
+10
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='molecular' biosynthesis='tlation'
+## EOA ##
+## BOA ##
+form
+11
+purpose grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+using
+12
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+primers
+13
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+forward
+20
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+reverse
+28
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+a
+31
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+PCR
+32
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+reaction
+33
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+an
+35
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+temperature
+37
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+Southern
+41
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+Blot
+42
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+Analysis
+43
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+mouse
+45
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+genomic DNA
+46
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+DNA
+47
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+digested
+49
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='organismal' biosynthesis='no'
+## EOA ##
+## BOA ##
+using
+50
+mf_int_verbs_2009-11-25 source='ccc'
+purpose grammar='VBG'
+## EOA ##
+## BOA ##
+EcoRI
+51
+restriction_enzyme grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+BamHI
+53
+restriction_enzyme grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+PstI
+55
+restriction_enzyme grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+XbaI
+58
+restriction_enzyme grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+### EOS ###
+### s113 ###
+## BOA ##
+digests
+2
+biological_process grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' source='textpresso' type='organismal' biosynthesis='no'
+## EOA ##
+## BOA ##
+electrophoresed
+4
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+a
+6
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+gel
+10
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+at
+11
+spatial_relation grammar='NN|NNS|IN' type='unknown'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+transferred
+16
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+a
+18
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+N
+20
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+membrane
+22
+localization_cell_components_090507 att="gen"
+cell_part source='go'
+localization_cell_components_022008 source='CCC'
+localization_cell_components_082208 source='ccc'
+GO-0005575-0044464.cell_part.2010-07-22 source='GO-v1.934'
+ccc att='gen'
+localization_cell_components_120107 
+CCC_TAIR source='CCC_TAIR'
+localization_cell_components_050808 source='ccc'
+## EOA ##
+### EOS ###
+### s114 ###
+## BOA ##
+A
+1
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+labeled
+3
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_012607 att="gen"
+method grammar='VBD|VBN'
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+PCR
+4
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+fragment
+5
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+8
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+region
+10
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+corresponding
+11
+ccc att='gen'
+consort grammar='VBG' type='unknown'
+## EOA ##
+## BOA ##
+to
+12
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+exon
+13
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+used
+16
+purpose grammar='VBD|VBN'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_022008 source='CCC'
+localization_verbs_050808 source='ccc'
+localization_verbs_082208 source='ccc'
+## EOA ##
+## BOA ##
+a
+18
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+19
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+primers
+21
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+forward
+27
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+reverse
+35
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+an
+38
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+temperature
+40
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+### EOS ###
+### s115 ###
+## BOA ##
+Hybridization
+1
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+out
+6
+spatial_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+conditions
+9
+disease grammar='NN|NNS' reference='indirect'
+## EOA ##
+### EOS ###
+### s116 ###
+## BOA ##
+Northern
+1
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+Blot
+2
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+Analysis
+3
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mouse
+4
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+embryo
+5
+GO-0008150-0032502.developmental_process.2010-07-22 source='GO-v1.934'
+developmental_stage_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+life_stages_celegans grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+northern
+7
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+blot
+8
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+mouse
+10
+organism grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+adult
+11
+life_stages_celegans grammar='NN|NNS|NNP|NNPS' reference='direct'
+developmental_stage_dmelanogaster grammar='NN|NNS|NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+northern
+13
+method grammar='JJ|JJR'
+## EOA ##
+## BOA ##
+blot
+14
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+filters
+15
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+### EOS ###
+### s117 ###
+## BOA ##
+filters
+2
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+hybridized
+4
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+labeled
+8
+localization_verbs_090507 att="gen"
+localization_verbs_082208 source='ccc'
+mf_int_verbs_2009-11-25 source='ccc'
+localization_verbs_012607 att="gen"
+method grammar='VBD|VBN'
+localization_verbs_050808 source='ccc'
+localization_verbs_120107 
+localization_verbs_022008 source='CCC'
+## EOA ##
+## BOA ##
+DNA
+9
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000400-0000443.polymer_attribute.2010-07-22 source='SO-v1.180'
+nucleic_acid grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+fragment
+10
+sequence source='so'
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+Mcoln1
+12
+gene_hsapiens grammar='NNP|NNPS' reference='direct'
+## EOA ##
+## BOA ##
+region
+14
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+corresponding
+15
+ccc att='gen'
+consort grammar='VBG' type='unknown'
+## EOA ##
+## BOA ##
+to
+16
+GO-0008150-0065007.biological_regulation.2010-07-22 source='GO-v1.934'
+GO-0008150-0009987.cellular_process.2010-07-22 source='GO-v1.934'
+## EOA ##
+## BOA ##
+exon
+17
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+sequence source='so'
+## EOA ##
+## BOA ##
+above
+21
+spatial_relation grammar='NN|NNP|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='unknown'
+## EOA ##
+### EOS ###
+### s118 ###
+## BOA ##
+transcript
+4
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+a
+6
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+probe
+7
+mf_int_assay_2009-11-25 source='ccc'
+method grammar='VB|VBZ'
+sequence source='so'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+## EOA ##
+## BOA ##
+generated
+9
+effect grammar='VBD|VBN' type='positive'
+## EOA ##
+## BOA ##
+region
+12
+localization grammar='VB|VBZ' type='spatial'
+mf_int_assay_2009-11-25 source='ccc'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+between
+13
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+exons
+14
+entity_feature grammar='NN|NNS|NNP|NNPS' reference='direct' type='DNA'
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+## EOA ##
+## BOA ##
+primers
+19
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+sequence source='so'
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+forward
+25
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+time_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+reverse
+33
+SO-0000400-0000733.feature_attribute.2010-07-22 source='SO-v1.180'
+regulation grammar='NN|NNS|JJ|JJR|VB|VBD|VBG|VBN|VBZ' type='negative'
+## EOA ##
+## BOA ##
+an
+36
+gene_ncrassa grammar='NN|NNP' reference='direct'
+## EOA ##
+## BOA ##
+temperature
+38
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+## EOA ##
+## BOA ##
+filters
+43
+method grammar='NN|NNS|VB|VBZ'
+## EOA ##
+## BOA ##
+hybridized
+46
+method grammar='VBD|VBN'
+## EOA ##
+## BOA ##
+probes
+49
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+### EOS ###
+### s119 ###
+## BOA ##
+Hybridizations
+1
+method grammar='NN|NNS'
+## EOA ##
+## BOA ##
+out
+6
+spatial_relation grammar='NN|NNP|JJ|JJR|IN|RBR|RB' type='unknown'
+## EOA ##
+## BOA ##
+conditions
+9
+disease grammar='NN|NNS' reference='indirect'
+## EOA ##
+## BOA ##
+previously
+15
+localization grammar='RB|RBR' type='temporal'
+## EOA ##
+## BOA ##
+bound
+16
+mf_int_verbs_2009-11-25 source='ccc'
+association grammar='VBD|VBN'
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+## BOA ##
+probes
+17
+SO-0000110-0000001.region.2010-07-22 source='SO-v1.180'
+method grammar='VB|VBZ'
+sequence source='so'
+## EOA ##
+## BOA ##
+between
+19
+mf_int_assay_2009-11-25 source='ccc'
+## EOA ##
+### EOS ###
+### s120 ###
+### EOS ###
+### s121 ###
+## BOA ##
+
+1
+reporter_gene_celegans 
+## EOA ##
+## BOA ##
+work
+3
+PATO-0000001-0001241.physical_object_quality.2010-07-22 source='PATO-v1.223'
+effect grammar='NN|NNS|VB|VBZ' type='unknown'
+## EOA ##
+### EOS ###
