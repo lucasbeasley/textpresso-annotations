@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+
 /**
  * Lucas Beasley
  * 08/01/17
@@ -18,34 +19,20 @@ class Main{
         private int secWordNum = 0;         //used to check if referring to the same word in paper
 
         //getters/setters
-        public void setTerm(String term){
-            this.term = term;
-        }
-        public void setID(String id){
-            this.id = id;
-        }
-        public void setRef(String ref){
-            this.ref = ref;
-        }
-        public void setStartIndex(String start){ this.startIndex = start; }
-        public void setEndIndex(String end){ this.endIndex = end; }
-        public void setAnnoCount(int ac){
-            this.annoCount = ac;
-        }
-        public void setSecWordNum(int secWordNum){ this.secWordNum = secWordNum; }
-        public String getTerm(){
-            return this.term;
-        }
-        public String getID(){
-            return this.id;
-        }
-        public String getRef(){
-            return this.ref;
-        }
-        public String getStartIndex(){ return this.startIndex; }
-        public String getEndIndex(){ return this.endIndex; }
-        public int getAnnoCount(){ return this.annoCount; }
-        public int getSecWordNum(){ return this.secWordNum; }
+        public void setTerm(String term){ this.term = term; }
+        public void setID(String id){ this.id = id; }
+        private void setRef(String ref){ this.ref = ref; }
+        private void setStartIndex(String start){ this.startIndex = start; }
+        private void setEndIndex(String end){ this.endIndex = end; }
+        private void setAnnoCount(int ac){ this.annoCount = ac; }
+        private void setSecWordNum(int secWordNum){ this.secWordNum = secWordNum; }
+        public String getTerm(){ return this.term; }
+        public String getID(){ return this.id; }
+        private String getRef(){ return this.ref; }
+        private String getStartIndex(){ return this.startIndex; }
+        private String getEndIndex(){ return this.endIndex; }
+        private int getAnnoCount(){ return this.annoCount; }
+        private int getSecWordNum(){ return this.secWordNum; }
     }
 
 
@@ -123,11 +110,9 @@ class Main{
      */
     private static Map<String, List<Annotation>> getIndexes(Map<String, List<Annotation>> annos, File directory){
         List<Annotation> tempList;
-        String text, annoterm, filen, lastannoterm;
+        String text, annoterm, filen, lastannoterm, termbeforelastannoterm;
         int lastindex, termlength, tempstartindex, tempendindex,
                 lastcount, annocount, secwordnum, lastsecwordnum;
-        boolean flag = false; //***remove*** trouble-shooting
-        List<String> badfiles = new ArrayList<>(); //***remove*** trouble-shooting
 
         for(File inputFile : directory.listFiles()){
             filen = inputFile.toString();
@@ -136,7 +121,7 @@ class Main{
                 //pull in list of annotations
                 tempList = annos.get(filen);
                 //reset values
-                text = "";
+                termbeforelastannoterm = "";
                 lastannoterm = "";
                 tempstartindex = 0;
                 tempendindex = 0;
@@ -145,9 +130,11 @@ class Main{
                 try{
                     //load text file
                     Scanner scan = new Scanner(inputFile);
+                    StringBuilder stringBuilder = new StringBuilder(scan.nextLine());
                     while(scan.hasNextLine()){
-                        text += scan.nextLine() + " ";
+                        stringBuilder.append(scan.nextLine());
                     }
+                    text = stringBuilder.toString();
                     //search for indexes and assign to annotations
                     for(Annotation temp : tempList){
                         annoterm = temp.getTerm();
@@ -155,18 +142,19 @@ class Main{
                         secwordnum = temp.getSecWordNum();
 
                         //***possible revision needed*** Textpresso outputs terms that do not exist literally in document
-                        //(outputs references)
-                        if(annoterm.equals("poly _ORB_ A")){
-                            annoterm = "poly";
-                        }
-                        else if(annoterm.equals("ATP-binding cassette _ORB_ ABC")){
-                            annoterm = "ATP-binding cassette";
+                        //(outputs other terms similar/referring to document terms)
+                        switch(annoterm){
+                            case "poly _ORB_ A":
+                                annoterm = "poly";
+                                break;
+                            case "ATP-binding cassette _ORB_ ABC":
+                                annoterm = "ATP-binding cassette";
+                                break;
+                            case "A-specific":
+                                annoterm = "Aβ-specific";
+                                break;
                         }
 
-                        //***remove*** trouble-shooting
-                        if(filen.equals("15207008.txt") && annoterm.equals("centrosome")){
-                            boolean bool = true;
-                        }
                         //check if part of the same Textpresso annotation
                         if(annoterm.equals(lastannoterm) && annocount == lastcount){
                             temp.setStartIndex(Integer.toString(tempstartindex));
@@ -177,23 +165,24 @@ class Main{
                             temp.setStartIndex(Integer.toString(tempstartindex));
 
                             termlength = annoterm.length();
-                            tempendindex = text.indexOf(" ", tempstartindex+termlength);
+
+                            tempendindex = tempstartindex+termlength;
                             temp.setEndIndex(Integer.toString(tempendindex));
 
+                            termbeforelastannoterm = lastannoterm;
                             lastannoterm = annoterm;
                         }
-                        //check if current term was part of the last term
-                        else if(lastannoterm.contains(annoterm) && (secwordnum-1 == lastsecwordnum ||
-                        secwordnum-2 == lastsecwordnum)){
+                        //check if current term was part of the last two terms
+                        else if((lastannoterm.contains(annoterm) || termbeforelastannoterm.contains(annoterm)) && (secwordnum-1 == lastsecwordnum ||
+                                secwordnum-2 == lastsecwordnum || secwordnum-3 == lastsecwordnum)){
                             tempstartindex = text.indexOf(annoterm, tempstartindex);
-                            //***remove*** trouble-shooting
-                            if(tempstartindex == -1){
-                                flag = true;
-                            }
                             temp.setStartIndex(Integer.toString(tempstartindex));
 
-                            temp.setEndIndex(Integer.toString(tempendindex));
+                            termlength = annoterm.length();
 
+                            temp.setEndIndex(Integer.toString(tempstartindex+termlength));
+
+                            termbeforelastannoterm = lastannoterm;
                             lastannoterm = annoterm;
                             lastsecwordnum = secwordnum;
                         }
@@ -203,25 +192,15 @@ class Main{
                             termlength = annoterm.length();
 
                             tempstartindex = text.indexOf(annoterm, lastindex);
-                            //***remove*** trouble-shooting
-                            if(tempstartindex == -1){
-                                flag = true;
-                            }
                             temp.setStartIndex(Integer.toString(tempstartindex));
 
-                            tempendindex = text.indexOf(" ", tempstartindex+termlength);
+                            tempendindex = tempstartindex+termlength;
                             temp.setEndIndex(Integer.toString(tempendindex));
 
+                            termbeforelastannoterm = lastannoterm;
                             lastannoterm = annoterm;
                             lastcount = annocount;
                             lastsecwordnum = secwordnum;
-                        }
-                        //***remove*** trouble-shooting
-                        if(flag){
-                            flag = false;
-                            if(!badfiles.contains(inputFile.toString())){
-                                badfiles.add(inputFile.toString());
-                            }
                         }
                     }
                     annos.replace(filen, tempList);
@@ -230,10 +209,6 @@ class Main{
                     System.out.println("Error: File not found.");
                 }
             }
-        }
-        //***remove*** trouble-shooting
-        for(String file: badfiles){
-            System.out.println(file);
         }
         return annos;
     }
@@ -274,7 +249,7 @@ class Main{
 
     public static void main(String[] args) {
         //name of directory that contains Textpresso output (annotations)
-        File directory = new File("TextpressoOutput");
+        File directory = new File("Output/TextpressoOutput");
 
         //map containing filenames and a list of the annotations within them
         Map<String, List<Annotation>> GOannotations = pullAnnos(directory);
@@ -286,12 +261,9 @@ class Main{
         GOannotations = getIndexes(GOannotations, directory);
 
         //name of directory for .tsv output
-        directory = new File("GO");
+        directory = new File("Output/GO");
 
         //print out tsv for each file
         writeOut(GOannotations, directory);
-
-        //***ISSUE*** Some starting indexes are set to -1
-        //Symbols in middle can cause index to not be found, may need to switch to Pattern/Matcher and StringBuilder
     }
 }
