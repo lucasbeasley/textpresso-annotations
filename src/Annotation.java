@@ -127,14 +127,13 @@ class Main{
                 tempendindex = 0;
                 lastcount = 0;
                 lastsecwordnum = -2;
+                text = "";
                 try{
                     //load text file
                     Scanner scan = new Scanner(inputFile);
-                    StringBuilder stringBuilder = new StringBuilder(scan.nextLine());
                     while(scan.hasNextLine()){
-                        stringBuilder.append(scan.nextLine());
+                        text += scan.nextLine() + "\n";
                     }
-                    text = stringBuilder.toString();
                     //search for indexes and assign to annotations
                     for(Annotation temp : tempList){
                         annoterm = temp.getTerm();
@@ -261,7 +260,7 @@ class Main{
         GOannotations = getIndexes(GOannotations, directory);
 
         //name of directory for .tsv output
-        directory = new File("Output/GO");
+        directory = new File("Output/GO_2");
 
         //print out tsv for each file
         writeOut(GOannotations, directory);
